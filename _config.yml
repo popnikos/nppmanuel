@@ -20,6 +20,7 @@ sass:
     style: compressed
 
 plugins:
+  - jekyll-relative-links
   - jekyll-sitemap
 
 # plugins config
