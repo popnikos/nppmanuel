@@ -19,6 +19,6 @@ L'Éditeur de Colonne permet d'insérer du texte verticalement.
 
 Il s'ouvre avec `Alt-c`.
 
-![L'Éditeur de Colonne](/assets/img/notepadpp_editeurcolonnes.png)
+![L'Éditeur de Colonne](/images/notepadpp_editeurcolonnes.png)
 
 Il permet de traiter des données organisées en colones, ou [(insérer-des-numéros-de-lignes.md)](insérer-des-numéros-de-lignes.md)) ou [Insérer du texte en début ou milieu de ligne]((insérer-du-texte-en-début-ou-milieu-de-ligne.md).

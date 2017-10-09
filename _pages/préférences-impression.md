@@ -7,7 +7,7 @@ order: 9
 
 [Préférences](préférences.md) de mise en page et de contenu pour l'impression de document depuis [Notepad++](notepad++.md).
 
-![Interface](/assets/img/preferences/09_print.png)
+![Interface](/images/preferences/09_print.png)
 
 - *Imprimer les numéros de lignes* : imprimer ou non les numéros de lignes.
 

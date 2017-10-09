@@ -7,7 +7,7 @@ order: 11
 
 [Préférences](préférences.md) de complétion automatique de [Notepad++](notepad++.md). Que cette option soit activée ou non, il est possible d'appeler l'auto-complétion de fonction ou de mot lors de l'édition au moyen de [raccourcis clavier](raccourcis-clavier.md).
 
-![Interface](/assets/img/preferences/11_completion.png)
+![Interface](/images/preferences/11_completion.png)
 
 *Activer la complétion automatique* :
 
@@ -15,12 +15,12 @@ order: 11
 
 *Complétion de fonction* : propose les fonctions connues du langage utilisé.
 
-![Exemple de complétion automatique selon les fonctions connues](/assets/img/notepadpp_autocompletion_fonction.png)
+![Exemple de complétion automatique selon les fonctions connues](/images/notepadpp_autocompletion_fonction.png)
 
 *Complétion de mot* : propose les mots existant dans le fichier.
 
-![Exemple de complétion automatique selon les mots existants](/assets/img/notepadpp_autocompletion_mot.png)
+![Exemple de complétion automatique selon les mots existants](/images/notepadpp_autocompletion_mot.png)
 
 *Paramètres affichés durant la saisie* : lors de l'appel d'une fonction connue, indique sa définition (ne fonctionne que pour certains langages).
 
-![Exemple d'affichage automatique des paramètres d'une fonction php](/assets/img/notepadpp_autocompletion_parametres.png)
+![Exemple d'affichage automatique des paramètres d'une fonction php](/images/notepadpp_autocompletion_parametres.png)

@@ -7,7 +7,7 @@ order: 10
 
 [Préférences](préférences.md) de sauvegarde de versions antérieures des fichiers par [Notepad++](notepad++.md). Pour un enregistrement automatique, voir [[Auto Save]].
 
-![Interface](/assets/img/preferences/10_save.png)
+![Interface](/images/preferences/10_save.png)
 
 Type de sauvegarde :
 

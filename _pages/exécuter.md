@@ -5,7 +5,7 @@ layout: default
 
 La touche `F5` ouvre la fenêtre *Exécuter* :
 
-![Fenêtre exécuter.](/assets/img/notepadpp_executer.png)
+![Fenêtre exécuter.](/images/notepadpp_executer.png)
 
 *Enregistrer...* permet d'assigner l'exécution de programmes à des [raccourcis clavier](raccourcis-clavier.md).
 

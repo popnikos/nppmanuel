@@ -23,24 +23,24 @@ L'interface comprend un panneau principal et un panneau d'affichage des messages
 
 ### Panneau principal
 
-![Panneau principal de NppFTP](/assets/img/plugins/nppftp/panel_ftp.png)
+![Panneau principal de NppFTP](/images/plugins/nppftp/panel_ftp.png)
 
 Il peut être affiché :
 
 - Par le menu *Compléments -> NppFTP -> Show NppFTP Window*,
-- Par l'icône ![Icône de NppFTP](/assets/img/plugins/nppftp/icon_nppftp.png) située à droite de la barre d'icônes.
+- Par l'icône ![Icône de NppFTP](/images/plugins/nppftp/icon_nppftp.png) située à droite de la barre d'icônes.
 
 Par défaut ce panneau est présent sur le côté droit de Notepad++. Bien que pouvant être placé n'importe où la structure de son contenu impose une disposition verticale, il vaut donc mieux le placer à droite, à gauche ou le détacher.
 
 La barre de menu, composée d'icônes uniquement, comprend les fonctions suivantes :
 
-- ![Icône de (Dis)Connect](/assets/img/plugins/nppftp/icon_connect.png) `(Dis)Connect` permet de se connecter à l'un des profils de connexion listés ou de se déconnecter du profil actuel.
-- ![Icône de Download file](/assets/img/plugins/nppftp/icon_download.png) `Download file` télécharge et ouvre le fichier distant sélectionné. *Cette option n'est disponible qu'une fois connecté et un fichier distant sélectionné.*
-- ![Icône de Upload file](/assets/img/plugins/nppftp/icon_upload.png) `Upload file` envoie le fichier ouvert dans le dossier distant sélectionné. *Cette option n'est disponible qu'une fois connecté.*
-- ![Icône de Refresh](/assets/img/plugins/nppftp/icon_refresh.png) `Refresh` réactualise le dossier distant sélectionné. *Cette option n'est disponible qu'une fois connecté et un dossier distant sélectionné.*
-- ![Icône de Abort](/assets/img/plugins/nppftp/icon_abort.png) `Abort` annule l'opération en cours. *Cette option n'est disponible que lorsqu'une opération est en cours.*
-- ![Icône de Settings](/assets/img/plugins/nppftp/icon_settings.png) `Settings` : *General settings* ouvre la fenêtre des options générales et *Profile settings* ouvre la fenêtre de gestion des profils de connexion.
-- ![Icône de Show message window](/assets/img/plugins/nppftp/icon_messageswin.png) `Show messages window` affiche ou cache le panneau des messages.
+- ![Icône de (Dis)Connect](/images/plugins/nppftp/icon_connect.png) `(Dis)Connect` permet de se connecter à l'un des profils de connexion listés ou de se déconnecter du profil actuel.
+- ![Icône de Download file](/images/plugins/nppftp/icon_download.png) `Download file` télécharge et ouvre le fichier distant sélectionné. *Cette option n'est disponible qu'une fois connecté et un fichier distant sélectionné.*
+- ![Icône de Upload file](/images/plugins/nppftp/icon_upload.png) `Upload file` envoie le fichier ouvert dans le dossier distant sélectionné. *Cette option n'est disponible qu'une fois connecté.*
+- ![Icône de Refresh](/images/plugins/nppftp/icon_refresh.png) `Refresh` réactualise le dossier distant sélectionné. *Cette option n'est disponible qu'une fois connecté et un dossier distant sélectionné.*
+- ![Icône de Abort](/images/plugins/nppftp/icon_abort.png) `Abort` annule l'opération en cours. *Cette option n'est disponible que lorsqu'une opération est en cours.*
+- ![Icône de Settings](/images/plugins/nppftp/icon_settings.png) `Settings` : *General settings* ouvre la fenêtre des options générales et *Profile settings* ouvre la fenêtre de gestion des profils de connexion.
+- ![Icône de Show message window](/images/plugins/nppftp/icon_messageswin.png) `Show messages window` affiche ou cache le panneau des messages.
 
 La partie supérieure du panneau est l'explorateur de fichiers distants,
 la partie inférieure la file d'attente des opérations.
@@ -64,7 +64,7 @@ Il est possible de télécharger et ouvrir un fichier en double-cliquant dessus.
 
 Par défaut ce panneau nommé "*NppFTP - Output*" est placé en bas de Notepad++.
 
-![Panneau des messages de NppFTP](/assets/img/plugins/nppftp/panel_messages.png)
+![Panneau des messages de NppFTP](/images/plugins/nppftp/panel_messages.png)
 
 Il liste les ordres d'opérations envoyés au serveur et les messages renvoyés par ce dernier. Mis à part pour chercher des informations sur les causes d'erreurs de connexion ou par curiosité il n'est pas nécessaire de l'afficher.
 
@@ -80,7 +80,7 @@ Les fichiers en cache sont synchronisés avec leur version distante par le biais
 
 Cette fenêtre contient les options du comportement général du plugin.
 
-![Fenêtre d'options générales de NppFTP](/assets/img/plugins/nppftp/win_settings.png)
+![Fenêtre d'options générales de NppFTP](/images/plugins/nppftp/win_settings.png)
 
 #### Global cache
 
@@ -114,7 +114,7 @@ Cette fenêtre permet de créer et de paramétrer des profils de connexion, déc
 
 Elle est composée de deux partie : la partie de gauche permet de gérer les profils quand la partie de droite permet de les paramétrer.
 
-![Fenêtre de gestion des profils de connexion de NppFTP](/assets/img/plugins/nppftp/win_profiles.png)
+![Fenêtre de gestion des profils de connexion de NppFTP](/images/plugins/nppftp/win_profiles.png)
 
 ### Gestion des profils
 
@@ -126,7 +126,7 @@ Les boutons situés en bas permettent d'ajouter un nouveau profil et de renommer
 
 Ces paramètres doivent nécessairement être renseignés - au minimum `Hostname`, `Username` et `Password` - pour mettre en place une connexion. Vous les trouverez généralement dans les informations fournies par votre hébergeur.
 
-![Paramètres de connection de NppFTP](/assets/img/plugins/nppftp/win_profiles_connection.png)
+![Paramètres de connection de NppFTP](/images/plugins/nppftp/win_profiles_connection.png)
 
 ####
 
@@ -206,7 +206,7 @@ Si coché le client FTP tentera de s'authentifier via la méthode `[keyboard-int
 
 ### Transfers
 
-![Paramètres de transferts de NppFTP](/assets/img/plugins/nppftp/win_profiles_transfers.png)
+![Paramètres de transferts de NppFTP](/images/plugins/nppftp/win_profiles_transfers.png)
 
 ### FTP Misc.
 
@@ -214,7 +214,7 @@ Le paramètre `LIST parameters` permet de renseigner les paramètres de la [comm
 
 - `-al` inclus les fichiers cachés.
 
-![Paramètres des commandes FTP de NppFTP](/assets/img/plugins/nppftp/win_profiles_misc.png)
+![Paramètres des commandes FTP de NppFTP](/images/plugins/nppftp/win_profiles_misc.png)
 
 ### Cache
 
@@ -222,7 +222,7 @@ Cet onglet permet de définir pour chaque profil de connexion des lieux spécifi
 
 Si un fichier se trouve en dehors des chemins distants définis ici, il sera stocké à l'adresse définie dans les options générales.
 
-![Paramètres de cache de NppFTP](/assets/img/plugins/nppftp/win_profiles_cache.png)
+![Paramètres de cache de NppFTP](/images/plugins/nppftp/win_profiles_cache.png)
 
 #### Profile cache maps
 

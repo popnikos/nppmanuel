@@ -14,13 +14,13 @@ Page du développeur : <http://jenslorenz.users.sourceforge.net>
 
 ## Utilisation
 
-![Panneau de FonctionList](/assets/img/notepadpp_functionlist_panel.png)
+![Panneau de FonctionList](/images/notepadpp_functionlist_panel.png)
 
 FonctionList est accessible :
 
 - depuis le menu *Compléments -> Function List*,
 - par le raccourci clavier `Ctrl-Alt-Shift-L` (par défaut),
-- par son icône située en fin de la barre d'outils : ![Icône FonctionList](/assets/img/notepadpp_functionlist_button.png)
+- par son icône située en fin de la barre d'outils : ![Icône FonctionList](/images/notepadpp_functionlist_button.png)
 
 Il suffit de double-cliquer sur un nom de fonction pour y être ammené.
 
@@ -48,7 +48,7 @@ La création de règles vous demandera une connaissance de base des [expressions
 
 Pour rajouter la prise en compte des classes en Python, il suffit par exemple de créer un nouveau groupe similaire au groupe FUNCTIONS, en remplaçant le mot **def** dans *Function Begin* par **class**.
 
-![Création d'une règle pour les classes Python dans la fenêtre *Language Parsing Rules*](/assets/img/notepadpp_functionlist_rulesl.png)
+![Création d'une règle pour les classes Python dans la fenêtre *Language Parsing Rules*](/images/notepadpp_functionlist_rulesl.png)
 
 Cette configuration est toute fois très limitée, les fonctions de premier niveau et les méthodes de classes étant mêlées. Pour une configuration plus complète du langage python, vous pouvez remplacer le nœud en question dans le fichier de configuration par celui-ci :
 

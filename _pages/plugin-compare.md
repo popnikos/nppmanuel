@@ -25,4 +25,4 @@ Il peut principalement comparer deux fichiers ouverts (`Alt-D`, l'onglet sélect
 
 Il affiche alors les deux documents côtes à côtes, les synchronise horizontalement et verticalement, affiche un panneau de navigation permettant une vision d'ensemble et indique, par le biais de codes couleurs et puces les éléments ajoutés, supprimés ou modifiés :
 
-![Comparaison de deux versions d'un programme](/assets/img/notepadpp_compare.png)
+![Comparaison de deux versions d'un programme](/images/notepadpp_compare.png)

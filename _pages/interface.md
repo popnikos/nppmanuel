@@ -25,15 +25,15 @@ La barre d'outils est la barre supérieure composée d'icônes, raccourcis vers 
 
 Il s'agit évidemment de la zone centrale du logiciel. La partie [Zone d'édition](préférences-zone-d'édition.md) des [préférences](préférences.md) lui est dédié afin de personnaliser certains détails et ses fonctionnalités.
 
-![La zone d'édition](/assets/img/npp_zone_edition.png)
+![La zone d'édition](/images/npp_zone_edition.png)
 
 La zone d'édition peut être scindées en deux vues distinctes, à la manière d'un split-screen vertical, chaque partie pouvant acceuillir des documents différents ou le clone d'un document. Un document cloné dans une autre vue pourra être observé et édité de deux endroits en même temps.
 
 *Affichage* -> *Déplacer/cloner le document actuel*
 
-![Deux documents dans deux vues](/assets/img/npp_vues.png)
+![Deux documents dans deux vues](/images/npp_vues.png)
 
-![Un document cloné](/assets/img/npp_vues_clone.png)
+![Un document cloné](/images/npp_vues_clone.png)
 
 La séparation entre les deux vues peut être déplacée avec la souris pour laisser plus d'espace à l'une ou l'autre.
 
@@ -44,7 +44,7 @@ Lorsqu'un délimiteur du langage est sélectionné, comme un crochet, une parent
 Dans le cas d'une accolade dans un langage de type C une ligne de pointillé rouge indique son niveau d'indentation, et dans le cas d'un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) les balises d'ouverture et de fermeture correspondantes se colorent aussi.
 !
 
-|![Une paire de parenthèses](/assets/img/notepadpp_paireparentheses.png)|![Indication des indentations](/assets/img/notepadpp_paireaccolades.png)|![Indication des balises](/assets/img/notepadpp_pairebalises.png)
+|![Une paire de parenthèses](/images/notepadpp_paireparentheses.png)|![Indication des indentations](/images/notepadpp_paireaccolades.png)|![Indication des balises](/images/notepadpp_pairebalises.png)
 |--|--|--|
 |Parenthèses|Accolades|Balises|
 
@@ -54,12 +54,12 @@ Les onglets peuvent être glissés-déposés au sein de la barre d'onglets pour 
 
 Une partie des [préférences générales](préférences-générales.md) lui est dédiée.
 
-![La barre d'onglets](/assets/img/npp_barre_onglets.png)
+![La barre d'onglets](/images/npp_barre_onglets.png)
 
-![](/assets/img/notepadpp_ongletactif.png)
+![](/images/notepadpp_ongletactif.png)
 Pour une meilleure visibilité, l'onglet actif est par défaut surplombé d'une fine barre orange et les onglets inactifs sont assombris.
 
-![](/assets/img/notepadpp_etatfichier.png)
+![](/images/notepadpp_etatfichier.png)
 L'icône de disquette précédant le nom du fichier sur un onglet indique l'état de sauvegarde du fichier. Si la disquette est bleue les dernières modifications ont été enregistrées, si elle est rouge c'est que le fichier a été modifié depuis la dernière sauvegarde. Cette indication n'est pas une analyse comparative du contenu réel du fichier, mais simplement un rappel basé sur les actions d'édition. Ajouter un espace puis le supprimer indiquera par exemple une disquette rouge, alors que le contenu du fichier est identique.
 
 ### Changer de document
@@ -74,7 +74,7 @@ Le [Commutateur de document](commutateur-de-document.md) est une autre forme d'a
 
 La barre d'état est la barre inférieure contenant des informations sur le document actuel et la sélection. Elle ne peut pas être redimensionnée ou déplacée, et peut être désactivée dans les [préférences générales](préférences-générales.md).
 
-![La barre d'état, là](/assets/img/npp_barre_etat.png)
+![La barre d'état, là](/images/npp_barre_etat.png)
 
 Elle est scindée en plusieurs parties qui indiquent, de la gauche vers la droite :
 
@@ -87,7 +87,7 @@ Elle est scindée en plusieurs parties qui indiquent, de la gauche vers la droit
 
 ### Fichier/language
 
-![Langage utilisé et informations sur le contenu dans la barre d'état.](/assets/img/notepadpp_bottombar1.png)
+![Langage utilisé et informations sur le contenu dans la barre d'état.](/images/notepadpp_bottombar1.png)
 
 Il est possible de définir le type de langage du document en utilisant le menu *Langage* ou en ouvrant/enregistrant un fichier (détection de l'extension).
 
@@ -95,7 +95,7 @@ Le langage par défaut d'un nouveau document est définit dans la partie [Nouvea
 
 ### Formats de saut de ligne, encodage et mode de curseur
 
-![Format des sauts de ligne, encodage du texte et type d'édition dans la barre d'état.](/assets/img/notepadpp_bottombar3.png)
+![Format des sauts de ligne, encodage du texte et type d'édition dans la barre d'état.](/images/notepadpp_bottombar3.png)
 
 Il est possible de changer le type d'encodage du document à la volée en utilisant le menu *Encodage*.
 
@@ -109,4 +109,4 @@ Ces panneaux peuvent-être glissés-déposés via leur barre de titre. En approc
 
 Lorsque deux panneaux sont placés au même endroit une barre d'onglets spécifique permet de choisir celui à afficher.
 
-![Un panneau à gauche, deux à droite et un panneau flottant](/assets/img/npp_panels.png)
+![Un panneau à gauche, deux à droite et un panneau flottant](/images/npp_panels.png)

@@ -7,7 +7,7 @@ order: 7
 
 Ces [Préférences](préférences.md) permettent de réduire le nombre de langages qui s'affichent dans le menu déroulant de [Notepad++](notepad++.md).
 
-![Interface](/assets/img/preferences/07_language.png)
+![Interface](/images/preferences/07_language.png)
 
 - *Compacter le menu Langage* : par défaut les langages sont groupés selon la première lettre de leur nom afin de réduire la taille du menu *Langage*. La désactiver affichera tous les langages à la suite.
 

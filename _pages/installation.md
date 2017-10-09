@@ -16,25 +16,25 @@ Notepad++ n'installera pas de logiciels tiers ou de bandeaux publicitaires. Ains
 
 Lancer l'exécutable.
 
-![Le choix du langage lors de l'installation de Notepad++](/assets/img/installation/01_language.png)
+![Le choix du langage lors de l'installation de Notepad++](/images/installation/01_language.png)
 
 Choisir la langue qui vous convient pour afficher l'écran d’accueil de l'installateur.
 
 ### Une licence libre
 
-![Le choix de la licence lors de l'installation de Notepad++](/assets/img/installation/03_licence.png)
+![Le choix de la licence lors de l'installation de Notepad++](/images/installation/03_licence.png)
 
 Notepad++ est un logiciel libre sous [licence GNU GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) créé et principalement développé par Don Ho. En acceptant cette licence vous acceptez d'être autorisé, librement et gratuitement, à faire n'importe quel usage du logiciel, à le partager, ou même le modifier.
 
 ### Le dossier d'installation
 
-![Le choix du dossier d'installation lors de l'installation de Notepad++](/assets/img/installation/04_directory.png)
+![Le choix du dossier d'installation lors de l'installation de Notepad++](/images/installation/04_directory.png)
 
 Notepad++ pèse moins de 20Mo en version tout option. C'est suffisamment léger pour pouvoir être installé n'importe où : s'il est par défaut installé dans *Program Files*, il peut aussi être installé sur un support amovible ou synchronisé, comme le permet une option indiquée un peu plus loin.
 
 ### Les composants
 
-![Le choix du dossier d'installation lors de l'installation de Notepad++](/assets/img/installation/05_components.png)
+![Le choix du dossier d'installation lors de l'installation de Notepad++](/images/installation/05_components.png)
 
 Choisir quels composants installer permet d'omettre des fonctionnalités non désirées et d'optimiser l'espace occupé.
 
@@ -49,7 +49,7 @@ Choisir quels composants installer permet d'omettre des fonctionnalités non dé
 
 ### Les options
 
-![Le choix des options lors de l'installation de Notepad++](/assets/img/installation/06_options.png)
+![Le choix des options lors de l'installation de Notepad++](/images/installation/06_options.png)
 
 - `Don't use %APPDATA%` place les fichiers de configuration dans le répertoire d'installation, au lieu du répertoire de Windows dédié. Le logiciel deviens complètement séparé du système  d'exploitation : on dit qu'il est portable et peut être déplacé, installé sur un support amovible (clé USB, etc.) ou un répertoire synchronisé (Dropbox, etc.). Ce type de configuration permet de conserver son environnement de travail entre différents ordinateurs sans aucun accroc.
 - `Allow plugins to be loaded from notepad++/plugins` permet d'installer des plugins manuellement, sans passer par le gestionnaire de plugins intégré, en les copiant directement dans le répertoire indiqué.
@@ -58,8 +58,8 @@ Choisir quels composants installer permet d'omettre des fonctionnalités non dé
 
 ### L'installation
 
-![L'écran de chargement de l'installation de Notepad++](/assets/img/installation/07_loading.png)
-![L'écran de fin de l'installation de Notepad++](/assets/img/installation/08_end.png)
+![L'écran de chargement de l'installation de Notepad++](/images/installation/07_loading.png)
+![L'écran de fin de l'installation de Notepad++](/images/installation/08_end.png)
 
 L'installation à proprement parler ne prendra généralement que quelques secondes.
 
