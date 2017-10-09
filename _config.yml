@@ -5,8 +5,6 @@ permalink: /:collection/:name
 show_downloads: true
 google_analytics:
 
-baseurl: /nppmanuel
-
 collections:
   pages: # organize pages in _pages/
     output: true
@@ -20,6 +18,9 @@ sass:
     style: compressed
 
 plugins:
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-github-metadata
   - jekyll-titles-from-headings
   - jekyll-relative-links
   - jekyll-sitemap
@@ -34,3 +35,6 @@ titles_from_headings:
   collections: true
 jekyll_tidy:
   compress_html: true
+readme_index:
+  enabled:          true
+  remove_originals: true

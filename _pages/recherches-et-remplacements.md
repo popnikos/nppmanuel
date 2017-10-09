@@ -5,7 +5,7 @@ order: 1
 ---
 # Recherches et remplacements
 
-Un des gros plus de Notepad++ est sa gestion des recherches et remplacements. Utiliser ces fonctionnalités systématiquement fais gagner un temps précieux, surtout avec la maîtrise des [expressions régulières](expressions-régulières.md).
+Un des gros plus de Notepad++ est sa gestion des recherches et remplacements. Utiliser ces fonctionnalités systématiquement fais gagner un temps précieux, surtout avec la maîtrise des [expressions régulières](expressions-regulieres.md).
 
 ## Recherche
 
@@ -32,7 +32,7 @@ Faire préalablement une sélection, ou simplement pointer un mot, pré-remplis 
 
 ### Mode de recherche
 
-Le *Mode de recherche* permet de passer d'un mode normal aux [expressions régulières](expressions-régulières.md).
+Le *Mode de recherche* permet de passer d'un mode normal aux [expressions régulières](expressions-regulieres.md).
 
 ## Remplacement
 
@@ -78,6 +78,6 @@ Chaque résultat ou chaque groupe de résultats peut se dérouler/enrouler en cl
 
 ## Les plugins utiles
 
-La fenêtre *Find/Replace* de [TextFX](plugin-textfx.md) est faite pour la manipulation d'expressions régulières, et contiens plusieurs fonctionnalités supplémentaires rendant le travail plus aisé.
+La fenêtre *Find/Replace* de [TextFX](plugins/textfx.md) est faite pour la manipulation d'expressions régulières, et contiens plusieurs fonctionnalités supplémentaires rendant le travail plus aisé.
 
-Le plugin [RegEx Helper](plugin-regex-helper.md) permet de visualiser directement tous les résultats d'un motif d'expression régulière.
+Le plugin [RegEx Helper](plugins/regex-helper.md) permet de visualiser directement tous les résultats d'un motif d'expression régulière.

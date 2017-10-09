@@ -13,14 +13,14 @@ La liste n'est pas exhaustive.
 
 ### Général
 
-Voir [préférences générales](préférences-générales.md).
+Voir [préférences générales](preferences/generales.md).
 
 - `Ctrl-o` : ouvrir un fichier.
 - `Ctrl-n` : crée un nouvel onglet.
 - `Ctrl-w` : ferme l'onglet actif.
 - `Clic molette` : ferme l'onglet visé.
 
-Voir [préférences diverses](préférences-diverses.md).
+Voir [préférences diverses](preferences/diverses.md).
 
 - `Ctrl-Tab` : avance dans la liste des onglets ouverts.
 - `Ctrl-Shift-Tab` : recule dans la liste des onglets ouverts.
@@ -73,7 +73,7 @@ Les commentaires s'adaptent automatiquement au langage utilisé.
 - `Ctrl-Entrée` : lance l'auto-complétion de mot sur la sélection.
 - `Ctrl-Espace` : lance l'auto-complétion de fonction sur la sélection.
 
-Voir les [préférences d'autocomplétion](préférences-autocomplétion.md).
+Voir les [préférences d'autocomplétion](preferences/autocompletion.md).
 
 ### Recherche, remplacement
 

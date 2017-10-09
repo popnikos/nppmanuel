@@ -1,9 +1,4 @@
----
-layout: default
-permalink: /
----
-
-Un manuel pour [Notepad++](notepad++.md), l'éditeur de texte caméléon.
+Un manuel pour Notepad++, l'éditeur de texte caméléon.
 
 L'objectif de ce manuel est de documenter, d'un point de vue utilisateur et en français, l'intégralité des fonctionnalités du logiciel et ses recoins les plus obscurs, dans une forme rédigée expliquant toutes ses utilisations et possibilités.
 

@@ -76,8 +76,8 @@ La fenêtre *Exécuter une macro en boucle* peut être ouverte depuis le menu *M
 On pourrait :
 
 - [Supprimer des retours à la ligne](supprimer-des-retours-à-la-ligne.md)
-- [Insérer du texte en fin de ligne](insérer-du-texte-en-fin-de-ligne.md)
-- [Insérer du texte en début ou milieu de ligne](insérer-du-texte-en-début-ou-milieu-de-ligne.md)
+- [Insérer du texte en fin de ligne](inserer-du-texte-en-fin-de-ligne.md)
+- [Insérer du texte en début ou milieu de ligne](inserer-du-texte-en-debut-ou-milieu-de-ligne.md)
 
 Pour l'exemple le plus simple, aidons un cancre à qui la maîtresse a ordonnée de recopier cent fois :
 

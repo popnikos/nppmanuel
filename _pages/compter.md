@@ -25,7 +25,7 @@ La troisième partie de la barre d'état indique les statistiques relatives au c
 
 Depuis la version 5.8.1, la fenêtre *Summary* indique le nombre de mots du document.
 
-### Avec des [expressions régulières](expressions-régulières.md)
+### Avec des [expressions régulières](expressions-regulieres.md)
 
 Ouvrir la fenêtre de [recherches et remplacements](recherches-et-remplacements.md) avec `Ctrl-F` et sélectionner le mode *Expression régulière*. Entrer le motif suivant :
 

@@ -17,8 +17,8 @@ Cette variable correspond aux addresses :
 Ce dossier comprend un certain nombre de fichiers de configuration, dans un format `.xml` ou `.ini`. Ces fichiers changent légèrement au fil des versions, des nouveaux plugins et nouvelles fonctionnalités.
 
 - `plugins/config/` : données des [plugins](plugins.md)
-- `themes/` : liste des fichiers de [Thèmes](Thèmes.md).
-- `config.xml` : fichier de sauvegarde des [Préférences](préférences.md).
+- `themes/` : liste des fichiers de [Thèmes](Themes.md).
+- `config.xml` : fichier de sauvegarde des [Préférences](preferences.md).
 - `contextMenu.xml` : fichier de configuration du menu contextuel.
 - `functionList.xml` : fichier de configuration de la [Liste des fonctions](liste-des-fontions.md).
 - `langs.xml` : liste des mots clés pour les traductions.

@@ -15,7 +15,7 @@ La méthode suivante permet d'arrondir toute valeur positive à l'unité la plus
 
 Il est donc très vite plus intéressant de faire appel à un langage de programmation.
 
-## Avec des [expressions régulières](expressions-régulières.md)
+## Avec des [expressions régulières](expressions-regulieres.md)
 
 On prendra pour exemple la série suivante :
 

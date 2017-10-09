@@ -9,7 +9,7 @@ Notepad++ se compose d'une fenêtre unique dont la plupart des éléments peuven
 
 ## Barre d'outils
 
-La barre d'outils est la barre supérieure composée d'icônes, raccourcis vers certaines fonctions de base. Toutes ces fonctions sont accessibles via des [raccourcis clavier](raccourcis-clavier.md) ou via la barre de menu, elle pourra donc être cachée dans les [préférences générales](préférences-générales.md).
+La barre d'outils est la barre supérieure composée d'icônes, raccourcis vers certaines fonctions de base. Toutes ces fonctions sont accessibles via des [raccourcis clavier](raccourcis-clavier.md) ou via la barre de menu, elle pourra donc être cachée dans les [préférences générales](preferences/generales.md).
 
 - Créer, ouvrir, enregistrer, fermer ou imprimer des documents.
 - Couper, copier, coller la sélection.
@@ -23,7 +23,7 @@ La barre d'outils est la barre supérieure composée d'icônes, raccourcis vers 
 
 ##  Zone d'édition
 
-Il s'agit évidemment de la zone centrale du logiciel. La partie [Zone d'édition](préférences-zone-d'édition.md) des [préférences](préférences.md) lui est dédié afin de personnaliser certains détails et ses fonctionnalités.
+Il s'agit évidemment de la zone centrale du logiciel. La partie [Zone d'édition](preferences/zone-d'edition.md) des [préférences](preferences.md) lui est dédié afin de personnaliser certains détails et ses fonctionnalités.
 
 ![La zone d'édition](/images/npp_zone_edition.png)
 
@@ -52,7 +52,7 @@ Dans le cas d'une accolade dans un langage de type C une ligne de pointillé rou
 
 Les onglets peuvent être glissés-déposés au sein de la barre d'onglets pour être réorganisés, glissés-déposés dans les vues pour créer ou changer de vue, et glissés-déposés en dehors du logiciel pour changer d'instance de Notepad++.
 
-Une partie des [préférences générales](préférences-générales.md) lui est dédiée.
+Une partie des [préférences générales](preferences/generales.md) lui est dédiée.
 
 ![La barre d'onglets](/images/npp_barre_onglets.png)
 
@@ -66,13 +66,13 @@ L'icône de disquette précédant le nom du fichier sur un onglet indique l'éta
 
 Des [raccourcis clavier](raccourcis-clavier.md) permettent de basculer sur un onglet spécifique ou de les passer en revue.
 
-Lorsqu'il y a plus d'onglets que la largeur de la fenêtre ne puisse afficher deux boutons droite/gauche apparaissent pour les faire défiler. L'option "multiligne" des [préférences générales](préférences-générales.md) remplace ce comportement par l'affichage des onglets sur plusieurs lignes.
+Lorsqu'il y a plus d'onglets que la largeur de la fenêtre ne puisse afficher deux boutons droite/gauche apparaissent pour les faire défiler. L'option "multiligne" des [préférences générales](preferences/generales.md) remplace ce comportement par l'affichage des onglets sur plusieurs lignes.
 
 Le [Commutateur de document](commutateur-de-document.md) est une autre forme d'affichage des documents ouverts qui peut potentiellement remplacer la barre d'onglet, pour gagner de la place sur la zone d'édition ou gérer un plus grand nombre de documents.
 
 ## Barre d'état
 
-La barre d'état est la barre inférieure contenant des informations sur le document actuel et la sélection. Elle ne peut pas être redimensionnée ou déplacée, et peut être désactivée dans les [préférences générales](préférences-générales.md).
+La barre d'état est la barre inférieure contenant des informations sur le document actuel et la sélection. Elle ne peut pas être redimensionnée ou déplacée, et peut être désactivée dans les [préférences générales](preferences/generales.md).
 
 ![La barre d'état, là](/images/npp_barre_etat.png)
 
@@ -91,7 +91,7 @@ Elle est scindée en plusieurs parties qui indiquent, de la gauche vers la droit
 
 Il est possible de définir le type de langage du document en utilisant le menu *Langage* ou en ouvrant/enregistrant un fichier (détection de l'extension).
 
-Le langage par défaut d'un nouveau document est définit dans la partie [Nouveau document](préférences-nouveau-document.md) des [préférences](préférences.md).
+Le langage par défaut d'un nouveau document est définit dans la partie [Nouveau document](preferences/nouveau-document.md) des [préférences](preferences.md).
 
 ### Formats de saut de ligne, encodage et mode de curseur
 
@@ -99,7 +99,7 @@ Le langage par défaut d'un nouveau document est définit dans la partie [Nouvea
 
 Il est possible de changer le type d'encodage du document à la volée en utilisant le menu *Encodage*.
 
-Le type d'encodage et le format des sauts de ligne par défaut d'un nouveau document est définit dans la partie [Nouveau document](préférences-nouveau-document.md) des [préférences](préférences.md).
+Le type d'encodage et le format des sauts de ligne par défaut d'un nouveau document est définit dans la partie [Nouveau document](preferences/nouveau-document.md) des [préférences](preferences.md).
 
 ## Panneaux
 

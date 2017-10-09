@@ -5,7 +5,7 @@ order: 2
 ---
 # Installation
 
-Le processus d'installation à partir de [l'installeur](téléchargement.md) se résume en deux étapes :
+Le processus d'installation à partir de [l'installeur](telechargement.md) se résume en deux étapes :
 
 1. Lancer l'exécutable
 1. Cliquer frénétiquement sur le bouton "Suivant"
