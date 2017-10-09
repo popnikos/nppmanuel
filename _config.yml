@@ -5,6 +5,8 @@ permalink: /:collection/:name
 show_downloads: true
 google_analytics:
 
+repository: nliautaud/nppmanuel
+
 collections:
   pages: # organize pages in _pages/
     output: true
