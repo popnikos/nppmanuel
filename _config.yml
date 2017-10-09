@@ -20,6 +20,7 @@ sass:
     style: compressed
 
 plugins:
+  - jekyll-titles-from-headings
   - jekyll-relative-links
   - jekyll-sitemap
 
