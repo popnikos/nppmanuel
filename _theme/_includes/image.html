@@ -1,0 +1,16 @@
+{% capture img %}
+<img src="{{ include.src }}" alt="{{ include.alt }}"
+    {% if include.width %}width="{{ include.width }}px"{% endif %}
+    {% if include.height %}height="{{ include.height }}px"{% endif %}
+/>
+{% endcapture %}
+{% if include.caption %}
+<figure class="image {{ include.class }}">
+    {{ img }}
+    <figcaption>{{ include.caption }}</figcaption>
+</figure>
+{% else %}
+<div class="image {{ include.class }}">
+    {{ img }}
+</div>
+{% endif %}
