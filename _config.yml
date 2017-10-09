@@ -6,6 +6,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
+baseurl: /nppmanuel
+
 collections:
   pages: # organize pages in _pages/
     output: true
