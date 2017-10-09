@@ -22,18 +22,6 @@
     </header>
 
     <div class="page-content">
-    
-      <aside class="content-sidebar">
-        <div class="wrapper">
-          <nav class="main-nav">
-            {% for chapter in site.data.sommaire %}
-              <p><strong>{{ chapter.name }}</strong></p>
-              {% include navigation.html context='' filterby='chapitre' filterval=forloop.index %}
-            {% endfor %}
-          </nav>
-        </div>
-      </aside>
-
       <section class="main-content">
 
         <article class="article hyphenate">
@@ -51,6 +39,18 @@
         </footer>
 
       </section>
+    
+      <aside class="content-sidebar">
+        <div class="wrapper">
+          <nav class="main-nav">
+            {% for chapter in site.data.sommaire %}
+              <p><strong>{{ chapter.name }}</strong></p>
+              {% include navigation.html context='' filterby='chapitre' filterval=forloop.index %}
+            {% endfor %}
+          </nav>
+        </div>
+      </aside>
+
     </div>
 
     {% if site.google_analytics %}
