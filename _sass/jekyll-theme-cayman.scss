@@ -1,7 +1,6 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import "code";
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -86,9 +85,6 @@ a {
     }
   }
 }
-.page-content .btn {
-  color: $section-headings-color;
-}
 
 .page-header {
   color: $header-heading-color;
@@ -144,52 +140,17 @@ a {
   }
 }
 
-.page-content {
-  display: flex;
-  justify-content: center;
-  position: relative;
-  @include small {
-    display: block;
-  }
-}
-
-
-.content-sidebar {
-  @include large {
-    padding: 2rem 3rem;
-  }
-
-  @include medium {
-    padding: 2rem 2rem;
-  }
-
-  @include small {
-    padding: 1rem .5rem;
-  }
-
-  .wrapper {
-    position: -webkit-sticky;
-    position: -moz-sticky;
-    position: sticky;
-    top: 2rem;
-    @include small {
-      top: 1rem;
-    }
-  }
-}
-
 .main-content {
   word-wrap: break-word;
-  width: 70%;
 
   :first-child {
     margin-top: 0;
   }
 
-  max-width: 64rem;
   @include large {
     max-width: 64rem;
     padding: 2rem 6rem;
+    margin: 0 auto;
     font-size: 1.1rem;
   }
 
