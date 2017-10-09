@@ -10,10 +10,9 @@
   {% assign parent = entry.url | split: '/' | reverse %}
   {% if parent[1] == '' or parent[1] == contextdir %}
     <li class="{% if page.url contains entry.url %}active{% endif %}{% if page.url == entry.url %}current{% endif %}">
-      {% if page.url == entry.url %}
-      <div class="toc">{{ content | toc_only }}</div>
-      {% else %}
       <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      {% if page.url == entry.url %}
+      <div class="toc">{% include toc.html html=content %}</div>
       {% endif %}
       {% if page.url == entry.url or page.url contains entry.url or include.showall %}
         {% include navigation.html context=entry.url %}

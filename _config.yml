@@ -4,7 +4,6 @@ lang: fr
 permalink: /:collection/:name
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
 
 baseurl: /nppmanuel
 
@@ -21,11 +20,7 @@ sass:
     style: compressed
 
 plugins:
-  - jekyll-relative-links
-  - jekyll-titles-from-headings
-  - jekyll-tidy
   - jekyll-sitemap
-  - jekyll-toc
 
 # plugins config
 relative_links:
@@ -37,9 +32,3 @@ titles_from_headings:
   collections: true
 jekyll_tidy:
   compress_html: true
-
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      toc: true

@@ -29,10 +29,14 @@
     }
 
     .toc {
-      >.section-nav {
+      > ul {
         padding: 0;
+        list-style: none;
+        > li > a {
+          display: none;
+        }
       }
-      .toc-entry .toc-entry:only-child {
+      li li:only-child {
         display: none;
       }
     }
