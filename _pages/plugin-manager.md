@@ -21,7 +21,7 @@ Il est aussi possible, en plus d'une installation manuelle classique, d’instal
 
 Pour afficher la fenêtre, utiliser le menu *Compléments -> Plugin Manager -> Show Plugin Manager*.
 
-![La fenêtre du Plugin Manager](https://github.com/nliautaud/nppmanuel/blob/master/images/plugins/plugin-manager.png)
+![La fenêtre du Plugin Manager](/assets/img/plugins/plugin-manager.png)
 
 ### Available
 

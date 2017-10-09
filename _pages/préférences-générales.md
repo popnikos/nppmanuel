@@ -7,7 +7,7 @@ order: 1
 
 [Préférences](préférences.md) générales de langue et d'interface de [Notepad++](notepad++.md).
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/01_general.png)
+![Interface](/assets/img/preferences/01_general.png)
 
 ## Langue
 

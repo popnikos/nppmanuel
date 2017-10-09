@@ -7,13 +7,13 @@ order: 2
 
 [Préférences](préférences.md) du comportement de certaines fonctionnalités relatives à l'édition dans [Notepad++](notepad++.md).
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/02_editing.png)
+![Interface](/assets/img/preferences/02_editing.png)
 
 ## Curseur
 
 Largeur et vitesse de clignotement du curseur d'édition.
 
-![Largeurs possibles du curseur d'édition](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_cursor_width.png)
+![Largeurs possibles du curseur d'édition](/assets/img/preferences/npp_cursor_width.png)
 
 - *Largeur* : largeur du curseur d'édition.
   - `0` : curseur invisible.
@@ -25,11 +25,11 @@ Largeur et vitesse de clignotement du curseur d'édition.
 
 ## Multiédition
 
-![Curseur démultiplié au moyen de la multi-édition](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_multiedition_1.png)
+![Curseur démultiplié au moyen de la multi-édition](/assets/img/preferences/npp_multiedition_1.png)
 
 Cette option permet d'activer l'édition simultanée d'emplacements différents dans un fichier, fonctionnalité désactivée par défaut. Il s'agit d'une option à activer sans hésiter tant son intérêt est grand et décuple les possibilités de Notepad++.
 
-![Écriture à plusieurs endroit simultanément au moyen de la la multi-édition](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_multiedition_3.png)
+![Écriture à plusieurs endroit simultanément au moyen de la la multi-édition](/assets/img/preferences/npp_multiedition_3.png)
 
 Il vous est alors possible de faire des sélections ou de positionner le curseur à autant d'emplacements que voulus en utilisant la touche `Ctrl` au moment de votre nouveau clic.
 
@@ -39,7 +39,7 @@ Une fois le curseur multiplié vous pouvez écrire, effacer, couper, copier, col
 
 Lorsque vous programmez, Notepad++ vous indique et vous permet de replier les blocs d'instructions en affichant des repères dans la "barre de blocs" verticale située à gauche du texte. Ces options vous permettent d'en choisir le style.
 
-![Indicateurs de blocs possibles](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_folding_icons.png)
+![Indicateurs de blocs possibles](/assets/img/preferences/npp_folding_icons.png)
 
 - *Simple* : affiche un signe "-" ou "+" en début de bloc.
 - *Flèche* : affiche une flèche orientée en début de bloc.
@@ -62,15 +62,15 @@ Si vous vous rendez dans les *Préférences*, onglet *Zones d'édition*, vous re
 
 - **Défaut** : le morceau coupé s'aligne au début de la fenêtre. C'était le comportement par défaut jusqu'à présent, et n'aidait pas franchement à la compréhension.
 
-![Notepad++ Line Warp : le retour à la ligne automatique par **défaut**](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_linewarp_default.png)
+![Notepad++ Line Warp : le retour à la ligne automatique par **défaut**](/assets/img/preferences/npp_linewarp_default.png)
 
 - **Aligné** : le morceau coupé se place au même niveau que le début de la ligne. Ce comportement est désormais activé par défaut.
 
-![Notepad++ Line Warp : le retour à la ligne automatique **aligné**](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_linewarp_aligned.png)
+![Notepad++ Line Warp : le retour à la ligne automatique **aligné**](/assets/img/preferences/npp_linewarp_aligned.png)
 
 - **Indenté** : le morceau coupé se place à un niveau d'indentation supérieur à la ligne. Ce schéma reproduit une structuration standard du code.
 
-![Notepad++ Line Warp : le retour à la ligne automatique **indenté**](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/npp_linewarp_indented.png)
+![Notepad++ Line Warp : le retour à la ligne automatique **indenté**](/assets/img/preferences/npp_linewarp_indented.png)
 
 ## Autres options
 

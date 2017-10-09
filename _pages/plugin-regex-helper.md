@@ -15,7 +15,7 @@ La fenêtre du RegEx Helper peut être affichée :
   - par le menu * Compléments -> RegEx helper -> Launch*,
   - par le raccourci clavier `Ctrl-f12`.
 
-![Fenêtre du RegEx Helper](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_regexhelper_panel.png)
+![Fenêtre du RegEx Helper](/assets/img/notepadpp_regexhelper_panel.png)
 
 Le premier champ permet d'écrire les [expressions régulières](expressions-régulières.md), le bouton *Match* d'effectuer la recherche, le bouton *Details* d'afficher la liste des résultats.
 

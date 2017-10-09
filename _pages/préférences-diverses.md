@@ -7,13 +7,13 @@ order: 12
 
 [Préférences](préférences.md) diverses de [Notepad++](notepad++.md).
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/12_divers.png)
+![Interface](/assets/img/preferences/12_divers.png)
 
 ## Commutateur de document
 
 Cette option permet d'afficher une liste des documents ouverts ou des fichiers récents lors de l'utilisation des raccourcis `Ctrl+Tab` ou `Ctrl+Shift+Tab`.
 
-![Commutateur de document](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_commutateur.png)
+![Commutateur de document](/assets/img/notepadpp_commutateur.png)
 
 Cette option désactivée les raccourcis `Ctrl+Tab` et `Ctrl+Shift+Tab` permettent de passer immédiatement d'un onglet à un autre.
 
@@ -27,7 +27,7 @@ Ce paramètre permet de rendre cliquable les liens dans le texte.
 - *Activer* : rendre tous les liens cliquable.
   - *Ne pas souligner* : ne pas souligner les liens.
 
-![Un lien cliquable dans Notepad++](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_lien-cliquable.png)
+![Un lien cliquable dans Notepad++](/assets/img/notepadpp_lien-cliquable.png)
 
 Un lien est définit par l'[expression régulière](expressions-régulières.md) :
 

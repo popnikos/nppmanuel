@@ -7,7 +7,7 @@ order: 3
 
 [Préférences](préférences.md) permettant de définir les paramètres d'encodage, de format et de langage a utiliser par défaut pour les nouveaux documents créés dans [Notepad++](notepad++.md).
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/03_new.png)
+![Interface](/assets/img/preferences/03_new.png)
 
 ## Format des sauts de ligne
 

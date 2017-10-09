@@ -21,4 +21,4 @@ Il peut être installé ou désinstallé simplement depuis le [Plugin manager](p
 
 Choisissez votre option depuis le menu *Compléments -> NppExport*.
 
-![Texte exporté et code source du fichier html.](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_export.png)
+![Texte exporté et code source du fichier html.](/assets/img/notepadpp_export.png)

@@ -26,7 +26,7 @@ Le plugin nécessite [GNU Aspell](https://fr.wikipedia.org/wiki/GNU_Aspell), un 
 
 Si le plugin ne trouve pas le dictionnaire Aspell :
 
-![Spell-checker ne trouvant pas GNU Aspell](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_spellchecker_aspell.png)
+![Spell-checker ne trouvant pas GNU Aspell](/assets/img/notepadpp_spellchecker_aspell.png)
 
 Indiquez dans le champ de texte l'emplacement du dossier *bin* de votre répertoire d'installation d'Aspell en remplacant *C:\Program Files* par deux points (chemin relatif).
 
@@ -36,9 +36,9 @@ Le correcteur orthographique peut être lancé sur tout le texte ou une sélecti
 
 - Par le menu *Compléments -> Spell-Checker -> Spell-Checker*,
 - Par le raccourci clavier `Ctrl-Alt-Shift-s`,
-- Par son icône, située au bout de la barre de menu : ![Icône de Spell-Checker](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_spellchecker_icon.png)
+- Par son icône, située au bout de la barre de menu : ![Icône de Spell-Checker](/assets/img/notepadpp_spellchecker_icon.png)
 
-![Panneau de Spell-Checker](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_spellchecker_panel.png)
+![Panneau de Spell-Checker](/assets/img/notepadpp_spellchecker_panel.png)
 
 - **Original text** : mot trouvé dans le texte.
 - **Replace by** : mot de remplacement.

@@ -120,4 +120,4 @@ Double-cliquez sur une ligne (ou *Clic droit -> Modifier*) pour ouvrir la fenêt
 
 Les raccourcis de Scintilla peuvent être multiples, leur fenêtre d'attribution permet donc l'ajout ou la suppression de raccourcis pour une même fonction :
 
-![La fenêtre Shortcut "améliorée", permettant de définir plusieurs raccourcis clavier pour une seule fonction](npp_shortcut_multi.png)
+![La fenêtre Shortcut améliorée, permettant de définir plusieurs raccourcis clavier pour une seule fonction](npp_shortcut_multi.png)

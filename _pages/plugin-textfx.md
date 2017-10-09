@@ -59,7 +59,7 @@ Conversion
 
 - **Find/Replace** : ouvre une fenêtre de recherche et remplacement alternative.
 
-![Fenêtre de recherche/remplacement de TextFX](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_findreplace.png)
+![Fenêtre de recherche/remplacement de TextFX](/assets/img/notepadpp_findreplace.png)
 
 Avantages majeurs vis à vis de la [recherche standard](Recherches et remplacements.md) :
 

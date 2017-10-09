@@ -7,7 +7,7 @@ order: 1
 
 [Notepad++](notepad++.md) propose un certain nombre d'options depuis la fenêtre *Préférences* du menu *Paramétrage*, qui permettent le comportement du logiciel et son [interface](interface.md), qui peut se transformer fondamentalement, du simple bloc-note à l'éditeur de code avancé. Ce n'est pas pour rien que l'icône est un caméléon.
 
-|![Notepad++ version plus plus](https://github.com/nliautaud/nppmanuel/blob/master/images/npp_interface_simple.png)|![Notepad++ version moins moins](https://github.com/nliautaud/nppmanuel/blob/master/images/npp_interface_complexe.png)|
+|![Notepad++ version plus plus](/assets/img/npp_interface_simple.png)|![Notepad++ version moins moins](/assets/img/npp_interface_complexe.png)|
 |:-:|:-:|
 
 - [Préférences générales](préférences-générales.md)

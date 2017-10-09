@@ -8,7 +8,7 @@ order: 3
 
 Une macro est l'enregistrement d'une suite d'actions. Une macro peut être exécutée, toutes les actions enregistrées sont alors effectuées automatiquement.
 
-![Menu des macros](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macromenu.png)
+![Menu des macros](/assets/img/notepadpp_macromenu.png)
 
 ## Créer une macro
 
@@ -16,13 +16,13 @@ L'enregistrement des actions peut être lancé...
 
 - Par le menu *Macro -> Démarrer l'enregistrement*,
 - Par le raccourci clavier `Ctrl-Shift-r`,
-- Par l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroedemarrer.png) de la barre de menu.
+- Par l'icône ![](/assets/img/notepadpp_macroedemarrer.png) de la barre de menu.
 
 ...et peut être stoppé :
 
 - Par le menu *Macro -> Arrêter l'enregistrement*,
 - Par le raccourci clavier `Ctrl-Shift-r`,
-- Par l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroarreter.png) de la barre de menu.
+- Par l'icône ![](/assets/img/notepadpp_macroarreter.png) de la barre de menu.
 
 Les actions de la souris ne sont pas enregistrées.
 
@@ -33,9 +33,9 @@ Une fois la macro créée, il est possible (mais pas obligatoire) de l'enregistr
 La fenêtre *Shortcut*, permettant d'enregistrer une macro, peut être ouverte :
 
 - Depuis le menu *Macro -> Enregistrer la macro*,
-- Par l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroenregistrer.png) de la barre de menu.
+- Par l'icône ![](/assets/img/notepadpp_macroenregistrer.png) de la barre de menu.
 
-![Fenêtre d'enregistrement d'une macro](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroshortcut.png)
+![Fenêtre d'enregistrement d'une macro](/assets/img/notepadpp_macroshortcut.png)
 
 Pour seulement enregistrer votre macro, vous n'avez qu'à lui donner un nom et valider. Vous pouvez aussi lui associer un raccourci clavier en remplissant la seconde partie de la fenêtre
 
@@ -55,7 +55,7 @@ Une fois la macro créée, il est possible de l'exécuter :
 
 - Par le menu *Macro -> Rejouer la macro*,
 - Par le raccourci clavier `Ctrl-Shift-p`,
-- Par l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroexecuter.png) de la barre de menu.
+- Par l'icône ![](/assets/img/notepadpp_macroexecuter.png) de la barre de menu.
 
 Les macros enregistrées sont directement listées dans le menu *Macro*.
 
@@ -63,9 +63,9 @@ Les macros enregistrées sont directement listées dans le menu *Macro*.
 
 C'est dans cette possibilité que réside l'intérêt des macros : la répétition d'une action un grand nombre de fois sans effort.
 
-La fenêtre *Exécuter une macro en boucle* peut être ouverte depuis le menu *Macro -> Exécuter une macro en boucle...*, ou par l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroexecuterenboucle.png) de la barre de menu.
+La fenêtre *Exécuter une macro en boucle* peut être ouverte depuis le menu *Macro -> Exécuter une macro en boucle...*, ou par l'icône ![](/assets/img/notepadpp_macroexecuterenboucle.png) de la barre de menu.
 
-![Fenêtre *exécuter une macro en boucle*](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_macroexecuterfenetre.png)
+![Fenêtre *exécuter une macro en boucle*](/assets/img/notepadpp_macroexecuterfenetre.png)
 
 - **Macro à exécuter** : choisissez ici une macro que vous avez enregistrée auparavant, ou *Current recorded macro* pour la dernière macro créée.
 - **Exécuter x fois** : sélectionnez cette option pour exécuter la macro un certain nombre de fois.

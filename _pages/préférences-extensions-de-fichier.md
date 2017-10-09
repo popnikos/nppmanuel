@@ -7,7 +7,7 @@ order: 6
 
 [Préférences](préférences.md) permettant d'associer [Notepad++](notepad++.md) à des extensions de fichiers particulières.
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/06_extensions.png)
+![Interface](/assets/img/preferences/06_extensions.png)
 
 Le bloc **Extensions** groupe des ensembles d'extensions pour s'y retrouver plus vite. Sélectionnez un groupe et une liste d'extensions s'affiche à droite. Si vous ne trouvez pas votre bonheur, utilisez *customize* pour entrer l'extension voulue.
 

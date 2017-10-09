@@ -7,7 +7,7 @@ order: 8
 
 La liste proposée permet de choisir un profil d'indentation propre aux normes d'un langage particulier : certains utilisent des tabulations, d'autres quatre, cinq ou huit espaces, etc...
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/08_tabulations.png)
+![Interface](/assets/img/preferences/08_tabulations.png)
 
 Pour choisir un type d'indentation par défaut, choisissez `[Defaut]`, puis :
 

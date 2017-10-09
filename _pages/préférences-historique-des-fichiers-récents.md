@@ -7,4 +7,4 @@ order: 5
 
 [Préférences](préférences.md) de l'historique des fichiers récents dans [Notepad++](notepad++.md).
 
-![Interface](https://github.com/nliautaud/nppmanuel/blob/master/images/preferences/05_history.png)
+![Interface](/assets/img/preferences/05_history.png)

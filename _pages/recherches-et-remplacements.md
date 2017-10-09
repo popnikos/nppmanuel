@@ -13,11 +13,11 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 
 - Du menu *Recherche -> Recherche*,
 - Du raccourci clavier `Ctrl-F`,
-- De l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_findicon.png) dans la barre de menu.
+- De l'icône ![](/assets/img/notepadpp_findicon.png) dans la barre de menu.
 
 Faire préalablement une sélection, ou simplement pointer un mot, pré-remplis le champ de recherche.
 
-![Fenêtre de recherche](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_find.png)
+![Fenêtre de recherche](/assets/img/notepadpp_find.png)
 
 - **Suivant** : sélectionne l'occurrence suivante.
 - **Compter** : compte le nombre d'occurrences.
@@ -40,9 +40,9 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 
 - Du menu *Recherche -> Remplacer*,
 - Du raccourci clavier `Ctrl-H`,
-- De l'icône ![](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_replaceicon.png) dans la barre de menu.
+- De l'icône ![](/assets/img/notepadpp_replaceicon.png) dans la barre de menu.
 
-![Fenêtre de remplacement](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_replace.png)
+![Fenêtre de remplacement](/assets/img/notepadpp_replace.png)
 
 L'interface est similaire à l'onglet de recherche décrit précédemment.
 
@@ -55,7 +55,7 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 - Du menu *Recherche -> Rechercher dans les répertoires*,
 - Du raccourci clavier `Ctrl-Shift-f`,
 
-![Fenêtre de recherche/remplacement par dossier](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_findfolder.png)
+![Fenêtre de recherche/remplacement par dossier](/assets/img/notepadpp_findfolder.png)
 
 - **Recherche** : élément à rechercher.
 - **Remplacer par** : élément de remplacement.
@@ -71,7 +71,7 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 
 ## Résultats de recherches
 
-![*Find result*, résultats de recherches](https://github.com/nliautaud/nppmanuel/blob/master/images/notepadpp_findresult.png)
+![*Find result*, résultats de recherches](/assets/img/notepadpp_findresult.png)
 
 Une frame s'affiche en pied de page indiquant le fichier, les lignes, l'emplacement dans la ligne.
 Chaque résultat ou chaque groupe de résultats peut se dérouler/enrouler en cliquant sur les petits "-" à gauche.
