@@ -19,13 +19,22 @@
     }
 
     .wrapper {
-    position: -webkit-sticky;
-    position: -moz-sticky;
-    position: sticky;
-    top: 2rem;
-    @include small {
-        top: 1rem;
+      position: -webkit-sticky;
+      position: -moz-sticky;
+      position: sticky;
+      top: 2rem;
+      @include small {
+          top: 1rem;
+      }
     }
+
+    .toc {
+      >.section-nav {
+        padding: 0;
+      }
+      .toc-entry .toc-entry:only-child {
+        display: none;
+      }
     }
   }
   .main-content {

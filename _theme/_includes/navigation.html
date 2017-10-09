@@ -5,18 +5,22 @@
 {% assign context = include.context | url_decode | append: '/' %}
 {% assign contextdir = include.context | url_decode | split: '/' | last %}
 {% assign entries = entries | where_exp: 'x', 'x.url contains context' | sort: 'order' %}
-{% if entries %}
-  <ul>
-  {% for entry in entries %}
-    {% assign parent = entry.url | split: '/' | reverse %}
-    {% if parent[1] == '' or parent[1] == contextdir %}
+{% capture childs %}
+{% for entry in entries %}
+  {% assign parent = entry.url | split: '/' | reverse %}
+  {% if parent[1] == '' or parent[1] == contextdir %}
     <li class="{% if page.url contains entry.url %}active{% endif %}{% if page.url == entry.url %}current{% endif %}">
+      {% if page.url == entry.url %}
+      <div class="toc">{{ content | toc_only }}</div>
+      {% else %}
       <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      {% endif %}
       {% if page.url == entry.url or page.url contains entry.url or include.showall %}
         {% include navigation.html context=entry.url %}
       {% endif %}
     </li>
-      {% endif %}
-  {% endfor %}
-  </ul>
-{% endif %}
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign childs = childs | strip %}
+{% if childs != '' %}<ul>{{ childs }}</ul>{% endif %}

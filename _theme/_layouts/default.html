@@ -25,17 +25,19 @@
     
       <aside class="content-sidebar">
         <div class="wrapper">
-          {% for chapter in site.data.sommaire %}
-            <p><strong>{{ chapter.name }}</strong></p>
-            {% include navigation.html context='' filterby='chapitre' filterval=forloop.index %}
-          {% endfor %}
+          <nav class="main-nav">
+            {% for chapter in site.data.sommaire %}
+              <p><strong>{{ chapter.name }}</strong></p>
+              {% include navigation.html context='' filterby='chapitre' filterval=forloop.index %}
+            {% endfor %}
+          </nav>
         </div>
       </aside>
 
       <section class="main-content">
 
         <article class="article hyphenate">
-          {{ content }}
+          {{ content | inject_anchors }}
         </article>
 
         <footer class="site-footer">
