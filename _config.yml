@@ -2,8 +2,8 @@ title: Manuel++
 description: Un manuel pour Notepad++
 lang: fr
 permalink: /:collection/:name
-show_downloads: true
-google_analytics:
+
+google_analytics: UA-21458763-6
 
 repository: nliautaud/nppmanuel
 
