@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 3
+title: Nouveau document
 ---
 # Nouveau document
 

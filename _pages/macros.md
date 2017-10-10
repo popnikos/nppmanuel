@@ -1,8 +1,7 @@
 ---
 layout: default
 
-chapitre: 3
-order: 3
+title: Macros
 ---
 # Macros
 

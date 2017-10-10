@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: plugins/function-list/
+title: Function List
 ---
 # Function List
 

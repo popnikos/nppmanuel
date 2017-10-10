@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 3
-order: 2
+title: Les expressions régulières
 ---
 # Les expressions régulières
 

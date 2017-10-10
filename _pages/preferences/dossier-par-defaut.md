@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 4
+title: Dossier par défaut
 ---
 # Dossier par défaut
 

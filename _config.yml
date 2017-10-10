@@ -21,9 +21,7 @@ sass:
 
 plugins:
   - jekyll-readme-index
-  - jekyll-default-layout
   - jekyll-github-metadata
-  - jekyll-titles-from-headings
   - jekyll-relative-links
   - jekyll-sitemap
 

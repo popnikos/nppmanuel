@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 12
+title: Préférences diverses
 ---
 # Préférences diverses
 

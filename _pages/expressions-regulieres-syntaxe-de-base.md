@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Syntaxe de base
 ---
 # Syntaxe de base
 

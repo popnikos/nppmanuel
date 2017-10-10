@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: plugins/compare/
+title: Compare
 ---
 # Compare
 

@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 4
-order: 1
+title: Préférences
 ---
 # Préférences
 

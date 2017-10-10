@@ -1,6 +1,6 @@
 ---
 layout: default
-chapitre: 5
+title: Historique des versions
 ---
 # Historique des versions
 

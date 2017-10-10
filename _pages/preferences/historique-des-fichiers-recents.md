@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 5
+title: Historique des fichiers récents
 ---
 # Historique des fichiers récents
 

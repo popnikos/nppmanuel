@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 1
-order: 2
+title: Installation
 ---
 # Installation
 

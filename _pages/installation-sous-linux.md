@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Notepad++, un caméléon sous Linux
 ---
 # Notepad++, un caméléon sous Linux
 

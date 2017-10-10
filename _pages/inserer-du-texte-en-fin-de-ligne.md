@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Insérer du texte en fin de ligne
 ---
 # Insérer du texte en fin de ligne
 

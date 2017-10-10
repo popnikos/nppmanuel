@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 4
-order: 3
+title: Plugins
 ---
 # Plugins
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 1
+title: Préférences générales
 ---
 # Préférences générales
 

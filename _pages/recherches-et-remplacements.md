@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 3
-order: 1
+title: Recherches et remplacements
 ---
 # Recherches et remplacements
 

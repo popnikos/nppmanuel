@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Supprimer des décimales
 ---
 # Supprimer des décimales
 

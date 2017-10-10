@@ -1,25 +1,12 @@
 {% assign entries = site.pages %}
-{% if include.filterby %}
-  {% assign entries = entries | where: include.filterby, include.filterval %}
-{% endif %}
-{% assign context = include.context | url_decode | append: '/' %}
-{% assign contextdir = include.context | url_decode | split: '/' | last %}
-{% assign entries = entries | where_exp: 'x', 'x.url contains context' | sort: 'order' %}
 {% capture childs %}
-{% for entry in entries %}
-  {% assign parent = entry.url | split: '/' | reverse %}
-  {% if parent[1] == '' or parent[1] == contextdir %}
-    <li class="{% if page.url contains entry.url %}active{% endif %}{% if page.url == entry.url %} current{% endif %}">
-      <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-      {% if page.url == entry.url %}
-      <div class="toc">{% include toc.html html=content h_min=2 h_max=2 %}</div>
-      {% endif %}
-      {% if page.url == entry.url or page.url contains entry.url or include.showall %}
-        {% include navigation.html context=entry.url %}
-      {% endif %}
-    </li>
+  {% for entry in entries %}
+    {% capture slug %}{{ entry.url | split: "/" | last }}{% endcapture %}
+    {% capture curr %}{{ entry.url | remove: slug | append: "/" | remove: "//" }}{% endcapture %}
+    {% if curr == include.context %}
+      {% include navigation-item.html item=entry showall=include.showall %}
     {% endif %}
-{% endfor %}
+  {% endfor %}
 {% endcapture %}
 {% assign childs = childs | strip %}
 {% if childs != '' %}<ul>{{ childs }}</ul>{% endif %}

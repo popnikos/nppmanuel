@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Insérer du texte en début ou milieu de ligne
 ---
 # Insérer du texte en début ou milieu de ligne
 

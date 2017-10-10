@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Fichiers de configuration
 ---
 # Fichiers de configuration
 

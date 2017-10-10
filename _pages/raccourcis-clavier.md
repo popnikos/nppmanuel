@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 2
-order: 2
+title: Raccourcis clavier
 ---
 # Raccourcis clavier
 

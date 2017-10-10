@@ -1,3 +1,7 @@
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 .project-name a {
   display: inline-block;
   color: #fff;
@@ -55,41 +59,43 @@
     }
 
     .main-nav {
-      > * {
-        margin: .5em 0;
-        padding: .5em 0;
+      ul,
+      ol {
         list-style: none;
+        padding: 0;
       }
-      > ul {
+      li {
+        margin: .5em 0;
+      }
+      li:before {
+        margin-right: .5em;
+        color: #ccc;
+      }
+      .chapters {
         counter-reset: chapter;
-        > li {
+        .chapter {
           counter-increment: chapter;
           &:before {
             font-size: .9em;
             margin-right: 1em;
           }
+          ol > li {
+            position: relative;
+            &.current > a {
+              font-weight: bold;
+            }
+            > ul {
+              border: 1px solid #eee;
+              border-width: 1px 0;
+              margin: 1em 0;
+              padding: 0 0 0 1.5em;
+            }
+          }
         }
-      }
-      li {
-        margin: .5em 0;
-      }
-      li.current:last-child .toc {
-        border-bottom: 0;
       }
       .toc {
-        border: 1px solid #eee;
-        border-width: 1px 0;
-        margin-top: 1rem;
-        padding: .5rem 0;
-  
-        ul {
-          padding: 0;
-          list-style: none;
-        }
         li:before {
           content: '#';
-          margin-right: .5em;
-          color: #ccc;
         }
         a {
           color: $section-headings-color;
@@ -189,10 +195,8 @@ kbd
   }
 
   &:active {
-    box-shadow: #439230 0 3px 0, rgba(0, 0, 0, 0.2) 0 6px 3px;
-
-    position: relative;
-    top: 5px;
+    box-shadow: #439230 0 2px 0, rgba(0, 0, 0, .2) 0 2px 2px;
+    transform: translateY(0);
   }
 }
 p a:only-child[href="http://notepad-plus-plus.org/fr/download"] {

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Shortcut Mapper
 ---
 # Shortcut Mapper
 

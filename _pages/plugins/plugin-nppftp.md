@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: plugins/nppftp/
+title: NppFTP
 ---
 # NppFTP
 

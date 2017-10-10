@@ -1,7 +1,6 @@
 ---
 layout: default
-chapitre: 2
-order: 4
+title: Édition en colonne
 ---
 # Édition en colonne
 

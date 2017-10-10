@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 6
+title: Extensions de fichiers
 ---
 # Extensions de fichiers
 

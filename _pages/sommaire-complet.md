@@ -1,5 +1,5 @@
 ---
 layout: sommaire-complet
-chapitre: 5
+title: Sommaire complet
 ---
 # Sommaire complet

@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 2
+title: Zone d'édition
 ---
 # Zone d'édition
 

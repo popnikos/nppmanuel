@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Arrondir des valeurs
 ---
 # Arrondir des valeurs
 

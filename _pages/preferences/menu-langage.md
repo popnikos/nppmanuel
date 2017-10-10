@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 7
+title: Menu langage
 ---
 # Menu langage
 

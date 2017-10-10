@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Plugin manager
 ---
 # Plugin manager
 

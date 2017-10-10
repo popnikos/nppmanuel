@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: plugins/spell-checker/
+title: Spell Checker
 ---
 # Spell Checker
 

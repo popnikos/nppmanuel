@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Compter des caractères, lignes et paragraphes
 ---
 # Compter des caractères, lignes et paragraphes
 

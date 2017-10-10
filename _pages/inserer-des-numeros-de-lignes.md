@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Insérer des numéros de ligne
 ---
 # Insérer des numéros de ligne
 
