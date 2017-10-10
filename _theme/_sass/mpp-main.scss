@@ -14,24 +14,24 @@ body {
   }
 }
 .site-content {
-  max-width: 84em;
-}
-.main-content {
-  margin: 0;
-  @include large {
-    padding-right: 2rem;
-  }
-  @include medium {
-    padding-right: 3%;
-    padding-left: 5%;
-  }
-}
-.page-content {
   display: flex;
   justify-content: center;
   position: relative;
   @include small {
     display: block;
+  }
+  .main-content {
+    margin: 0;
+    flex: 1;
+    @include large {
+      max-width: 950px;
+      box-sizing: content-box;
+      padding-right: 2rem;
+    }
+    @include medium {
+      padding-right: 3%;
+      padding-left: 5%;
+    }
   }
   .content-sidebar {
     min-width: 18em;
@@ -122,6 +122,11 @@ body {
         -webkit-hyphens: auto;
         -ms-hyphens: auto;
         hyphens: auto;
+
+        & img:only-child {
+          display: block;
+          margin: auto;
+        }
     }
 
     h1 {
@@ -167,7 +172,6 @@ kbd
   line-height: 1;
   border-radius: 4px;
   font-size: 1em;
-  color: #fff;
   text-decoration: none;
   display: inline-block;
   text-align: center;
@@ -175,11 +179,9 @@ kbd
   cursor: pointer;
   transition: 0.1s linear;
 
-  background: #82cc5d;
-  background: linear-gradient(to bottom,  #82cc5d 0%,#53b73c 100%);
-  border: 1px solid #429E34;
-  box-shadow: #439230 0 3px 0, rgba(0, 0, 0, .2) 0 3px 3px;
-  text-shadow: 0 1px 1px rgba(0,0,0,.2);
+  color: #aaa;
+  border: 1px solid #eee;
+  background: #fff;
 
   &:after {
     color: #fff;
@@ -187,20 +189,43 @@ kbd
   }
   &:hover {
     transform: translateY(-3px);
+    color: $body-text-color;
+    border: 1px solid #ccc;
+    box-shadow: #ccc 0 3px 0, rgba(0, 0, 0, .1) 0 4px 2px;
+  }
+
+  &:active {
+    transform: translateY(0);
+    color: $body-text-color;
+    box-shadow: none;
+  }
+}
+.btn-main {
+  @extend .btn;
+  color: #fff;
+  border: 1px solid #429E34;
+  background: #82cc5d;
+  background: linear-gradient(to bottom,  #82cc5d 0%,#53b73c 100%);
+  box-shadow: #439230 0 3px 0, rgba(0, 0, 0, .2) 0 3px 3px;
+  text-shadow: 0 1px 1px rgba(0,0,0,.2);
+
+  &:after {
+    color: #fff;
+  }
+  &:hover {
+    color: #fff;
+    border: 1px solid #429E34;
     background: #99cc80;
     background: linear-gradient(to bottom,  #85CE5E 0%,#53b73c 100%);
     box-shadow: #439230 0 6px 0, rgba(0, 0, 0, .2) 0 9px 4px;
-    border: 1px solid lighten(#429E34, 10%);
-    color: #fff;
   }
 
   &:active {
     box-shadow: #439230 0 2px 0, rgba(0, 0, 0, .2) 0 2px 2px;
-    transform: translateY(0);
   }
 }
 p a:only-child[href="http://notepad-plus-plus.org/fr/download"] {
-  @extend .btn;
+  @extend .btn-main;
 }
 
 
