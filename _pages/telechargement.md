@@ -6,7 +6,7 @@ title: Téléchargement
 
 Il est conseillé de télécharger la dernière version d'un logiciel depuis son site officiel, ou depuis un site de confiance. L'adresse officielle suivante pointe vers la page de téléchargement de la dernière version en date :
 
-[http://notepad-plus-plus.org/fr/download](http://notepad-plus-plus.org/fr/download){:.btn}
+[http://notepad-plus-plus.org/fr/download](http://notepad-plus-plus.org/fr/download){:.btn-call}
 
 Plusieurs liens sont proposés, et l'installateur est la fichier le plus courant. Il s'agit d'un fichier exécutable offrant une [installation pas-à-pas](installation.md) avec fenêtre et options.
 

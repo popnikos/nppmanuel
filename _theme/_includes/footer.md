@@ -1,3 +1,7 @@
-Ce manuel est distribué sous licence libre [MIT](https://github.com/nliautaud/nppmanuel/blob/master/LICENSE).
+Maintenu par [{{ site.github.owner_name }}]({{ site.github.owner_url }}). 
+Ce manuel est libre !
+[LICENSE]({{ site.github.repository_url }}/blob/master/LICENSE)
+/ [Github]({{ site.github.repository_url }})
 
-Les contributions sont bienvenues.
+<a href="{{ site.github.repository_url }}/issues" class="btn">Signaler une erreur / proposer une modification</a>
+<a href="{{ site.github.repository_url }}/blob/master/CONTRIBUTING.md" class="btn">Corriger ou ajouter une page</a>

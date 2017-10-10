@@ -9,34 +9,20 @@
     <link href='https://fonts.googleapis.com/css?family=Lato:400,400i,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
+  <body class="layout-{{ page.layout }} page{{ page.id | replace:'/','-' }}">
     <header class="page-header">
       <h1 class="project-name"><a href="{{ site.baseurl }}/">{{ site.title | default: site.github.repository_name }}</a></h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
 
-    <div class="site-content">
-      <section class="main-content">
-
-        <article class="article hyphenate">
-          {{ content | inject_anchors }}
-        </article>
-
-        <footer class="site-footer">
-          {% capture footer %}{% include footer.md %}{% endcapture %}
-          {{ footer | markdownify }}
-
-          {% if site.github.is_project_page %}
-            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-          {% endif %}
-          <span class="site-footer-credits">Cette page a été générée par <a href="https://pages.github.com">GitHub Pages</a>.</span>
-        </footer>
-
-      </section>
+    <div class="main-content">
+      <article>
+        {{ content | inject_anchors }}
+      </article>
     
       <aside class="content-sidebar">
         <div class="wrapper">
-          <a class="edit btn" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">Modifier cette page</a>
+          <a class="btn-call" target="_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">Modifier cette page</a>
           <nav class="main-nav">
             <ol class="chapters">
             {% for chapter in site.data.sommaire %}
@@ -56,8 +42,14 @@
           </nav>
         </div>
       </aside>
-
     </div>
+
+    <footer class="site-footer">
+      <div class="site-wrapper">
+        {% capture footer %}{% include footer.md %}{% endcapture %}
+        {{ footer | markdownify }}
+      </div>
+    </footer>
 
     {% if site.google_analytics %}
       <script type="text/javascript">
