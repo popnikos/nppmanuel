@@ -15,13 +15,13 @@ Une macro est l'enregistrement d'une suite d'actions. Une macro peut être exéc
 L'enregistrement des actions peut être lancé...
 
 - Par le menu *Macro -> Démarrer l'enregistrement*,
-- Par le raccourci clavier `Ctrl-Shift-r`,
+- Par le raccourci clavier <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Par l'icône ![](/images/notepadpp_macroedemarrer.png) de la barre de menu.
 
 ...et peut être stoppé :
 
 - Par le menu *Macro -> Arrêter l'enregistrement*,
-- Par le raccourci clavier `Ctrl-Shift-r`,
+- Par le raccourci clavier <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Par l'icône ![](/images/notepadpp_macroarreter.png) de la barre de menu.
 
 Les actions de la souris ne sont pas enregistrées.
@@ -54,7 +54,7 @@ Pour supprimer une entrée, faites un clic droit sur la macro visée et sélecti
 Une fois la macro créée, il est possible de l'exécuter :
 
 - Par le menu *Macro -> Rejouer la macro*,
-- Par le raccourci clavier `Ctrl-Shift-p`,
+- Par le raccourci clavier <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>,
 - Par l'icône ![](/images/notepadpp_macroexecuter.png) de la barre de menu.
 
 Les macros enregistrées sont directement listées dans le menu *Macro*.
@@ -87,10 +87,10 @@ Si la chose est tout à fait ennuyeuse à faire sur un cahier de classe, rien n'
 
 Pour créer notre macro, on...
 
-- lance l'enregistrement au moyen de `Ctrl-Shift-r`,
+- lance l'enregistrement au moyen de <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - écrit notre phrase,
 - appuie sur `Entrée` pour revenir à la ligne,
-- stoppe l'enregistrement au moyen de `Ctrl-Shift-r`.
+- stoppe l'enregistrement au moyen de <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>.
 - efface notre phrase (pour ne pas la recopier 101 fois!).
 
 Et pour l'exécuter cent fois, on...

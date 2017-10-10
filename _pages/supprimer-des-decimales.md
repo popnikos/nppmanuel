@@ -15,7 +15,7 @@ Résultat :
 
 ## Avec des [expressions régulières](expressions-regulieres.md)
 
-Ouvrir la fenêtre de remplacement avec `Ctrl-h`, et sélectionner le mode *Expressions Régulières*.
+Ouvrir la fenêtre de remplacement avec <kbd>Ctrl</kbd>+<kbd>h</kbd>, et sélectionner le mode *Expressions Régulières*.
 
 Rechercher "*un chiffre ou plus suivi d'un point ou d'une virgule puis d'au moins un chiffre*" :
 

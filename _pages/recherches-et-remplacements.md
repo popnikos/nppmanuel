@@ -12,7 +12,7 @@ Un des gros plus de Notepad++ est sa gestion des recherches et remplacements. Ut
 L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moyen :
 
 - Du menu *Recherche -> Recherche*,
-- Du raccourci clavier `Ctrl-F`,
+- Du raccourci clavier <kbd>Ctrl</kbd>+<kbd>F</kbd>,
 - De l'icône ![](/images/notepadpp_findicon.png) dans la barre de menu.
 
 Faire préalablement une sélection, ou simplement pointer un mot, pré-remplis le champ de recherche.
@@ -39,7 +39,7 @@ Le *Mode de recherche* permet de passer d'un mode normal aux [expressions régul
 L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moyen :
 
 - Du menu *Recherche -> Remplacer*,
-- Du raccourci clavier `Ctrl-H`,
+- Du raccourci clavier <kbd>Ctrl</kbd>+<kbd>H</kbd>,
 - De l'icône ![](/images/notepadpp_replaceicon.png) dans la barre de menu.
 
 ![Fenêtre de remplacement](/images/notepadpp_replace.png)
@@ -53,7 +53,7 @@ L'interface est similaire à l'onglet de recherche décrit précédemment.
 L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moyen :
 
 - Du menu *Recherche -> Rechercher dans les répertoires*,
-- Du raccourci clavier `Ctrl-Shift-f`,
+- Du raccourci clavier <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>f</kbd>,
 
 ![Fenêtre de recherche/remplacement par dossier](/images/notepadpp_findfolder.png)
 

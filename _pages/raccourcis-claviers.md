@@ -5,119 +5,104 @@ order: 2
 ---
 # Raccourcis clavier
 
-Les raccourcis propres aux **plugins** sont traités dans la partie [plugins](plugins.md), ceux propres aux **macros** dans la partie [macros](macros.md).
+Cette page recense un maximum de raccourcis clavier/souris et d'astuces accessibles par défaut dans [Notepad++](notepad++.md). Les raccourcis propres aux [plugins](plugins.md) et ceux propres aux [macros](macros.md) sont traités dans leurs parties respectives, et la liste exhaustive des raccourcis claviers peut être trouvée [ici](http://docs.notepad-plus-plus.org/index.php/Keyboard_And_Mouse_Shortcuts).
 
-## Raccourcis clavier par défaut
+Le [Shortcut Mapper](shortcut-mapper.md) permet de modifier n'importe lequel de ces raccourcis, et d'attribuer une touche aux commandes n'ayant pas de raccourci par défaut.
 
-La liste n'est pas exhaustive.
+## Général
 
-### Général
+Voir [préférences générales](preferences/generales.md) et [préférences diverses](preferences/diverses.md).
 
-Voir [préférences générales](preferences/generales.md).
+|<kbd>Ctrl</kbd>+<kbd>o</kbd>|ouvrir un fichier|
+|<kbd>Ctrl</kbd>+<kbd>n</kbd>|créer un nouvel onglet|
+|<kbd>Ctrl</kbd>+<kbd>w</kbd>|fermer l'onglet actif|
+|<kbd>Clic molette</kbd>|fermer l'onglet visé|
 
-- `Ctrl-o` : ouvrir un fichier.
-- `Ctrl-n` : crée un nouvel onglet.
-- `Ctrl-w` : ferme l'onglet actif.
-- `Clic molette` : ferme l'onglet visé.
+### Enregistrement
 
-Voir [préférences diverses](preferences/diverses.md).
+|<kbd>Ctrl</kbd>+<kbd>s</kbd>|enregistrer|
+|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>s</kbd>|enregistrer sous|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>s</kbd>|enregistrer tous les fichiers|
+|<kbd>Alt</kbd>+<kbd>p</kbd>|imprimer l'onglet actif|
 
-- `Ctrl-Tab` : avance dans la liste des onglets ouverts.
-- `Ctrl-Shift-Tab` : recule dans la liste des onglets ouverts.
-- `Clic droit-Molette` : avance/recule dans la liste des onglets ouverts.
+### Navigation
 
-- `Ctrl-s` : enregistre l'onglet actif.
-- `Ctrl-Alt-s` : enregistrer sous l'onglet actif.
-- `Ctrl-Shift-s` : enregistre tous les onglets modifiés.
+|<kbd>Ctrl</kbd>+<kbd>Tab</kbd>|avancer dans la liste des onglets ouverts|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Tab</kbd>|reculer dans la liste des onglets ouverts.
+|<kbd>Clic droit</kbd>+<kbd>Molette</kbd>|avancer/reculer dans la liste des onglets ouverts.
 
-- `Alt-p` : imprimer l'onglet actif.
-- `Alt-F4` : quitter.
+## Sélection
 
-### Sélection
-
-- `Ctrl-a` : sélectionne tout.
-- `Alt` : sélection rectangulaire.
+|<kbd>Ctrl</kbd>+<kbd>a</kbd>|sélectionner tout|
+|<kbd>Alt</kbd>|[sélection en colonne](edition-en-colonne.md)|
 
 Il est possible de sélectionner une ou plusieurs lignes (retours chariot compris) en cliquant sur leurs numéros à gauche.
 
-### Édition
+## Édition
 
-- `Ctrl-z` : annule la modification précédente.
-- `Ctrl-y` : rétablit la modification précédente.
+|<kbd>Ctrl</kbd>+<kbd>z</kbd>|annuler la modification précédente|
+|<kbd>Ctrl</kbd>+<kbd>y</kbd>|rétablir la modification précédente|
+|<kbd>Ctrl</kbd>+<kbd>x</kbd>|couper la sélection|
+|<kbd>Ctrl</kbd>+<kbd>c</kbd>|copier la sélection|
+|<kbd>Ctrl</kbd>+<kbd>v</kbd>|coller l'élément en mémoire|
+|<kbd>Ctrl</kbd>+<kbd>d</kbd>|dupliquer la ligne active ou la sélection|
 
 Notepad++ enregistre un historique des modifications titanesque : vous pouvez revenir sur des heures de travail sans problème.
 
-- `Ctrl-x` : coupe la sélection.
-- `Ctrl-c` : copie la sélection.
-- `Ctrl-v` : colle l'élément en mémoire.
-- `Ctrl-d` : duplique la ligne active ou la sélection.
+### Modifications de lignes
 
-La duplication est parfois plus efficace que le couple copier/coller, et deviendra vite votre raccourci favori.
+|<kbd>Ctrl</kbd>+<kbd>i</kbd>|sépare la sélection en plusieurs lignes|
+|<kbd>Ctrl</kbd>+<kbd>j</kbd>|joint les lignes sélectionnées (supprime les retours chariot).
+|<kbd>Ctrl</kbd>+<kbd>l</kbd>|coupe la ligne active ou les lignes sélectionnées|
+|<kbd>Ctrl</kbd>+<kbd>t</kbd>|inverse la ligne active avec la précédente|
+|<kbd>Tab</kbd>|ajoute un niveau d'indentation à la ligne active ou la sélection|
+|<kbd>Shift</kbd>+<kbd>Tab</kbd>|supprime un niveau d'indentation à la ligne active ou la sélection.
 
-- `Ctrl-i` : sépare la sélection en plusieurs lignes.
-- `Ctrl-j` : joint les lignes sélectionnées (supprime les retours chariot).
-- `Ctrl-l` : coupe la ligne active ou les lignes sélectionnées.
-- `Ctrl-t` : inverse la ligne active avec la précédente.
+### Raccourcis de code
 
-- `Tab` : ajoute un niveau d'indentation à la ligne active ou la sélection.
-- `Shift-Tab` : supprime un niveau d'indentation à la ligne active ou la sélection.
-
-- `Ctrl-q` : Commente/décommente les lignes de la sélection.
-- `Ctrl-Shift-q` : Commente/décommente la sélection en mode multi-lignes.
+|<kbd>Ctrl</kbd>+<kbd>q</kbd>|Commente/décommente les lignes de la sélection  (ex. `//`)|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>q</kbd>|Commente/décommente la sélection en mode multi-lignes (ex. `\* *\`).
+|<kbd>Ctrl-Entrée</kbd>|lance l'[autocomplétion](preferences/autocompletion.md) de mot sur la sélection|
+|<kbd>Ctrl</kbd>+<kbd>Espace</kbd>|lance l'[autocomplétion](preferences/autocompletion.md) de fonction sur la sélection.
 
 Les commentaires s'adaptent automatiquement au langage utilisé.
 
-- `Ctrl-u` : met la sélection en minuscules.
-- `Ctrl-Shift-u` : met la sélection en majuscules.
+### Conversion de texte
 
-- `Ctrl-Entrée` : lance l'auto-complétion de mot sur la sélection.
-- `Ctrl-Espace` : lance l'auto-complétion de fonction sur la sélection.
+|<kbd>Ctrl</kbd>+<kbd>u</kbd>|convertit la sélection en minuscules|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>u</kbd>|convertit la sélection en majuscules|
 
-Voir les [préférences d'autocomplétion](preferences/autocompletion.md).
 
-### Recherche, remplacement
+## Recherche, remplacement
 
 Voir [recherches et remplacements](recherches-et-remplacements.md).
 
-- `Ctrl-g` : ouvre la fenêtre de positionnement.
-- `Ctrl-f` : ouvre la fenêtre de recherche.
-- `Ctrl-h` : ouvre la fenêtre de remplacement.
-- `Ctrl-Shift-f` : ouvre la fenêtre de recherche/remplacement dans les fichiers d'un dossier.
-- `C-r` : ouvre la fenêtre de recherche/remplacement complexe.
+|<kbd>Ctrl</kbd>+<kbd>g</kbd>|aller à (*Go*)
+|<kbd>Ctrl</kbd>+<kbd>f</kbd>|rechercher (*Find*)
+|<kbd>Ctrl</kbd>+<kbd>h</kbd>|remplacer
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>f</kbd>|rechercher ou remplacer dans les fichiers d'un dossier
+|<kbd>Ctrl</kbd>+<kbd>r</kbd>|recherche ou remplacement complexe
+|<kbd>Ctrl</kbd>+<kbd>m</kbd>|surligner toutes les occurrences de la recherche|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>m</kbd>|supprimer tous les surlignages|
 
-- `F3` : recherche suivante.
-- `Shift-F3` : recherche précédente.
-- `Ctrl-m` : surligner toutes les occurrences de la recherche.
-- `Ctrl-Shift-m` : supprimer tous les surlignages.
+### Navigation
 
-- `Ctrl-b` : aller au délimiteur jumeau.
+|<kbd>F3</kbd>|aller au résultat de recherche suivant|
+|<kbd>Shift-F3</kbd>|aller au résultat de recherche précédent|
+|<kbd>Ctrl</kbd>+<kbd>b</kbd>|aller au délimiteur jumeau|
 
-### Affichage
+## Affichage
 
-- `Ctrl-+` : zoome.
-- `Ctrl`+"-" : dézoome.
-- `Ctrl-Molette` : zoome/dézoome.
-- `Ctrl-/` : réinitialise le zoom.
+|<kbd>Ctrl</kbd>+<kbd>+</kbd>|zoomer|
+|<kbd>Ctrl</kbd>+<kbd>-</kbd>|dézoomer|
+|<kbd>Ctrl</kbd>+<kbd>Molette</kbd>|zoomer/dézoomer|
+|<kbd>Ctrl-</kbd>+<kbd>/</kbd>|réinitialiser le zoom|
 
-- `f11` : entrer/sortir du mode plein écran.
-- `f12` : entrer/sortir du mode "post-it" : les menus et bordures se retirent et la fenêtre se fixe au premier plan.
+Voir [modes d'affichage](modes-affichage.md).
 
-- `Alt-h` : cacher la ligne active ou les lignes de la sélection.
+|<kbd>F11</kbd>|mode plein écran|
+|<kbd>F12</kbd>|mode "post-it" : les menus et bordures se retirent et la fenêtre se fixe au premier plan.
 
-Vous pouvez enrouler/dérouler des blocs d'instructions au moyen des petits "+/-" en début de lignes.
+|<kbd>Alt</kbd>+<kbd>h</kbd>|cacher la ligne active ou les lignes de la sélection|
 
-## Shortcut Mapper
-
-Il est possible de créer ou modifier le raccourci clavier de importe quelle fonction de Notepad++, même celles habituellement inaccessibles (copier, coller, déplacement du curseur...).
-
-Le *Shortcut Mapper* est accessible depuis le menu *Paramétrage -> Raccourcis clavier...* :
-
-![Le Shortcut Mapper, qui gère les raccourcis claviers](npp_shortcut_mapper.png)
-
-Double-cliquez sur une ligne (ou *Clic droit -> Modifier*) pour ouvrir la fenêtre *Shortcut*. Décochez-y toute option pour supprimer un raccourci :
-
-![La fenêtre Shortcut, permettant de définir le raccourci clavier d'une fonction](npp_shortcut.png)
-
-Les raccourcis de Scintilla peuvent être multiples, leur fenêtre d'attribution permet donc l'ajout ou la suppression de raccourcis pour une même fonction :
-
-![La fenêtre Shortcut améliorée, permettant de définir plusieurs raccourcis clavier pour une seule fonction](npp_shortcut_multi.png)
+Si le fichier contiens des blocs d'instruction, ils peuvent être enroulés et déroulés au moyen des petits `+` et `-` en début de lignes.

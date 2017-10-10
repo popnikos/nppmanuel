@@ -12,7 +12,7 @@ Page du développeur : http://lawrencebarsanti.wordpress.com
 La fenêtre du RegEx Helper peut être affichée :
 
   - par le menu * Compléments -> RegEx helper -> Launch*,
-  - par le raccourci clavier `Ctrl-f12`.
+  - par le raccourci clavier <kbd>Ctrl</kbd>+<kbd>f12</kbd>.
 
 ![Fenêtre du RegEx Helper](/images/notepadpp_regexhelper_panel.png)
 

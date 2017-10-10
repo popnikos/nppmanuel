@@ -17,4 +17,4 @@ Pour choisir un type d'indentation par défaut, choisissez `[Defaut]`, puis :
 
 Pour remplacer les indentations de 4 ou 8 espaces en tabulations, utilisez les outils d'indentation de [TextFX](plugins/textfx.md).
 
-Alternativement copiez une tabulation ou le nombre correspondant d'espaces, ouvrez la fenêtre de [recherches et remplacements](recherches-et-remplacements.md) avec `Ctrl-H`, entrez l'un dans *Rechercher* et l'autre dans *Remplacer par* et cliquez sur *Remplacer tout*.
+Alternativement copiez une tabulation ou le nombre correspondant d'espaces, ouvrez la fenêtre de [recherches et remplacements](recherches-et-remplacements.md) avec <kbd>Ctrl</kbd>+<kbd>H</kbd>, entrez l'un dans *Rechercher* et l'autre dans *Remplacer par* et cliquez sur *Remplacer tout*.

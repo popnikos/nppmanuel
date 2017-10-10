@@ -17,7 +17,7 @@ Le mode colonne s'active au moyen de la touche `Alt`.
 
 L'Éditeur de Colonne permet d'insérer du texte verticalement.
 
-Il s'ouvre avec `Alt-c`.
+Il s'ouvre avec <kbd>Alt</kbd>+<kbd>c</kbd>.
 
 ![L'Éditeur de Colonne](/images/notepadpp_editeurcolonnes.png)
 

@@ -71,7 +71,7 @@ Elle peut-être ouverte avec <kbd>Ctrl-R</kbd>.
 ### Éléments jumeaux
 
 - **Find matching {[(\<brace\>)]}** : place le curseur à l'accolade, au crochet, à la parenthèse ou à la balise jumelle.
-- **Mark to matching {[(\<brace\>)]}** : sélectionne la balise ou le bloc entre parenthèses, crochets ou accolades. Disponible avec le raccourci `Ctrl-Shift-b`.
+- **Mark to matching {[(\<brace\>)]}** : sélectionne la balise ou le bloc entre parenthèses, crochets ou accolades. Disponible avec le raccourci <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>b</kbd>.
 - **Delete Marked {[(\<brace\>)]} Pair** : supprime la paire d'accolades, de crochets, de parenthèses ou de balises sélectionnées.
 
 ## Edit

@@ -14,7 +14,7 @@ Choisir *Texte à insérer*, entrer le texte voulu et appuyer sur *OK*.
 
 ## Avec des [expressions régulières](expressions-regulieres.md)
 
-Ouvrir la fenêtre de remplacement avec `Ctrl-h`, et sélectionner le mode *Expressions Régulières*.
+Ouvrir la fenêtre de remplacement avec <kbd>Ctrl</kbd>+<kbd>h</kbd>, et sélectionner le mode *Expressions Régulières*.
 
 Rechercher le premier caractères en début de ligne (dans un groupe pour pouvoir le ré-écrire) avec :
 
@@ -46,11 +46,11 @@ Deviens :
 
 En allant en fin de ligne, puis encore à droite !
 
-- Lancer l'enregistrement avec `Ctrl-Shift-r`,
+- Lancer l'enregistrement avec <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Aller en fin de ligne avec la touche `Fin`,
 - Aller en début de ligne suivante en appuyant une ou plusieurs fois sur la touche `flèche droite` du clavier,
 - Écrire ce qu'on veut insérer,
-- Stopper l'enregistrement avec `Ctrl-Shift-r`,
+- Stopper l'enregistrement avec <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Ouvrir la fenêtre *Exécuter une macro en boucle* depuis le menu *Macro*,
 - Sélectionner *Jusqu'à la fin du fichier* et valider.
 

@@ -20,7 +20,7 @@ Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](p
 
 Compare est accessible depuis le menu *Compléments -> Compare*.
 
-Il peut principalement comparer deux fichiers ouverts (`Alt-D`, l'onglet sélectionné avec l'onglet suivant) ou encore un fichier et sa dernière sauvegarde (`Alt-S`).
+Il peut principalement comparer deux fichiers ouverts (<kbd>Alt</kbd>+<kbd>D</kbd>, l'onglet sélectionné avec l'onglet suivant) ou encore un fichier et sa dernière sauvegarde (<kbd>Alt</kbd>+<kbd>S</kbd>).
 
 Il affiche alors les deux documents côtes à côtes, les synchronise horizontalement et verticalement, affiche un panneau de navigation permettant une vision d'ensemble et indique, par le biais de codes couleurs et puces les éléments ajoutés, supprimés ou modifiés :
 

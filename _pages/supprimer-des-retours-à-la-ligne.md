@@ -21,7 +21,7 @@ Ou n'importe quel délimiteur :
 
 ## Avec des [recherches et remplacements](recherches-et-remplacements.md)
 
-Sélectionnez un retour à la ligne, en sélectionnant de la fin d'une ligne au début de la suivante puis ouvrez la fenêtre de remplacement avec `Ctrl-h` et remplacez tout. Le texte dans *Remplacer par* servira de délimiteur.
+Sélectionnez un retour à la ligne, en sélectionnant de la fin d'une ligne au début de la suivante puis ouvrez la fenêtre de remplacement avec <kbd>Ctrl</kbd>+<kbd>h</kbd> et remplacez tout. Le texte dans *Remplacer par* servira de délimiteur.
 
 Il est aussi possible de rechercher `\r?\n` (voir [CRLF](https://fr.wikipedia.org/wiki/Carriage_Return_Line_Feed)) en mode de recherche étendu.
 
@@ -29,11 +29,11 @@ Il est aussi possible de rechercher `\r?\n` (voir [CRLF](https://fr.wikipedia.or
 
 En enregistrant l'appui sur la touche `Fin` du clavier.
 
-- Lancer l'enregistrement avec `Ctrl-Shift-r`,
+- Lancer l'enregistrement avec <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Aller en fin de ligne avec la touche `Fin`,
 - Supprimer le retour chariot avec la touche `Suppr`,
 - Écrire ce qui séparera les mots, comme une virgule par exemple,
-- Stopper l'enregistrement avec `Ctrl-Shift-r`,
+- Stopper l'enregistrement avec <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Ouvrir la fenêtre *Exécuter une macro en boucle* depuis le menu *Macro*,
 - Sélectionner *Jusqu'à la fin du fichier* et valider.
 
