@@ -6,7 +6,7 @@ title: Notepad++
 
 Notepad++ est un éditeur de texte pour Windows très léger et très puissant.
 
-![Fenêtre de notepad++](/images/notepad++.png)
+![Fenêtre de notepad++](/images/npp_interface.png)
 
 Il ne s'agit ni d'un environnement de développement, ni d'un logiciel de traitement de texte. Bien qu'il puisse en approcher certaines fonctionnalités, il n'a pas pour objectif la gestion globale de projets de développement ou la rédaction de contenus. Il s'agit d'une alternative survitaminée à Notepad, le Bloc-note de Windows.
 

@@ -4,7 +4,13 @@ title: Interface
 ---
 # Interface
 
-Notepad++ se compose d'une fenêtre unique dont la plupart des éléments peuvent être cachés, déplacés ou paramétrés.
+Notepad++ se compose d'une fenêtre unique dont la plupart des éléments peuvent être cachés, déplacés ou paramétrés. Si tous les éléments de son interface ont été cachés et toutes les fonctions avancées désactivées, Notepad++ se limite à une zone d'édition blanche.
+
+![Notepad++ version plus plus](/images/npp_interface_minimal.png)
+
+En affichant ses barres et panneaux, en activant ses [options diverses](preferences/diverses.md) et en utilisant des [plugins](plugins.md) (ici [NppFTP](plugins/nppftp.md)), l'interface peut-être plus complexe.
+
+![Notepad++ version moins moins](/images/npp_interface_complex.png)
 
 ## Barre d'outils
 
@@ -41,10 +47,8 @@ La séparation entre les deux vues peut être déplacée avec la souris pour lai
 Lorsqu'un délimiteur du langage est sélectionné, comme un crochet, une parenthèse ou l'accolade d'une instruction, il se colore en rouge et son jumeau ouvrant ou fermant aussi. Si le délimiteur jumeau est manquant, l'élément sélectionné ne se colorera pas.
 
 Dans le cas d'une accolade dans un langage de type C une ligne de pointillé rouge indique son niveau d'indentation, et dans le cas d'un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) les balises d'ouverture et de fermeture correspondantes se colorent aussi.
-!
 
 |![Une paire de parenthèses](/images/notepadpp_paireparentheses.png)|![Indication des indentations](/images/notepadpp_paireaccolades.png)|![Indication des balises](/images/notepadpp_pairebalises.png)
-|--|--|--|
 |Parenthèses|Accolades|Balises|
 
 ## Les onglets

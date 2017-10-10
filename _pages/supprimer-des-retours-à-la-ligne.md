@@ -16,13 +16,19 @@ Résultat :
 
     abc
 
-Ou n'importe quel délimiteur :
+Ou, si possible, avec n'importe quel délimiteur :
 
     a, b, c
 
+## Avec un [raccourci clavier](raccourcis-clavier.md)
+
+Sélectionner plusieurs lignes et utiliser le raccourci <kbd>Ctrl</kbd>+<kbd>j</kbd>.
+
 ## Avec des [recherches et remplacements](recherches-et-remplacements.md)
 
-Sélectionnez un retour à la ligne, en sélectionnant de la fin d'une ligne au début de la suivante puis ouvrez la fenêtre de remplacement avec <kbd>Ctrl</kbd>+<kbd>h</kbd> et remplacez tout. Le texte dans *Remplacer par* servira de délimiteur.
+En remplaçant le caractère de saut de ligne par un caractère voulu.
+
+Sélectionner un retour à la ligne en sélectionnant de la fin d'une ligne au début de la suivante, puis ouvrir la fenêtre de remplacement avec <kbd>Ctrl</kbd>+<kbd>h</kbd> (le champ de recherche et rempli par la sélection) et choisir *Remplacer tout*. Le texte dans *Remplacer par* sert de délimiteur.
 
 Il est aussi possible de rechercher `\r?\n` (voir [CRLF](https://fr.wikipedia.org/wiki/Carriage_Return_Line_Feed)) en mode de recherche étendu.
 
@@ -38,10 +44,12 @@ En enregistrant l'appui sur la touche `Fin` du clavier.
 - Ouvrir la fenêtre *Exécuter une macro en boucle* depuis le menu *Macro*,
 - Sélectionner *Jusqu'à la fin du fichier* et valider.
 
-    un
-    deux
-    trois
-    ...
+```
+un
+deux
+trois
+...
+```
 
 Donne ainsi :
 

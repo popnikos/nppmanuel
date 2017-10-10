@@ -6,16 +6,16 @@ title: RegEX Helper
 
 Ce [plugin](../plugins.md) facilite grandement l'utilisation des [expressions régulières](expressions-regulieres.md) en listant et surlignant dans le texte les correspondances d'un motif, ainsi que les résultats des groupes du motif.
 
-Page du développeur : http://lawrencebarsanti.wordpress.com
+Page du développeur : <http://lawrencebarsanti.wordpress.com>
 
 ## Utilisation
 
 La fenêtre du RegEx Helper peut être affichée :
 
-  - par le menu * Compléments -> RegEx helper -> Launch*,
-  - par le raccourci clavier <kbd>Ctrl</kbd>+<kbd>f12</kbd>.
+- par le menu *Compléments -> RegEx helper -> Launch*,
+- par le raccourci clavier <kbd>Ctrl</kbd>+<kbd>f12</kbd>.
 
-![Fenêtre du RegEx Helper](/images/notepadpp_regexhelper_panel.png)
+![Fenêtre du RegEx Helper](/images/plugins/regex-helper.png)
 
 Le premier champ permet d'écrire les [expressions régulières](expressions-regulieres.md), le bouton *Match* d'effectuer la recherche, le bouton *Details* d'afficher la liste des résultats.
 

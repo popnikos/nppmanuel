@@ -6,9 +6,6 @@ title: Préférences
 
 [Notepad++](notepad++.md) propose un certain nombre d'options depuis la fenêtre *Préférences* du menu *Paramétrage*, qui permettent le comportement du logiciel et son [interface](interface.md), qui peut se transformer fondamentalement, du simple bloc-note à l'éditeur de code avancé. Ce n'est pas pour rien que l'icône est un caméléon.
 
-|![Notepad++ version plus plus](/images/npp_interface_simple.png)|![Notepad++ version moins moins](/images/npp_interface_complexe.png)|
-|:-:|:-:|
-
 - [Préférences générales](preferences/generales.md)
 - [Zone d'édition](preferences/zone-d'edition.md)
 - [Nouveau document](preferences/nouveau-document.md)
