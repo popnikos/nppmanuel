@@ -8,6 +8,10 @@ Ce [plugin](../plugins.md) facilite grandement l'utilisation des [expressions r�
 
 Page du développeur : <http://lawrencebarsanti.wordpress.com>
 
+## Installation
+
+Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
+
 ## Utilisation
 
 La fenêtre du RegEx Helper peut être affichée :

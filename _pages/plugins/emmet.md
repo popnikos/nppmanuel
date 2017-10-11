@@ -11,6 +11,10 @@ Emmet est un [plugin](../plugins.md) permettant de créer rapidement une structu
 
 L'ancien nom d'Emmet est *Zen Coding*.
 
+## Installation
+
+Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
+
 ## Utilisation
 
 Les fonctionnalités d'Emmet sont principalement accessible par raccourcis clavier et par le menu *Compléments -> Emmet*.

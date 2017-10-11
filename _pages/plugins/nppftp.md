@@ -15,7 +15,7 @@ Il a été créé par [Harrybharry](http://sourceforge.net/users/harrybharry) :
 
 Il est intégré par défaut dans Notepad++ depuis la version 5.7.
 
-Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugins/plugin-manager.md).
+Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
 
 ## Interface
 

@@ -12,6 +12,10 @@ Le plugin [SourceCookifier](sourcecookifier.md) propose la même fonctionnalité
 
 Page du développeur : <http://jenslorenz.users.sourceforge.net>
 
+## Installation
+
+Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
+
 ## Utilisation
 
 ![Panneau de FonctionList](/images/notepadpp_functionlist_panel.png)

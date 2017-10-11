@@ -8,7 +8,9 @@ Ce [plugin](../plugins.md) permet un enregistrement automatique des fichiers ouv
 
 Page du développeur : <http://sites.google.com/site/fstellari2/npp_plugins>
 
-## Utilisation
+## Installation
+
+Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
 
 L'enregistrement automatique doit être activé dans les options du plugin.
 
