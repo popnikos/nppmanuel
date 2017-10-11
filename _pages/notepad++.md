@@ -4,15 +4,11 @@ title: Notepad++
 ---
 # Notepad++
 
-Notepad++ est un éditeur de texte pour Windows très léger et très puissant.
-
-![Fenêtre de notepad++](/images/npp_interface.png)
-
-Il ne s'agit ni d'un environnement de développement, ni d'un logiciel de traitement de texte. Bien qu'il puisse en approcher certaines fonctionnalités, il n'a pas pour objectif la gestion globale de projets de développement ou la rédaction de contenus. Il s'agit d'une alternative survitaminée à Notepad, le Bloc-note de Windows.
+Notepad++ est un éditeur de texte léger, libre et gratuit pour Windows. Alternative survitaminée au bloc-note par défaut, auquel se rajoute coloration syntaxique, fonctionnalités de développement et un grand nombre de plugins.
 
 Un Notepad "*plus plus*", codé en C++.
 
-Il prend en charge de très nombreux langages de programmation, des langages personnalisés, et un nombre incalculable de fonctionnalités que ce manuel va en partie passer en revue, comme des [recherches et remplacements](recherches-et-remplacements.md), des [macros](macros.md), des [plugins](plugins.md), etc.
+![Fenêtre de notepad++](/images/npp_interface.png)
 
 ## Auteurs
 
