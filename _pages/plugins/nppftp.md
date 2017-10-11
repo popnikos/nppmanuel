@@ -4,7 +4,7 @@ title: NppFTP
 ---
 # NppFTP
 
-Ce [plugin](../plugins.md) intègre un client FTP au sein de [Notepad++](notepad++.md) permettant d'éditer "en temps réel" des fichiers distants, voire de synchroniser des projets.
+Ce [plugin](../plugins.md) intègre un client FTP au sein de [Notepad++](../notepad++.md) permettant d'éditer "en temps réel" des fichiers distants, voire de synchroniser des projets.
 
 Il a été créé par [Harrybharry](http://sourceforge.net/users/harrybharry) :
 

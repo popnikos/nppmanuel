@@ -4,7 +4,7 @@ title: Auto Save
 ---
 # Auto Save
 
-Ce [plugin](../plugins.md) permet un enregistrement automatique des fichiers ouverts dans [Notepad++](notepad++.md) avec un intervalle de temps prédéfini ou lors d'une perte de focus.
+Ce [plugin](../plugins.md) permet un enregistrement automatique des fichiers ouverts dans [Notepad++](../notepad++.md) avec un intervalle de temps prédéfini ou lors d'une perte de focus.
 
 Page du développeur : <http://sites.google.com/site/fstellari2/npp_plugins>
 

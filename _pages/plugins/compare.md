@@ -4,7 +4,7 @@ title: Compare
 ---
 # Compare
 
-Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers dans [Notepad++](notepad++.md).
+Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers dans [Notepad++](../notepad++.md).
 
 Il a été créé par [Jean-Sébastien Leroy](http://sourceforge.net/users/harrybharry) :
 
@@ -15,7 +15,7 @@ Il a été créé par [Jean-Sébastien Leroy](http://sourceforge.net/users/harry
 
 Il est intégré par défaut dans Notepad++.
 
-Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugins/plugin-manager.md).
+Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
 
 ## Utilisation
 

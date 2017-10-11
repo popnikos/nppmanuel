@@ -4,7 +4,7 @@ title: Plugin manager
 ---
 # Plugin manager
 
-Ce [plugin](../plugins.md) est un gestionnaire de plugins. Il permet d'installer, supprimer et mettre à jour en quelques clics les plugins disponibles pour [Notepad++](notepad++.md).
+Ce [plugin](../plugins.md) est un gestionnaire de plugins. Il permet d'installer, supprimer et mettre à jour en quelques clics les plugins disponibles pour [Notepad++](../notepad++.md).
 
 Il a été créé par [Dave Brotherstone](http://sourceforge.net/users/davegb3) :
 
