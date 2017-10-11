@@ -7,9 +7,26 @@
     <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
+    <style id="cachedFonts" type="text/css">
+      {% capture fonts %}{% include fonts.scss %}{% endcapture %}
+      {{ fonts | scssify | strip_newlines }}
+    </style>
+    <script>
+      if(!sessionStorage.fonts) document.getElementById('cachedFonts').disabled = true;
+      WebFontConfig = {
+        google: {
+          families: ['Lato:400,400i,700']
+        },
+        timeout: 2000,
+        active: function() {
+          sessionStorage.fonts = true;
+        }
+      };
+    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" async></script>
     <style type="text/css">
       {% capture critical %}{% include style.scss %}{% endcapture %}
-      {{ critical | scssify }}
+      {{ critical | scssify | strip_newlines }}
     </style>
   </head>
   <body class="layout-{{ page.layout }} page{{ page.id | replace:'/','-' }}">
@@ -69,4 +86,3 @@
     {% endif %}
   </body>
 </html>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,400i,700">
