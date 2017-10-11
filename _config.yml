@@ -3,7 +3,9 @@ description: Un manuel pour Notepad++
 lang: fr
 permalink: /:collection/:name
 
-google_analytics: UA-21458763-1
+google_analytics:
+  - UA-21458763-1
+  - UA-21458763-6
 
 repository: nliautaud/nppmanuel
 
