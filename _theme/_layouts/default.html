@@ -61,7 +61,7 @@
 
         {% for id in site.google_analytics %}
           ga('create', '{{ id }}', {name: 'foo{{ forloop.index }}'});
-          ga('send', 'pageview');
+          ga('foo{{ forloop.index }}.send', 'pageview');
         {% endfor %}
       </script>
     {% endif %}
