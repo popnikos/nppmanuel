@@ -71,70 +71,64 @@ La cinquième version majeure de Notepad++ a été développée et distribuée e
 
 ### version 5.9 - juin 2011
 
-- Ajout de panneaux pour le gestionnaire de projets.</li>
-- Possibilité d'ajouter des fichiers depuis un dossier à un projet.</li>
-- Gestion du cliquer-déposer dans le gestionnaire de projets.</li>
-- La liste des fichiers récents est paramétrable.</li>
-- Mise en avant du bloc logique actif.</li>
-
+- Ajout de panneaux pour le gestionnaire de projets.
+- Possibilité d'ajouter des fichiers depuis un dossier à un projet.
+- Gestion du cliquer-déposer dans le gestionnaire de projets.
+- La liste des fichiers récents est paramétrable.
+- Mise en avant du bloc logique actif.
 
 ### version 5.8 - septembre 2010
 
-- Une nouvelle icône pour Notepad++.</li>
-- Possibilité d'ouvrir les fichiers systèmes 64 bits.</li>
-- Possibilité d'éditer le menu contextuel.</li>
-- Deux nouvelles méthodes de retour automatique à la ligne.</li>
-- Ajout d'une fenêtre Résumé.</li>
-
+- Une nouvelle icône pour Notepad++.
+- Possibilité d'ouvrir les fichiers systèmes 64 bits.
+- Possibilité d'éditer le menu contextuel.
+- Deux nouvelles méthodes de retour automatique à la ligne.
+- Ajout d'une fenêtre Résumé.
 
 ### version 5.7 - juillet 2010
 
-- Possibilité de rechercher les lignes non marquées.</li>
-- Possibilité d'importer et exporter des langages utilisateurs.</li>
-- Intégration des nouveaux mots clés HTML5 et CSS3.</li>
-- Ajout des plugins <em>NppFTP</em> et <em>Select 'N' Launch</em> par défaut.</li>
-- Suppression du plugin par défaut <em>NppNetNote</em>.</li>
-
+- Possibilité de rechercher les lignes non marquées.
+- Possibilité d'importer et exporter des langages utilisateurs.
+- Intégration des nouveaux mots clés HTML5 et CSS3.
+- Ajout des plugins *NppFTP* et *Select 'N' Launch* par défaut.
+- Suppression du plugin par défaut *NppNetNote*.
 
 ### version 5.6 - novembre 2009
 
-- Support d'un grand nombre de langues, langages et encodages supplémentaires.</li>
-- Détection automatique de l'encodage des fichiers html et xml.</li>
-- Possibilité de conversion depuis un encodage UNICODE.</li>
-- Possibilité de rechercher des caractères UNICODE en mode étendu.</li>
-- Ajout des fonctionnalités "Texte à rechercher" et "Résultat de recherche suivant".</li>
-- Possibilité de sauter d'un marqueur à un autre, en avant ou en arrière.</li>
-- Guides indiquant les niveaux d'indentations des balises html et xml actives.</li>
-- Suppression du plugin par défaut <em>Doc Monitor</em>.</li>
-
+- Support d'un grand nombre de langues, langages et encodages supplémentaires.
+- Détection automatique de l'encodage des fichiers html et xml.
+- Possibilité de conversion depuis un encodage UNICODE.
+- Possibilité de rechercher des caractères UNICODE en mode étendu.
+- Ajout des fonctionnalités "Texte à rechercher" et "Résultat de recherche suivant".
+- Possibilité de sauter d'un marqueur à un autre, en avant ou en arrière.
+- Guides indiquant les niveaux d'indentations des balises html et xml actives.
+- Suppression du plugin par défaut *Doc Monitor*.
 
 ### version 5.5 - septembre 2009
 
-- Ajout du <em>Plugin Manager</em>.</li>
-- Nouvelle icône : arrivée du caméléon.</li>
-- Fonctionnalités de multi-édition et de multi-sélection.</li>
-- Possibilité de rechercher dans les fichiers d'un dossier.</li>
-- Possibilité de faire monter ou descendre les lignes sélectionnées.</li>
-- Possibilité d'importer des plugins (chargement à la volée).</li>
-- Possibilité d'importer des thèmes.</li>
-
+- Ajout du *Plugin Manager*.
+- Nouvelle icône : arrivée du caméléon.
+- Fonctionnalités de multi-édition et de multi-sélection.
+- Possibilité de rechercher dans les fichiers d'un dossier.
+- Possibilité de faire monter ou descendre les lignes sélectionnées.
+- Possibilité d'importer des plugins (chargement à la volée).
+- Possibilité d'importer des thèmes.
 
 ### version 5.4 - mai 2009
 
-- Possibilité de sélectionner des thèmes à la volée.</li>
-- Gestion du cliquer-déposer des onglets entre plusieurs instances de Notepad++.</li>
-- Ajout du mode colonne, de la sélection verticale.</li>
-- Détection de l'encodage <em>UTF16</em>.</li>
-- Indentations utilisant des espaces ou des tabulations.</li>
-
+- Possibilité de sélectionner des thèmes à la volée.
+- Gestion du cliquer-déposer des onglets entre plusieurs instances de Notepad++.
+- Ajout du mode colonne, de la sélection verticale.
+- Détection de l'encodage *UTF16*.
+- Indentations utilisant des espaces ou des tabulations.
 
 ### version 5.3 - mars 2009
 
-- Augmente les champs de Find/Replace à 2047 caractères.</li>
-- SConstruct et SConscript sont reconnus comme des fichiers python. </li>
-- Ajout de la barre d'indication des changement d'état des lignes.</li>
-- Glisser un dossier dans Notepad++ pour ouvrir tous les fichiers qu'il contient de manière récursive.</li>
-- Ajout de la fonctionnalité "Rechercher dans le document actuel".</li>
-- La plupart des options de la fenêtre Find/Replace s'enregistrent.</li>
-- Plus de fenêtre d'alerte lors de la fermeture d'un fichier sans nom non enregistré.</li>
-- Le changement de styles des résultats de recherche est visible à la volée.</li>
+- Augmente les champs de Find/Replace à 2047 caractères.
+- SConstruct et SConscript sont reconnus comme des fichiers python. 
+- Ajout de la barre d'indication des changement d'état des lignes.
+- Glisser un dossier dans Notepad++ pour ouvrir tous les fichiers qu'il contient de manière récursive.
+- Ajout de la fonctionnalité "Rechercher dans le document actuel".
+- La plupart des options de la fenêtre Find/Replace s'enregistrent.
+- Plus de fenêtre d'alerte lors de la fermeture d'un fichier sans nom non enregistré.
+- Le changement de styles des résultats de recherche est visible à la volée.
