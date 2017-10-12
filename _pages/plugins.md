@@ -8,15 +8,12 @@ Un plugin, ou complément, est un petit programme distinct, généralement cré�
 
 > Depuis la [version 7.5](historique-des-versions.md) le gestionnaire de plugins [Plugin Manager](plugins/plugin-manager.md) n'est plus inclus par défaut. Jusqu'à ce qu'il soit réintégré ou qu'un gestionnaire de plugins officiel soit développé, il peut être installé manuellement.
 
-Quelques plugins sont disponibles par défaut dans Notepad++ si l'option a été laissée cochée lors de l' [installation](installation.md).
-
-- [Converter](plugins/converter.md) :
-- [MIME Tools](plugins/mime-tools.md) :
-- [NppExport](plugins/nppexport.md) : Export ou copie WYSIWYG
-
-Parmis les plugins disponibles, on pourra trouver :
+Quelques plugins sont disponibles par défaut si l'option a été laissée cochée lors de l' [installation](installation.md). Certains plugins peuvent ne pas être disponible pour la version 64-bits de Notepad++.
 
 - [Plugin Manager](plugins/plugin-manager.md) : Gestionnaire de plugins
+- [Converter](plugins/converter.md)
+- [MIME Tools](plugins/mime-tools.md)
+- [NppExport](plugins/nppexport.md) : Export ou copie WYSIWYG
 - [DSpellCheck](plugins/dspellcheck.md) : Correcteur orthographique
 - [NppFTP](plugins/nppftp.md) : Client FTP
 - [Auto Save](plugins/auto-save.md) : Sauvegarde automatique
@@ -27,9 +24,6 @@ Parmis les plugins disponibles, on pourra trouver :
 - [SourceCookifier](plugins/sourcecookifier.md) : Liste des éléments du code
 - [Spell-Checker](plugins/spell-checker.md) : Correcteur orthographique
 - [Emmet](plugins/emmet.md) : Création rapide de structures html/css
-
-Un plugin en particulier a été intégré directement au logiciel, après des années de loyaux services :
-
 - [TextFX](plugins/textfx.md) : Outils d'édition
 
 ## Installation manuelle

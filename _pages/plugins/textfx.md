@@ -10,11 +10,11 @@ Créé par Chris Severance en 2005, il était l'un des premiers plugin pour [Not
 
 - [Site officiel](http://textfx.no-ip.com/textfx/index.htm)
 
+La plus grande partie des fonctionnalités de TextFX sont aujourd'hui réalisables au moyen de fonctionnalités natives, parfois avec des [raccourcis clavier](../raccourcis-clavier.md), ou au moyen de [recherches et remplacements](../recherches-remplacements.md) et d'[expressions régulières](../expressions-regulieres.md).
+
 ## Interface
 
-TextFX n'a pas d'interface particulière car propose des outils effectuant uniquement des actions ponctuelles.
-
-Il a par contre droit a son propre menu éponyme, entre `Exécution` et `Compléments`.
+TextFX n'a pas d'interface particulière car propose des outils effectuant uniquement des actions ponctuelles, qui s'exécutent par la barre de menu.
 
 ## Characters
 
