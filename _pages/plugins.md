@@ -4,16 +4,21 @@ title: Plugins
 ---
 # Plugins
 
-Un plugin, ou complément, est un petit programme distinct, généralement créé par un tiers ou un groupe de bénévoles, qui se rajoute au logiciel principal afin d'étendre ses fonctionnalités. Il en existe plus d'une centaine pour Notepad++, directement gérés au sein du logiciel par le [Plugin manager](plugins/plugins/manager.md), listés sur la page [Plugin Central](http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central) du wiki anglophone et souvent disponibles par le projet Sourceforge [npp-plugins](http://sourceforge.net/projects/npp-plugins/files).
+Un plugin, ou complément, est un petit programme distinct, généralement créé par un tiers ou un groupe de bénévoles, qui se rajoute au logiciel principal afin d'étendre ses fonctionnalités. Il en existe plus d'une centaine pour Notepad++, listés sur la page [Plugin Central](http://docs.notepad-plus-plus.org/index.php?title=Plugin_Central) du wiki officiel (en anglais).
+
+> Depuis la [version 7.5](historique-des-versions.md) le gestionnaire de plugins [Plugin Manager](plugins/plugin-manager.md) n'est plus inclus par défaut. Jusqu'à ce qu'il soit réintégré ou qu'un gestionnaire de plugins officiel soit développé, il peut être installé manuellement.
+
+Quelques plugins sont disponibles par défaut dans Notepad++ si l'option a été laissée cochée lors de l' [installation](installation.md).
+
+- [Converter](plugins/converter.md) :
+- [MIME Tools](plugins/mime-tools.md) :
+- [NppExport](plugins/nppexport.md) : Export ou copie WYSIWYG
+
+Parmis les plugins disponibles, on pourra trouver :
 
 - [Plugin Manager](plugins/plugin-manager.md) : Gestionnaire de plugins
-
-Le Plugin Manager et quelques autres plugins particulièrement utiles sont disponibles par défaut dans Notepad++ si l'option a été laissée cochée lors de l' [installation](installation.md). Dans le cas contraire il faudra procéder à l'installation manuelle du Plugin Manager.
-
 - [DSpellCheck](plugins/dspellcheck.md) : Correcteur orthographique
 - [NppFTP](plugins/nppftp.md) : Client FTP
-- [NppExport](plugins/nppexport.md) : Export ou copie WYSIWYG
-- [Converter](plugins/converter.md) :
 - [Auto Save](plugins/auto-save.md) : Sauvegarde automatique
 - [Compare](plugins/compare.md) : Comparaison de fichiers
 - [Explorer](plugins/explorer.md) : Explorateur de fichiers
@@ -29,9 +34,9 @@ Un plugin en particulier a été intégré directement au logiciel, après des a
 
 ## Installation manuelle
 
-L'installation de plugins supplémentaires se fait directement dans Notepad++, par le biais du [Plugin manager](plugins/plugin-manager.md), mais dans des cas très particuliers il est possible de procéder à une installation manuelle. Se référer en priorité - si elles existent - aux instructions du plugin.
+> S'il est déjà installé, l'installation de plugins peut se faire directement dans Notepad++ par le biais du [Plugin manager](plugins/plugin-manager.md). Se référer en priorité - si elles existent - aux instructions des plugins.
 
-Décompresser l'archive du plugin.
+Télécharger et décompresser l'archive du plugin.
 
 Elle contiens au minimum un ou plusieurs fichiers `.dll` qui doivent être placé dans le répertoire `plugins` de votre installation de Notepad++. Par exemple à l'adresse :
 

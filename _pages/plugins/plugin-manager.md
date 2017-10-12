@@ -6,16 +6,19 @@ title: Plugin manager
 
 Ce [plugin](../plugins.md) est un gestionnaire de plugins. Il permet d'installer, supprimer et mettre à jour en quelques clics les plugins disponibles pour [Notepad++](../notepad++.md).
 
-Il a été créé par [Dave Brotherstone](http://sourceforge.net/users/davegb3) :
+Créé par Dave Brotherstone, il était proposé par défaut dans Notepad++ de 2009 à 2017 ([versions 5.5 à 7.5](../historique-des-versions.md)).
 
 - [Page sur le site de l'auteur](http://brotherstone.co.uk/npp/pm)
 - [Sources sur GitHub](https://github.com/davegb3/nppPluginManager)
 
 ## Installation
 
-Il est intégré par défaut dans Notepad++ depuis la version 5.5.
+Depuis la [version 7.5](historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être installé manuellement.
 
-Il est aussi possible, en plus d'une installation manuelle classique, d’installer le Plugin Manager à partir du plugin lui-même en n'ajoutant préalablement que le fichier `dll` au dossier `plugins`!
+> 1. [Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases)
+> 1. [Installer le plugin manuellement](../plugins.md#installation-manuelle).
+
+A noter qu'il est aussi possible, en plus d'une [installation manuelle classique](../plugins.md#installation-manuelle), d’installer le Plugin Manager à partir de lui-même en n'ajoutant préalablement que le fichier `dll` au dossier `plugins` !
 
 ## Interface
 
