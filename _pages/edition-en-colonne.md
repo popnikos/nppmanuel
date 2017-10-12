@@ -20,4 +20,4 @@ Il s'ouvre avec <kbd>Alt</kbd>+<kbd>c</kbd>.
 
 ![L'Éditeur de Colonne](/images/notepadpp_editeurcolonnes.png)
 
-Il permet de traiter des données organisées en colones, ou [(insérer-des-numéros-de-lignes.md)](insérer-des-numéros-de-lignes.md)) ou [Insérer du texte en début ou milieu de ligne]((inserer-du-texte-en-debut-ou-milieu-de-ligne.md).
+Il permet de traiter des données organisées en colonnes, ou d'[insérer des numéros de lignes](insérer-des-numéros-de-lignes.md) ou d'[insérer du texte à chaque ligne](inserer-du-texte.md).
