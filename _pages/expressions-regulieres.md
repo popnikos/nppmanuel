@@ -12,9 +12,7 @@ Une expression régulière ou [rationnelle](https://fr.wikipedia.org/wiki/Expres
 
 La maîtrise de la [syntaxe de base des expressions régulières](expressions-regulieres-syntaxe-de-base.md), voire de sa [syntaxe avancée](expressions-regulieres-syntaxe-avancee.md), est fondamentale pour exprimer tout le potentiel des logiciels de traitement de texte, de traitement de données, mais aussi de la majeure partie des langages de programmation.
 
-Dans [Notepad++](notepad++.md) les expressions régulières peuvent être utilisées pour effectuer des [recherches et remplacements](recherches-et-remplacements.md), et par exemple :
-
-- [Insérer du texte](inserer-du-texte.md)
+Dans [Notepad++](notepad++.md) les expressions régulières peuvent être utilisées pour effectuer des [recherches et remplacements](recherches-et-remplacements.md), et par exemple [insérer du texte à chaque ligne](inserer-du-texte.md).
 
 ## Notions de base
 

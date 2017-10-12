@@ -1,16 +1,18 @@
 ---
 layout: default
-title: Insérer du texte
+title: Insérer du texte à chaque ligne
 ---
-# Insérer du texte en début, milieu ou fin de ligne
+# Insérer du texte à chaque ligne
 
 Comment insérer du texte en début, milieu ou fin de ligne au moyen de [Notepad++](notepad++.md).
 
 Exemple :
 
-  abricot
-  banane
-  cerise
+```
+abricot
+banane
+cerise
+```
 
 Résultat :
 
@@ -37,6 +39,14 @@ Placer le curseur en début ou milieu d'une ligne, utiliser la combinaison <kbd>
 Placer le curseur en début ou milieu d'une ligne et ouvrir l'Éditeur de Colonne avec <kbd>Alt</kbd>+<kbd>C</kbd>.
 Choisir *Texte à insérer*, entrer le texte voulu et appuyer sur *OK*.
 
+Il est aussi possible d'insérer un nombre qui s'incrémente à chaque ligne avec *Nombre à insérer*, par exemple *Nombre initial : 1* et *Augmenter de : 1* :
+
+    1a
+    2b
+    3c
+
+Pour séparer les numéros du reste du texte on peut ensuite utiliser *Texte à insérer*.
+
 ## Avec des [expressions régulières](expressions-regulieres.md)
 
 Ouvrir la fenêtre de remplacement avec <kbd>Ctrl</kbd>+<kbd>h</kbd>, et sélectionner le mode *Expressions Régulières*.
@@ -54,3 +64,13 @@ En enregistrant l'appui sur la touche du clavier <kbd>Début</kbd> ou <kbd>Fin</
 - Stopper l'enregistrement avec <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>,
 - Ouvrir la fenêtre *Exécuter une macro en boucle* depuis le menu *Macro*,
 - Sélectionner *Jusqu'à la fin du fichier* et valider.
+
+## Avec [TextFX](plugins/textfx.md)
+
+Il est possible d'insérer automatiquement des numéros de lignes avec la fonction *Insert Line Numbers*.
+
+    00000001 a
+    00000002 b
+    00000003 c
+
+Pour supprimer les zéros en trop ou formater le résultat, on peut utiliser utiliser la [recherche et remplacement](recherches-et-remplacements.md) et les [expressions régulières](expressions-regulieres.md) (en recherchant par exemple `^00+`), ou avec le [mode colonne](edition-en-colonne.md).

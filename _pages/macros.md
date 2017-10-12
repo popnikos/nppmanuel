@@ -74,7 +74,7 @@ La fenêtre *Exécuter une macro en boucle* peut être ouverte depuis le menu *M
 
 On pourrait :
 
-- [Supprimer des retours à la ligne](supprimer-des-retours-à-la-ligne.md)
+- [Supprimer des retours à la ligne](supprimer-des-retours-a-la-ligne.md)
 - [Insérer du texte](inserer-du-texte.md)
 
 Pour l'exemple le plus simple, aidons un cancre à qui la maîtresse a ordonnée de recopier cent fois :
