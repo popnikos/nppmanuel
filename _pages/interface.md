@@ -12,6 +12,8 @@ En affichant ses barres et panneaux, en activant ses [options diverses](preferen
 
 ![Notepad++ version moins moins](/images/npp_interface_complex.png)
 
+Ce n'est pas pour rien que l'icône est un caméléon.
+
 ## Barre de menu
 
 ![Barre de menu](/images/npp_interface_menubar.png)
