@@ -1,33 +1,56 @@
-## Contributing
+# Contribuer
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+Vous pouvez contribuer de plusieurs manières :
 
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+- En indiquant des erreurs de contenu ou en proposant des corrections dans les [issues][issues]
+- En rapportant des bugs ou en proposant des améliorations pour le site dans les [issues][issues]
+- En éditant le contenu
+- En modifiant le site
 
-## Submitting a pull request
+Vous êtes merveilleux :)
 
-0. [Fork][fork] and clone the repository
-0. Configure and install the dependencies: `script/bootstrap`
-0. Make sure the tests pass on your machine: `script/cibuild`
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, add tests, and make sure the tests still pass
-0. Push to your fork and [submit a pull request][pr]
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
+## Editer le contenu
 
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
+Le site est rédigé en [Markdown](https://fr.wikipedia.org/wiki/Markdown).
 
-- If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
-- Follow the [style guide][style].
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
-- Write a [good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+Les sources des pages sont rangées dans le dossier `_pages` :  <https://github.com/nliautaud/nppmanuel/tree/master/_pages>
 
-## Resources
+- Pour éditer une page, vous pouvez la choisir depuis la liste puis cliquer sur l'icône de crayon, ou suivre le bouton *Modifier cette page* présent sur chaque page du site.
+- Pour ajouter une page, vous pouvez utiliser le bouton [*Create new file*][new].
 
-- [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
-- [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
-- [GitHub Help](https://help.github.com)
+Avant de choisir *Commit changes* ou *Commit new file*, veuillez à bien décrire les changements effectués.
 
-[fork]: https://github.com/pages-themes/cayman/fork
-[pr]: https://github.com/pages-themes/cayman/compare
-[style]: http://ben.balter.com/jekyll-style-guide/
-[code-of-conduct]: CODE_OF_CONDUCT.md
+En éditant ou créant un nouveau fichier, Github va automatiquement copier le projet sur votre compte et créer une proposition de modification (voir [Editing files in another user's repository][editother]).
+
+## Modifier le site
+
+Le site est construit avec [Jekyll](https://jekyllrb.com).
+
+Sont bienvenues les corrections de bugs, les améliorations du thème, les améliorations de navigation / UX, etc.
+
+Pour faire des modifications :
+
+1. [Forker][fork] et cloner le projet
+2. Installer les dépendances ([jekyll requirements][requirements] puis `bundle install`)
+3. Créer une nouvelle branche
+4. Faire les modifications et tester (`bundle exec jekyll serve`)
+5. Soumettre un Pull Request ([Using Pull Requests](https://help.github.com/articles/using-pull-requests/))
+6. Attendre un retour :)
+
+Ne pas hésiter à demander de l'aide aux [contributeurs][contrib] ou via les [issues][issues].
+
+Quelques trucs qui peuvent simplifier l'acceptation des modifications :
+
+- Inclure des captures d'écran des changements visuels avant/après.
+- Séparer chaque feature ou modification dans des PR distincts.
+- Donner le plus d'explications possible dans les messages de commit et du PR.
+
+
+:heartpulse:
+
+[fork]: https://github.com/nliautaud/nppmanuel/fork
+[issues]: https://github.com/nliautaud/nppmanuel/issues
+[contrib]: https://github.com/nliautaud/nppmanuel/graphs/contributors
+[new]: https://github.com/nliautaud/nppmanuel/new/master/_pages
+[requirements]: https://jekyllrb.com/docs/installation/#requirements
+[editother]: https://help.github.com/articles/editing-files-in-another-user-s-repository
