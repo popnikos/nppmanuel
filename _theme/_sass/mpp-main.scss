@@ -44,9 +44,7 @@ body {
   display: flex;
   justify-content: space-between;
   position: relative;
-  @include large {
-    width: 100%;
-  }
+  width: 100%;
   @include small {
     display: block;
   }
