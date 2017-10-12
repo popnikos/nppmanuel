@@ -158,7 +158,8 @@ article {
 
         & img:only-child {
           display: block;
-          margin: auto;
+          margin: 0 auto 2em;
+          box-shadow: 0 0.3em 1em rgba(0,0,0,.1);
         }
     }
 
