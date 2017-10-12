@@ -17,7 +17,7 @@ L'inclusion d'une publicité pour le sponsor hébergeant la liste de plugins (vo
 
 Depuis la [version 7.5](historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être installé manuellement.
 
-[Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases).
+[Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases){:.btn-call}
 
 Décompresser l'archive, et copier son contenu (`plugins/PluginManager.dll` et `updater/gpup.exe`) dans le répertoire d'installation de Notepad++. Par exemple à l'adresse :
 
@@ -25,7 +25,7 @@ Décompresser l'archive, et copier son contenu (`plugins/PluginManager.dll` et `
 
 Relancer Notepad++.
 
-> A noter qu'il est aussi possible, en plus d'une [installation manuelle classique](../plugins.md#installation-manuelle), d’installer le Plugin Manager à partir de lui-même en n'ajoutant préalablement que le fichier `dll` au dossier `plugins` !
+> A noter qu'il est aussi possible d’installer le Plugin Manager à partir de lui-même en n'ajoutant préalablement que le fichier `dll` au dossier `plugins` !
 
 ## Interface
 
