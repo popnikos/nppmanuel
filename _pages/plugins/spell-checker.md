@@ -12,8 +12,6 @@ Il a été créé par [Jens Lorenz](http://sourceforge.net/users/jenslorenz).
 
 ## Installation
 
-Il est intégré par défaut dans Notepad++.
-
 Il peut être installé ou désinstallé simplement depuis le [Plugin manager](plugin-manager.md).
 
 ## Dictionnaire Aspell

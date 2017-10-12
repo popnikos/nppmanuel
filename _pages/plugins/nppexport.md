@@ -13,8 +13,6 @@ Il a été créé par [Harrybharry](http://sourceforge.net/users/jsleroy) :
 
 ## Installation
 
-Il est intégré par défaut dans Notepad++.
-
 Il peut être installé ou désinstallé simplement depuis le [Plugin manager](plugin-manager.md).
 
 ## Utilisation
