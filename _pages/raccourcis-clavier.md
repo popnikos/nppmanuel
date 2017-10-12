@@ -10,7 +10,7 @@ Le [Shortcut Mapper](shortcut-mapper.md) permet de modifier n'importe lequel de 
 
 ## Général
 
-Voir [préférences générales](preferences/generales.md) et [préférences diverses](preferences/diverses.md).
+Voir [préférences générales](preferences/general.md) et [préférences diverses](preferences/divers.md).
 
 |<kbd>Ctrl</kbd>+<kbd>o</kbd>|ouvrir un fichier|
 |<kbd>Ctrl</kbd>+<kbd>n</kbd>|créer un nouvel onglet|

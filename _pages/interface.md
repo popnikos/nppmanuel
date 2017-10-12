@@ -8,7 +8,7 @@ Notepad++ se compose d'une fenêtre unique dont la plupart des éléments peuven
 
 ![Notepad++ version plus plus](/images/npp_interface_minimal.png)
 
-En affichant ses barres et panneaux, en activant ses [options diverses](preferences/diverses.md) et en utilisant des [plugins](plugins.md) (ici [NppFTP](plugins/nppftp.md)), l'interface peut-être plus complexe.
+En affichant ses barres et panneaux, en activant ses [options diverses](preferences/divers.md) et en utilisant des [plugins](plugins.md) (ici [NppFTP](plugins/nppftp.md)), l'interface peut-être plus complexe.
 
 ![Notepad++ version moins moins](/images/npp_interface_complex.png)
 
@@ -18,7 +18,7 @@ En affichant ses barres et panneaux, en activant ses [options diverses](preferen
 
 La barre de menu permet d'accéder aux fenêtres et fonctions de Fichier, d'Édition, de Recherche, d'Affichage, d'Encodage, de Langage, de Paramétrage, d'Outils, de Macro, d'Exécution, de Compléments, de Documents et d'Information.
 
-Elle peut être cachée via les [préférences générales](preferences/generales.md), et s'affichera à l'appui sur la touche <kbd>Alt</kbd> ou <kbd>F10</kbd>.
+Elle peut être cachée via les [préférences générales](preferences/general.md), et s'affichera à l'appui sur la touche <kbd>Alt</kbd> ou <kbd>F10</kbd>.
 
 ## Barre d'outils
 
@@ -26,7 +26,7 @@ Elle peut être cachée via les [préférences générales](preferences/generale
 
 La barre d'outils est la barre supérieure composée d'icônes, raccourcis vers certaines fonctions de base. Toutes ces fonctions sont accessibles via des [raccourcis clavier](raccourcis-clavier.md) ou via la barre de menu.
 
-Elle peut être cachée et paramétrée dans les [préférences générales](preferences/generales.md).
+Elle peut être cachée et paramétrée dans les [préférences générales](preferences/general.md).
 
 - Créer, ouvrir, enregistrer, fermer ou imprimer des documents.
 - Couper, copier, coller la sélection.
@@ -42,7 +42,7 @@ Elle peut en plus afficher des fonctionnalités liées aux [plugins](plugins.md)
 
 ## Zone d'édition
 
-Il est possible de personnaliser certains détails et fonctionnalités dans les [préférences de zone d'édition](preferences/zone-d'edition.md).
+Il est possible de personnaliser certains détails et fonctionnalités dans les [préférences de zone d'édition](preferences/edition.md).
 
 ![La zone d'édition](/images/npp_interface_editzone.png)
 
@@ -62,14 +62,14 @@ Lorsqu'un délimiteur du langage est sélectionné, comme un crochet, une parent
 
 Dans le cas d'une accolade dans un langage de type C une ligne de pointillé rouge indique son niveau d'indentation, et dans le cas d'un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) les balises d'ouverture et de fermeture correspondantes se colorent aussi.
 
-|![Une paire de parenthèses](/images/notepadpp_paireparentheses.png)|![Indication des indentations](/images/notepadpp_paireaccolades.png)|![Indication des balises](/images/notepadpp_pairebalises.png)
-|Parenthèses|Accolades|Balises|
+|![Une paire de parenthèses](/images/notepadpp_paireparentheses.png)|![Indication des indentations](/images/notepadpp_paireaccolades.png)|
+|Parenthèses|Accolades|
 
 ## Barre d'onglets
 
 Les onglets peuvent être glissés-déposés au sein de la barre d'onglets pour être réorganisés, glissés-déposés dans les vues pour créer ou changer de vue, et glissés-déposés en dehors du logiciel pour changer d'instance de Notepad++.
 
-Une partie des [préférences générales](preferences/generales.md) lui est dédiée.
+Une partie des [préférences générales](preferences/general.md) lui est dédiée.
 
 ![Barre d'onglets](/images/npp_interface_tabbar.png)
 
@@ -77,13 +77,13 @@ Pour une meilleure visibilité, l'onglet actif est par défaut surplombé d'une 
 
 L'icône de disquette précédant le nom du fichier sur un onglet indique l'état de sauvegarde du fichier. Si la disquette est bleue les dernières modifications ont été enregistrées, si elle est rouge c'est que le fichier a été modifié depuis la dernière sauvegarde. Cette indication n'est pas une analyse comparative du contenu réel du fichier, mais simplement un rappel basé sur les actions d'édition. Ajouter un espace puis le supprimer indiquera par exemple une disquette rouge, alors que le contenu du fichier est identique.
 
-Lorsqu'il y a plus d'onglets que la largeur de la fenêtre ne puisse afficher deux boutons droite/gauche apparaissent pour les faire défiler. L'option "multiligne" des [préférences générales](preferences/generales.md) remplace ce comportement par l'affichage des onglets sur plusieurs lignes.
+Lorsqu'il y a plus d'onglets que la largeur de la fenêtre ne puisse afficher deux boutons droite/gauche apparaissent pour les faire défiler. L'option "multiligne" des [préférences générales](preferences/general.md) remplace ce comportement par l'affichage des onglets sur plusieurs lignes.
 
 Le [Commutateur de document](commutateur-de-document.md) est une autre forme d'affichage des documents ouverts qui peut potentiellement remplacer la barre d'onglet, pour gagner de la place sur la zone d'édition ou gérer un plus grand nombre de documents.
 
 ## Barre d'état
 
-La barre d'état est la barre inférieure contenant des informations sur le document actuel et la sélection. Elle ne peut pas être redimensionnée ou déplacée, et peut être désactivée dans les [préférences générales](preferences/generales.md).
+La barre d'état est la barre inférieure contenant des informations sur le document actuel et la sélection. Elle ne peut pas être redimensionnée ou déplacée, et peut être désactivée dans les [préférences générales](preferences/general.md).
 
 ![Barre d'état](/images/npp_interface_statusbar.png)
 

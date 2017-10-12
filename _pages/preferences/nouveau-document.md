@@ -4,28 +4,17 @@ title: Nouveau document
 ---
 # Nouveau document
 
-[Préférences](preferences.md) permettant de définir les paramètres d'encodage, de format et de langage a utiliser par défaut pour les nouveaux documents créés dans [Notepad++](notepad++.md).
+[Préférences](../preferences.md) permettant de définir les paramètres d'encodage, de format et de langage a utiliser par défaut pour les nouveaux documents créés dans [Notepad++](../notepad++.md).
 
-![Interface](/images/preferences/03_new.png)
+![Interface](/images/npp_settings_new.png)
 
 ## Format des sauts de ligne
 
-Définit le format des sauts de ligne par défaut d'un nouveau document.
-
-- *Windows* (par défaut)
-- *Unix*
-- *Mac*
+Définit le format des sauts de ligne par défaut d'un nouveau document (*Windows* par défaut, *Unix* ou *Mac*).
 
 ## Encodage
 
-Définit l'encodage par défaut d'un nouveau document.
-
-- *ANSI* (par défaut)
-- *UTF-8 sans BOM*
-  - *Appliquer aux fichiers ANSI ouverts*
-- *UTF-8*
-- *UTF-16BE*
-- *UTF-16LE*
+Définit l'encodage par défaut d'un nouveau document (*ANSI*, *UTF-8* avec ou sans *BOM*, *UTF-16*, etc.)
 
 ## Langage par défaut
 

@@ -8,6 +8,6 @@ Le commutateur de document est un panneau de l'[interface](interface.md) listant
 
 Il peut s'activer dans les [préférences générales](preferences/general.md).
 
-Les [raccourcis clavier](raccourcis-clavier.md) par défaut <kbd>Ctrl</kbd>+<kbd>Tab</kbd> et <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Tab</kbd> permettent de naviguer entre les documents ouverts et affichent une mini-version du commutateur de document.
+Les [raccourcis clavier](raccourcis-clavier.md) par défaut <kbd>Ctrl</kbd>+<kbd>Tab</kbd> et <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Tab</kbd> permettent de naviguer entre les documents ouverts au moyen d'un mini-version du commutateur de document qui peut être désactivé ou paramétré dans les [préférences diverses](preferences/divers.md).
 
 ![Le commutateur de document](/images/npp_document-switcher.png)

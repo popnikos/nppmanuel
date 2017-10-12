@@ -26,7 +26,7 @@ La septième version majeure de Notepad++ est la version courante, développée 
 
 ### version 7.4 - mai 2017
 
-- Ajout de l'[aperçu de document](document-peeker.md) ayu survol d'un onglet ou du plan du document, et de son option dans les [préférences diverses](preferences/diverses.md).
+- Ajout de l'[aperçu de document](document-peeker.md) ayu survol d'un onglet ou du plan du document, et de son option dans les [préférences diverses](preferences/divers.md).
 - Support du langage SWIFT
 
 ### version 7.3 - janvier 2017
@@ -72,7 +72,7 @@ La sixième version majeure de Notepad++ a été développée et distribuée ent
 
 ### version 6.7 - décembre 2014
 
-- Indentation intelligente pour les langages de type C : PHP, Javascript, C, C++, Java, C# et Objective-C. L'option peut être désactivée dans les [préférences diverses](preferences/diverses.md).
+- Indentation intelligente pour les langages de type C : PHP, Javascript, C, C++, Java, C# et Objective-C. L'option peut être désactivée dans les [préférences diverses](preferences/divers.md).
 - Support des guillemets doubles et simples pour l'insertion automatique, en plus des parenthèses et crochets fermants.
 - Amélioration de l'insertion automatique : évite d'ajouter un caractère en double si l'utilisateur l'entre manuellement.
 - Ajout de la fonction cachée d'[écriture fantôme](ghost-typing.md) permettant de lancer le logiciel avec un texte s'écrivant automatiquement.

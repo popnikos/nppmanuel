@@ -4,16 +4,26 @@ title: Sauvegarde
 ---
 # Sauvegarde
 
-[Préférences](preferences.md) de sauvegarde de versions antérieures des fichiers par [Notepad++](notepad++.md). Pour un enregistrement automatique, voir [[Auto Save]].
+[Préférences](../preferences.md) de sauvegardes automatiques et préventives des fichiers dans [Notepad++](../notepad++.md).
 
-![Interface](/images/preferences/10_save.png)
+![Interface](/images/npp_settings_save.png)
+
+## Sauvegarde périodique
+
+Effectuer des sauvegardes périodiques automatiques de l'état de la session et du fichier courant.
+
+En cas d'erreur, un backup des fichiers ouverts se trouvera à l'emplacement indiqué, par défaut :
+
+    %APPDATA%\Notepad++\backup\
+
+## Sauvegarde incrémentale
+
+Conserver une ou plusieurs sauvegarde antérieure des fichiers à chaque enregistrement.
 
 Type de sauvegarde :
 
-- *Aucune* : pas de sauvegarde en dehors de celles que vous effectuez.
-- *Simple* : à chaque sauvegarde, la version précédente d'un fichier est enregistrée avec le nom `fichier.ext.bak`. Il existe ainsi deux versions du fichier : l'actuelle et la précédente.
-- *Détaillée* : à chaque sauvegarde, la version précédente d'un fichier est enregistrée dans un dossier `nppBackup` avec le nom `fichier.ext.date_heure.bak`. Il existe autant de versions du fichier que d'enregistrements.
+|*Aucune*|Seule la dernière version du fichier est conservée|
+|*Simple*|À chaque sauvegarde, la version précédente est enregistrée avec le nom `fichier.ext.bak`. Il existe ainsi deux versions du fichier : l'actuelle et la précédente.
+|*Détaillée*|À chaque sauvegarde, la version précédente d'un fichier est enregistrée dans un dossier `nppBackup` avec le nom `fichier.ext.date_heure.bak`. Il existe autant de versions du fichier que d'enregistrements.
 
-*Dossier spécifique* :
-
-Si cette option n'est pas cochée, les versions de sauvegarde sont enregistrées à l'emplacement du fichier manipulé. En activant cette option vous pouvez indiquer un emplacement particulier dans lequel enregistrer toutes les versions de sauvegarde de tous les fichiers manipulés.
+Par défaut, les versions de sauvegarde sont enregistrées à côté du fichier manipulé. *Dossier spécifique* permet d'indiquer un emplacement unique où stocker les sauvegardes de tous les fichier.
