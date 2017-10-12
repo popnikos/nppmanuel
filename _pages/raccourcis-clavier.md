@@ -16,6 +16,7 @@ Voir [préférences générales](preferences/generales.md) et [préférences div
 |<kbd>Ctrl</kbd>+<kbd>n</kbd>|créer un nouvel onglet|
 |<kbd>Ctrl</kbd>+<kbd>w</kbd>|fermer l'onglet actif|
 |<kbd>Clic molette</kbd>|fermer l'onglet visé|
+|<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>t</kbd>|réouvrir le dernier onglet fermé|
 
 ### Enregistrement
 
