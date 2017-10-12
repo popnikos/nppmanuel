@@ -11,14 +11,21 @@ Créé par Dave Brotherstone, il était proposé par défaut dans Notepad++ de 2
 - [Page sur le site de l'auteur](http://brotherstone.co.uk/npp/pm)
 - [Sources sur GitHub](https://github.com/davegb3/nppPluginManager)
 
+L'inclusion d'une publicité pour le sponsor hébergeant la liste de plugins (voir [Plugin Manager Sponsoring](https://bruderste.in/npp/pm/sponsor/)) a entraîné son retrait des plugins inclus par défaut depuis la [version 7.5](historique-des-versions.md).
+
 ## Installation
 
 Depuis la [version 7.5](historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être installé manuellement.
 
-> 1. [Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases)
-> 1. [Installer le plugin manuellement](../plugins.md#installation-manuelle).
+[Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases).
 
-A noter qu'il est aussi possible, en plus d'une [installation manuelle classique](../plugins.md#installation-manuelle), d’installer le Plugin Manager à partir de lui-même en n'ajoutant préalablement que le fichier `dll` au dossier `plugins` !
+Décompresser l'archive, et copier son contenu (`plugins/PluginManager.dll` et `updater/gpup.exe`) dans le répertoire d'installation de Notepad++. Par exemple à l'adresse :
+
+    C:\Program Files\Notepad++
+
+Relancer Notepad++.
+
+> A noter qu'il est aussi possible, en plus d'une [installation manuelle classique](../plugins.md#installation-manuelle), d’installer le Plugin Manager à partir de lui-même en n'ajoutant préalablement que le fichier `dll` au dossier `plugins` !
 
 ## Interface
 
