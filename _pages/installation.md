@@ -21,7 +21,7 @@ Choisir la langue qui vous convient pour afficher l'écran d’accueil de l'inst
 
 ### Une licence libre
 
-![Le choix de la licence lors de l'installation de Notepad++](/images/npp_install_licence.png)
+![Le choix de la licence lors de l'installation de Notepad++](/images/npp_install_license.png)
 
 Notepad++ est un logiciel libre sous [licence GNU GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) créé et principalement développé par Don Ho. En acceptant cette licence vous acceptez d'être autorisé, librement et gratuitement, à faire n'importe quel usage du logiciel, à le partager, ou même le modifier.
 
