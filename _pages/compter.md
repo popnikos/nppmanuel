@@ -36,8 +36,6 @@ Ouvrir la fenêtre de [recherches et remplacements](recherches-et-remplacements.
 
 Et cliquer sur *Compter*.
 
-![Nombre de mots dans le document](/images/notepadpp_count.png)
-
 Vous pouvez aussi compter le nombre de mots dans plusieurs documents en utilisant *Rechercher dans tous les documents ouverts*. Le nombre de mots est alors indiqué dans les résultats de recherche :
 
     (1843 hits in 6 files)

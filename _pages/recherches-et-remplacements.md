@@ -16,7 +16,7 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 
 Faire préalablement une sélection, ou simplement pointer un mot, pré-remplis le champ de recherche.
 
-![Fenêtre de recherche](/images/notepadpp_find.png)
+![Fenêtre de recherche](/images/npp_find-search.png)
 
 - **Suivant** : sélectionne l'occurrence suivante.
 - **Compter** : compte le nombre d'occurrences.
@@ -41,7 +41,7 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 - Du raccourci clavier <kbd>Ctrl</kbd>+<kbd>H</kbd>,
 - De l'icône ![](/images/notepadpp_replaceicon.png) dans la barre de menu.
 
-![Fenêtre de remplacement](/images/notepadpp_replace.png)
+![Fenêtre de remplacement](/images/npp_find-replace.png)
 
 L'interface est similaire à l'onglet de recherche décrit précédemment.
 
@@ -54,7 +54,7 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 - Du menu *Recherche -> Rechercher dans les répertoires*,
 - Du raccourci clavier <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>f</kbd>,
 
-![Fenêtre de recherche/remplacement par dossier](/images/notepadpp_findfolder.png)
+![Fenêtre de recherche/remplacement par dossier](/images/npp_find-dir.png)
 
 - **Recherche** : élément à rechercher.
 - **Remplacer par** : élément de remplacement.
@@ -70,7 +70,7 @@ L'onglet de recherche de la fenêtre de recherches/remplacements s'ouvre au moye
 
 ## Résultats de recherches
 
-![*Find result*, résultats de recherches](/images/notepadpp_findresult.png)
+![*Find result*, résultats de recherches](/images/npp_find-result.png)
 
 Une frame s'affiche en pied de page indiquant le fichier, les lignes, l'emplacement dans la ligne.
 Chaque résultat ou chaque groupe de résultats peut se dérouler/enrouler en cliquant sur les petits "-" à gauche.
