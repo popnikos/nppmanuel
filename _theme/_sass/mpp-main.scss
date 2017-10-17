@@ -1,3 +1,5 @@
+@import "mpp-search";
+
 body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: flex;
@@ -132,9 +134,6 @@ body {
     }
   }
 article {
-    > :first-child:not(h1):not(h2):not(h3) {
-      margin-top: 4em;
-    }
     a {
       @extend .external-link;
     }
