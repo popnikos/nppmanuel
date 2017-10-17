@@ -41,7 +41,7 @@
           {% if page.image %}<img src="{{ page.image.src }}"{% if page.image.alt %} alt="{{ page.image.alt }}"{% endif %}{% if page.image.title %} title="{{ page.image.title }}"{% endif %} />{% endif %}
           {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
         </header>
-        {{ content }}
+        {% include shortcodify.html content=content %}
       </article>
     
       <aside class="content-sidebar">

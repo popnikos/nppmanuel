@@ -1,5 +1,5 @@
 ---
-layout: plugins
+layout: default
 title: Plugins
 pluginlist:
     texts:

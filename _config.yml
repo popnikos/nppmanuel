@@ -21,6 +21,12 @@ sass:
     sass_dir: _theme/_sass
     style: compressed
 
+defaults:
+  - scope:
+      path: images
+    values:
+      image: true
+
 plugins:
   - jekyll-readme-index
   - jekyll-github-metadata
