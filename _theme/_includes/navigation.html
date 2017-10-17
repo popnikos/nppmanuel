@@ -3,9 +3,9 @@
   {% for entry in entries %}
     {% capture slug %}{{ entry.url | split: "/" | last }}{% endcapture %}
     {% capture curr %}{{ entry.url | remove: slug | append: "/" | remove: "//" }}{% endcapture %}
-    {% if curr == include.context %}
+    {% unless curr != include.context or entry.hide %}
       {% include navigation-item.html item=entry showall=include.showall %}
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 {% endcapture %}
 {% assign childs = childs | strip %}
