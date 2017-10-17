@@ -2,8 +2,6 @@
 layout: default
 title: Alternatives
 ---
-# Alternatives
-
 Tous les [éditeurs de texte](https://fr.wikipedia.org/wiki/Editeur_de_texte) ou [environnements de développement](https://fr.wikipedia.org/wiki/Environnement_de_développement) usités et reconnus sont un bon choix. Ils sont tous très bien. Ils sont matures, ont demandés beaucoup de travail à beaucoup de monde, et fonctionnent très bien. La grande majorité d'entre eux résout les mêmes problématiques et offre les même fonctionnalités.
 
 Dans le cas de Notepad++, son avantage est la combinaison de son ancienneté et sa stabilité, son intégration profonde à Windows permettant une vitesse d'exécution presque instantanée et de sa license libre et open source.

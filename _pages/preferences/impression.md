@@ -2,8 +2,6 @@
 layout: default
 title: Impression
 ---
-# Impression
-
 [Préférences](../preferences.md) de mise en page et de contenu pour l'impression de document depuis [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_print.png)

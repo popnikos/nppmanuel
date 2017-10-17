@@ -2,8 +2,6 @@
 layout: default
 title: Recherches et remplacements
 ---
-# Recherches et remplacements
-
 Un des gros plus de Notepad++ est sa gestion des recherches et remplacements. Utiliser ces fonctionnalités systématiquement fais gagner un temps précieux, surtout avec la maîtrise des [expressions régulières](expressions-regulieres.md).
 
 ## Recherche

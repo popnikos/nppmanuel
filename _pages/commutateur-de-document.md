@@ -2,8 +2,6 @@
 layout: default
 title: Commutateur de document
 ---
-# Commutateur de document
-
 Le commutateur de document est un panneau de l'[interface](interface.md) listant les documents ouverts et permettant de naviguer entre eux. Il peut servir d'alternative aux onglets.
 
 Il peut s'activer dans les [préférences générales](preferences/general.md).

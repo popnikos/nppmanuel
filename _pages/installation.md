@@ -2,8 +2,6 @@
 layout: default
 title: Installation
 ---
-# Installation
-
 Le processus d'installation à partir de [l'installeur](telechargement.md) se résume en deux étapes :
 
 1. Lancer l'exécutable

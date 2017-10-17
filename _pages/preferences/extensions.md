@@ -2,8 +2,6 @@
 layout: default
 title: Extensions de fichier
 ---
-# Extensions de fichier
-
 [Préférences](../preferences.md) permettant d'associer [Notepad++](../notepad++.md) à des extensions de fichiers particulières.
 
 ![Interface](/images/npp_settings_ext.png)

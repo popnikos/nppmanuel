@@ -2,8 +2,6 @@
 layout: default
 title: Supprimer des retours à la ligne
 ---
-# Supprimer des retours à la ligne
-
 Comment supprimer des retours à la ligne dans un fichier au moyen de [Notepad++](notepad++.md).
 
 Exemple :

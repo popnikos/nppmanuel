@@ -2,8 +2,6 @@
 layout: default
 title: Notepad++
 ---
-# Notepad++
-
 Notepad++ est un éditeur de texte léger, libre et gratuit pour Windows. Alternative survitaminée au bloc-note par défaut, auquel se rajoute coloration syntaxique, fonctionnalités de développement et un grand nombre de plugins.
 
 Un Notepad "*plus plus*", codé en C++.

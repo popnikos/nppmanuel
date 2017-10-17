@@ -2,8 +2,6 @@
 layout: default
 title: Raccourcis clavier
 ---
-# Raccourcis clavier
-
 Cette page recense un maximum de raccourcis clavier/souris et d'astuces accessibles par défaut dans [Notepad++](notepad++.md). Les raccourcis propres aux [plugins](plugins.md) et ceux propres aux [macros](macros.md) sont traités dans leurs parties respectives, et la liste exhaustive des raccourcis claviers peut être trouvée [ici](http://docs.notepad-plus-plus.org/index.php/Keyboard_And_Mouse_Shortcuts).
 
 Le [Shortcut Mapper](shortcut-mapper.md) permet de modifier n'importe lequel de ces raccourcis, et d'attribuer une touche aux commandes n'ayant pas de raccourci par défaut.

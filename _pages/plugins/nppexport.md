@@ -2,8 +2,6 @@
 layout: default
 title: NppExport
 ---
-# NppExport
-
 Ce [plugin](../plugins.md) permet d'exporter votre fichier colorisé en `html` ou `rtf` ou de le copier dans le presse papier.
 
 Il a été créé par [Harrybharry](http://sourceforge.net/users/jsleroy) :

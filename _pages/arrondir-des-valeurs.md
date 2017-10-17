@@ -2,8 +2,6 @@
 layout: default
 title: Arrondir des valeurs
 ---
-# Arrondir des valeurs
-
 Comment arrondir des valeurs numériques dans un fichier au moyen d'un éditeur de texte comme [Notepad++](notepad++.md) ?
 
 Les [recherches et remplacements](recherches-et-remplacements.md) ne permettent pas d'opérations proprement conditionnelles : un éditeur de texte n'est pas d'un interpréteur ou un compilateur et ne traite pas des opérations mathématiques. Il est donc, de manière générale, impossible d'arrondir automatiquement et facilement des valeurs dans un éditeur de texte.

@@ -2,8 +2,6 @@
 layout: default
 title: Préférences générales
 ---
-# Préférences générales
-
 [Préférences](../preferences.md) générales de langue et d'interface de [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_general.png)

@@ -2,8 +2,6 @@
 layout: default
 title: Éxecuter
 ---
-# Éxecuter
-
 La touche `F5` ouvre la fenêtre *Exécuter* :
 
 ![Fenêtre exécuter.](/images/npp_exec.png)

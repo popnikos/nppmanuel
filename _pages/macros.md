@@ -3,8 +3,6 @@ layout: default
 
 title: Macros
 ---
-# Macros
-
 Une macro est l'enregistrement d'une suite d'actions. Une macro peut être exécutée, toutes les actions enregistrées sont alors effectuées automatiquement.
 
 ![Menu des macros](/images/notepadpp_macromenu.png)

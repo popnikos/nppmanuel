@@ -2,8 +2,6 @@
 layout: default
 title: Préférences diverses
 ---
-# Préférences diverses
-
 [Préférences](../preferences.md) diverses de [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_misc.png)

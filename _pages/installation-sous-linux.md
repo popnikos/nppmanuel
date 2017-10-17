@@ -2,8 +2,6 @@
 layout: default
 title: Installation sous Linux
 ---
-# Installation sous Linux
-
 [Notepad++](notepad++.md) est intrinsèquement lié à Windows : il n'existe pas — et n'existera jamais — de version pour Linux. Il existe de nombreuses [alternatives](alternatives.md) qu'il est largement recommandé d'utiliser.
 
 Il est toutefois possible, en cas d'addiction au logiciel caméléon, de le faire fonctionner sous Linux au moyen du logiciel [Wine](http://winehq.org), qui simule un environnement Windows sous Linux.

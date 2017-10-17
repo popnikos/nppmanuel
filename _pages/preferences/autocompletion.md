@@ -2,8 +2,6 @@
 layout: default
 title: Autocomplétion
 ---
-# Autocomplétion
-
 [Préférences](../preferences.md) d'auto-complétion et d'insertion automatique de [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_autocomplete.png)

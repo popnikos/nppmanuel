@@ -2,8 +2,6 @@
 layout: default
 title: RegEX Helper
 ---
-# RegEX Helper
-
 Ce [plugin](../plugins.md) facilite grandement l'utilisation des [expressions régulières](expressions-regulieres.md) en listant et surlignant dans le texte les correspondances d'un motif, ainsi que les résultats des groupes du motif.
 
 Page du développeur : <http://lawrencebarsanti.wordpress.com>

@@ -2,8 +2,6 @@
 layout: default
 title: Insérer du texte à chaque ligne
 ---
-# Insérer du texte à chaque ligne
-
 Comment insérer du texte en début, milieu ou fin de ligne au moyen de [Notepad++](notepad++.md).
 
 Exemple :

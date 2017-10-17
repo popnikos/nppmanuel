@@ -2,7 +2,7 @@
 layout: default
 title: Édition en colonne
 ---
-# Édition en colonne
+
 
 ## Mode colonne
 

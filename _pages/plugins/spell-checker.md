@@ -2,8 +2,6 @@
 layout: default
 title: Spell Checker
 ---
-# Spell Checker
-
 Ce [plugin](../plugins.md) intègre un correcteur orthographique à [Notepad++](../notepad++.md).
 
 Il a été créé par [Jens Lorenz](http://sourceforge.net/users/jenslorenz).

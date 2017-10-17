@@ -2,8 +2,6 @@
 layout: default
 title: Supprimer des décimales
 ---
-# Supprimer des décimales
-
 Comment supprimer des décimales dans un fichier au moyen de [Notepad++](notepad++.md) ?
 
 Exemple :

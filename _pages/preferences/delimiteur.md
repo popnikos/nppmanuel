@@ -2,8 +2,6 @@
 layout: default
 title: Délimiteur
 ---
-# Délimiteur
-
 [Préférences](../preferences.md) permettant de changer la définition d'un "mot" pour la coloration automatique et la recherche dans [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_delimiter.png)

@@ -2,8 +2,6 @@
 layout: default
 title: Les expressions régulières
 ---
-# Les expressions régulières
-
 Une expression régulière ou [rationnelle](https://fr.wikipedia.org/wiki/Expression_rationnelle), en anglais *regular expression* (abrégé *regexp* ou *regex*), est une chaîne de caractère permettant de décrire un ensemble variable par l'utilisation d'une syntaxe précise. Cette chaîne de caractères est appelée motif, en anglais *pattern*.
 
 ```regexp

@@ -2,8 +2,6 @@
 layout: default
 title: Interface
 ---
-# Interface
-
 Notepad++ se compose d'une fenêtre unique dont la plupart des éléments peuvent être cachés, déplacés ou paramétrés. Si tous les éléments de son interface ont été cachés et toutes les fonctions avancées désactivées, Notepad++ se limite à une zone d'édition blanche.
 
 ![Notepad++ version plus plus](/images/npp_interface_minimal.png)

@@ -2,8 +2,6 @@
 layout: default
 title: Cloud
 ---
-# Cloud
-
 [Préférences](../preferences.md) permettant d'indiquer l'emplacement sauvegarde des paramètres de [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_cloud.png)

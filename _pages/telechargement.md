@@ -2,8 +2,6 @@
 layout: default
 title: Téléchargement
 ---
-# Téléchargement
-
 L'adresse officielle suivante pointe vers la page de téléchargement de la dernière version en date :
 
 [http://notepad-plus-plus.org/fr/download](http://notepad-plus-plus.org/fr/download){:.btn-call}

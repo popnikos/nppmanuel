@@ -2,8 +2,6 @@
 layout: default
 title: Historique des versions
 ---
-# Historique des versions
-
 [Notepad++](notepad++.md) est développé de façon constante depuis près de 15 ans, au rythme d'une version mineure tous les quelques mois (qui amène de nouvelles améliorations ou fonctionnalités) et de versions correctives pratiquement tous les mois.
 
 Cette liste recense les changements principaux d'un point de vue utilisateur. Il s'agit d'une traduction des *changelogs* officiels, épurés des corrections de bugs et des informations concernant uniquement le cœur du logiciel.

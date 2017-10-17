@@ -5,4 +5,3 @@ subtitles:
     pages: Liste des pages
     images: Liste des images
 ---
-# Sommaire complet

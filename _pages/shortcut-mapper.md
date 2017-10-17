@@ -2,8 +2,6 @@
 layout: default
 title: Shortcut Mapper
 ---
-# Shortcut Mapper
-
 Le Shortcut Mapper permet de modifier n’importe quel [raccourci clavier existant](raccourcis-clavier.md), et d’attribuer une touche aux commandes n’ayant pas de raccourci par défaut.
 
 Il est accessible depuis le menu *Paramétrage -> Raccourcis clavier*.

@@ -2,8 +2,6 @@
 layout: default
 title: Explorer
 ---
-# Explorer
-
 Ce [plugin](../plugins.md) permet d'intégrer un explorateur de fichiers et un gestionnaire de favoris au sein de Notepad++.
 
 Page du développeur : <http://jenslorenz.users.sourceforge.net>

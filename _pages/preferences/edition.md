@@ -2,8 +2,6 @@
 layout: default
 title: Zone d'édition
 ---
-# Zone d'édition
-
 [Préférences](../preferences.md) du comportement de certaines fonctionnalités relatives à l'édition dans [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_edit.png)

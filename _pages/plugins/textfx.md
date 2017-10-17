@@ -2,8 +2,6 @@
 layout: default
 title: TextFX
 ---
-# TextFX
-
 Ce [plugin](../plugins.md) intègre un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte.
 
 Créé par Chris Severance en 2005, il était l'un des premiers plugin pour [Notepad++](../notepad++.md).

@@ -2,8 +2,6 @@
 layout: default
 title: Sauvegarde
 ---
-# Sauvegarde
-
 [Préférences](../preferences.md) de sauvegardes automatiques et préventives des fichiers dans [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_save.png)

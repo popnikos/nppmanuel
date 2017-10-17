@@ -2,8 +2,6 @@
 layout: default
 title: Langage
 ---
-# Langage
-
 [Préférences](../preferences.md) de langages de programmation de [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_lang.png)

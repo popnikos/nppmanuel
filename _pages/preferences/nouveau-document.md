@@ -2,8 +2,6 @@
 layout: default
 title: Nouveau document
 ---
-# Nouveau document
-
 [Préférences](../preferences.md) permettant de définir les paramètres d'encodage, de format et de langage a utiliser par défaut pour les nouveaux documents créés dans [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_new.png)

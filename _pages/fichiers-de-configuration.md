@@ -2,8 +2,6 @@
 layout: default
 title: Fichiers de configuration
 ---
-# Fichiers de configuration
-
 Les paramètres de l'application sont enregistrés dans le dossier *Application Data* de windows, dans un sous-dossier au nom de [Notepad++](notepad++.md). Pour ouvrir ce dossier, il suffit de rentrer dans la barre d'adresse de l'explorateur de fichier, ou dans la barre de recherche de Windows :
 
     %APPDATA%/Notepad++

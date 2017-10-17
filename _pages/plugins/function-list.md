@@ -2,8 +2,6 @@
 layout: default
 title: Function List
 ---
-# Function List
-
 Ce [plugin](../plugins.md) permet de lister, trier et filtrer les fonctions de son programme afin d'y accéder rapidement.
 
 Le plugin [SourceCookifier](sourcecookifier.md) propose la même fonctionnalité, et au delà.

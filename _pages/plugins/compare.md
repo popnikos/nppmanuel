@@ -2,8 +2,6 @@
 layout: default
 title: Compare
 ---
-# Compare
-
 Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers dans [Notepad++](../notepad++.md).
 
 Il a été créé par [Jean-Sébastien Leroy](http://sourceforge.net/users/harrybharry) :

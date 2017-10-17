@@ -2,8 +2,6 @@
 layout: default
 title: Dossier par défaut
 ---
-# Dossier par défaut
-
 [Préférences](../preferences.md) permettant de définir l'emplacement du dossier par défaut lors de l'ouverture ou de l'enregistrement d'un fichier dans [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_dir.png)

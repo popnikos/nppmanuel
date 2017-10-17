@@ -2,8 +2,6 @@
 layout: default
 title: Préférences
 ---
-# Préférences
-
 [Notepad++](notepad++.md) propose un certain nombre d'options depuis la fenêtre *Préférences* du menu *Paramétrage*, qui permettent de régler le comportement du logiciel, de ses fonctionnalités et l'aspect de son [interface](interface.md).
 
 - [Préférences générales](preferences/general.md)

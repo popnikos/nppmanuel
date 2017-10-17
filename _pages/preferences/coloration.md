@@ -2,8 +2,6 @@
 layout: default
 title: Coloration
 ---
-# Coloration
-
 [Préférences](../preferences.md) de coloration contextuelle de [Notepad++](../notepad++.md).
 
 ![Interface](/images/npp_settings_color.png)

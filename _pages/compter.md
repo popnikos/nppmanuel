@@ -2,7 +2,7 @@
 layout: default
 title: Compter des caractères, lignes et paragraphes
 ---
-# Compter des caractères, lignes et paragraphes
+
 
 ## Compter le nombre de caractères et de lignes
 
