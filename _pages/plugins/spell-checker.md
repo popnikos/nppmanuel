@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Spell Checker
+plugin_desc: Correcteur orthographique
+plugin_date: 2007
 ---
+
 Ce [plugin](../plugins.md) intègre un correcteur orthographique à [Notepad++](../notepad++.md).
 
-Il a été créé par [Jens Lorenz](http://sourceforge.net/users/jenslorenz).
-
-- [Forum d'aide](http://sourceforge.net/projects/npp-plugins/forums/forum/675120)
+Il a été créé par [Jens Lorenz](http://sourceforge.net/users/jenslorenz) en 2007.
 
 ## Installation
+
+> **Ce plugin n'est plus maintenu. Voir [DSpellCheck](dspellcheck.md).**
 
 Il peut être installé ou désinstallé simplement depuis le [Plugin manager](plugin-manager.md).
 

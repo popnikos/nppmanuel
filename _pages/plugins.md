@@ -1,28 +1,19 @@
 ---
-layout: default
+layout: plugins
 title: Plugins
+pluginlist:
+    texts:
+        plug: Plugin
+        desc: Description
+        date: Création
 ---
 Un plugin, ou complément, est un petit programme distinct, généralement créé par un tiers ou un groupe de bénévoles, qui se rajoute au logiciel principal afin d'étendre ses fonctionnalités. Il en existe plus d'une centaine pour Notepad++, listés sur la page [Plugin Central](http://docs.notepad-plus-plus.org/index.php?title=Plugin_Central) du wiki officiel (en anglais).
 
 > Depuis la [version 7.5](historique-des-versions.md) le gestionnaire de plugins [Plugin Manager](plugins/plugin-manager.md) n'est plus inclus par défaut. Jusqu'à ce qu'il soit réintégré ou qu'un gestionnaire de plugins officiel soit développé, il peut être installé manuellement.
 
-Quelques plugins sont disponibles par défaut si l'option a été laissée cochée lors de l' [installation](installation.md). Certains plugins peuvent ne pas être disponible pour la version 64-bits de Notepad++.
+Quelques plugins sont disponibles par défaut si l'option a été laissée cochée lors de l'[installation](installation.md). Certains plugins peuvent ne pas être disponible pour la version 64-bits de Notepad++.
 
-- [Plugin Manager](plugins/plugin-manager.md) : Gestionnaire de plugins
-- [Converter](plugins/converter.md)
-- [MIME Tools](plugins/mime-tools.md)
-- [NppExport](plugins/nppexport.md) : Export ou copie WYSIWYG
-- [DSpellCheck](plugins/dspellcheck.md) : Correcteur orthographique
-- [NppFTP](plugins/nppftp.md) : Client FTP
-- [Auto Save](plugins/auto-save.md) : Sauvegarde automatique
-- [Compare](plugins/compare.md) : Comparaison de fichiers
-- [Explorer](plugins/explorer.md) : Explorateur de fichiers
-- [Function List](plugins/function-list.md) : Liste des fonctions
-- [RegEX Helper](plugins/regex-Helper.md) : Aide à la recherche par expressions régulières
-- [SourceCookifier](plugins/sourcecookifier.md) : Liste des éléments du code
-- [Spell-Checker](plugins/spell-checker.md) : Correcteur orthographique
-- [Emmet](plugins/emmet.md) : Création rapide de structures html/css
-- [TextFX](plugins/textfx.md) : Outils d'édition
+<!-- pluginlist -->
 
 ## Installation manuelle
 

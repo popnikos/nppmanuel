@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Plugin manager
+plugin_desc: Gestionnaire de plugins
+plugin_date: 2009
 ---
 Ce [plugin](../plugins.md) est un gestionnaire de plugins. Il permet d'installer, supprimer et mettre à jour en quelques clics les plugins disponibles pour [Notepad++](../notepad++.md).
 

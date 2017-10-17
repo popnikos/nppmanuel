@@ -1,12 +1,16 @@
 ---
 layout: default
 title: Auto Save
+plugin_desc: Enregistrement automatique
+plugin_date: 2007
 ---
 Ce [plugin](../plugins.md) permet un enregistrement automatique des fichiers ouverts dans [Notepad++](../notepad++.md) avec un intervalle de temps prédéfini ou lors d'une perte de focus.
 
 Page du développeur : <http://sites.google.com/site/fstellari2/npp_plugins>
 
 ## Installation
+
+> Notepad++ intègre nativement des fonctions de sauvegarde périodique et incrémentale dans les [préférences de sauvegarde](../preferences/sauvegarde.md) qui recouvrent les fonctionnalités de ce plugin.
 
 Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
 

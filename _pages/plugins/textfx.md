@@ -1,6 +1,8 @@
 ---
 layout: default
 title: TextFX
+plugin_desc: Outils d'édition
+plugin_date: 2005
 ---
 Ce [plugin](../plugins.md) intègre un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte.
 

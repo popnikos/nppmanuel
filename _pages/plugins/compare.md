@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Compare
+plugin:
+    desc: Différences entre deux fichiers
 ---
 Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers dans [Notepad++](../notepad++.md).
 

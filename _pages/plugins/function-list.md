@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Function List
+plugin_desc: Liste de fonctions
+plugin_date: 2007
 ---
 Ce [plugin](../plugins.md) permet de lister, trier et filtrer les fonctions de son programme afin d'y accéder rapidement.
-
-Le plugin [SourceCookifier](sourcecookifier.md) propose la même fonctionnalité, et au delà.
-
-> Ce [plugin](../plugins.md) est en cours de développement pour les versions 5+ et peut s'avérer imparfait (mais pas spécialement instable).
 
 Page du développeur : <http://jenslorenz.users.sourceforge.net>
 
 ## Installation
+
+> Notepad++ intègre nativement une [Liste des fonctions](../liste-des-fonctions.md) depuis la [version 7](../historique-des-versions.md) qui recouvre les fonctionnalités de ce plugin.
 
 Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](plugin-manager.md).
 
@@ -21,7 +21,7 @@ Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](p
 FonctionList est accessible :
 
 - depuis le menu *Compléments -> Function List*,
-- par le raccourci clavier `Ctrl-Alt-Shift-L` (par défaut),
+- par le raccourci clavier <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>Shift</kbd><kbd>L</kbd> (par défaut),
 - par son icône située en fin de la barre d'outils : ![Icône FonctionList](/images/notepadpp_functionlist_button.png)
 
 Il suffit de double-cliquer sur un nom de fonction pour y être ammené.

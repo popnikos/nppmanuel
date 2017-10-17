@@ -1,13 +1,15 @@
 ---
 layout: default
 title: NppFTP
+plugin_desc: Client FTP
+plugin_date: 2010
 ---
 Ce [plugin](../plugins.md) intègre un client FTP au sein de [Notepad++](../notepad++.md) permettant d'éditer "en temps réel" des fichiers distants, voire de synchroniser des projets.
 
-Il a été créé par [Harrybharry](http://sourceforge.net/users/harrybharry) :
+Il a été créé par [Harrybharry](http://sourceforge.net/users/harrybharry), et est développé par [Ashish Kulkarni](https://github.com/ashkulz) et [Christian Grasser](https://github.com/chcg) ([tous les contributeurs](https://github.com/ashkulz/NppFTP/graphs/contributors)).
 
-- [Projet sur sourceforge](http://sourceforge.net/projects/nppftp)
-- [Forum d'aide](http://sourceforge.net/apps/phpbb/nppftp)
+- <https://ashkulz.github.io/NppFTP>
+- <https://github.com/ashkulz/NppFTP>
 
 ## Installation
 
@@ -42,6 +44,7 @@ La partie supérieure du panneau est l'explorateur de fichiers distants,
 la partie inférieure la file d'attente des opérations.
 
 Il est possible de déplier ou replier les dossiers et d'en afficher le contenu par un double-clic (cela replie ses sous-dossiers). Le clic droit, une fois un dossier sélectionné, permet dans l'ordre :
+
 - d'y créer un nouveau dossier,
 - d'y créer un nouveau fichier,
 - de le renommer,
@@ -51,6 +54,7 @@ Il est possible de déplier ou replier les dossiers et d'en afficher le contenu 
 - de le recharger.
 
 Il est possible de télécharger et ouvrir un fichier en double-cliquant dessus. Le clic droit, une fois un fichier sélectionné, permet dans l'ordre :
+
 - de le télécharger et l'ouvrir,
 - de l'enregistrer à un endroit donné (une fenêtre s'ouvre),
 - de le renommer,
@@ -76,7 +80,7 @@ Les fichiers en cache sont synchronisés avec leur version distante par le biais
 
 Cette fenêtre contient les options du comportement général du plugin.
 
-![Fenêtre d'options générales de NppFTP](/images/plugins/nppftp/win_settings.png)
+![Fenêtre d'options générales de NppFTP](/images/plugins/nppftp/npp_plugin_nppftp_settings.png)
 
 #### Global cache
 
@@ -110,115 +114,42 @@ Cette fenêtre permet de créer et de paramétrer des profils de connexion, déc
 
 Elle est composée de deux partie : la partie de gauche permet de gérer les profils quand la partie de droite permet de les paramétrer.
 
-![Fenêtre de gestion des profils de connexion de NppFTP](/images/plugins/nppftp/win_profiles.png)
-
-### Gestion des profils
+![Fenêtre de gestion des profils de connexion de NppFTP](/images/plugins/nppftp/npp_plugin_nppftp_profiles.png)
 
 La zone située à gauche nommée `Profiles` liste les profils de connexions enregistrés. Vous pouvez sélectionner un profil pour afficher ses paramètres dans les onglets.
 
 Les boutons situés en bas permettent d'ajouter un nouveau profil et de renommer, de dupliquer ou de supprimer le profil sélectionné.
 
-### Connection
+## Paramètres de profil
 
-Ces paramètres doivent nécessairement être renseignés - au minimum `Hostname`, `Username` et `Password` - pour mettre en place une connexion. Vous les trouverez généralement dans les informations fournies par votre hébergeur.
+**Connection** permet de définir les informations de connexion.
 
-![Paramètres de connection de NppFTP](/images/plugins/nppftp/win_profiles_connection.png)
+| *Hostname* | Nom du serveur. Par exemple : `ftp.domaine.tld`
+| *Connection type* | Protocole de connexion.<br>- [FTP](https://fr.wikipedia.org/wiki/File_Transfer_Protocol) : connexion standard <br>- [FTPS](https://fr.wikipedia.org/wiki/File_Transfer_Protocol_Secure) ou FTPES : connexion FTP sécurisée<br>- [SFTP](https://fr.wikipedia.org/wiki/SSH_File_Transfer_Protocol) : connexion via SSH
+| *Port* | Numéro de port, par exemple `21` (FTP), `22` (SFTP)...
+| *Username* | Nom d'utilisateur sous lequel se connecter. Par exemple : `myname`
+| *Password* | Mot de passe de l'utilisateur.
+| *Ask for password* | Ne pas stocker le mot de passe et le demander à chaque connexion.
+| *Timeout* | Temps maximum (en secondes) pour attendre une réponse du serveur.
+| *Remote directory* | Dossier de l'arborescence distante à ouvrir à la connexion. Par exemple `/www/directory/goodplace`.
 
-####
+**Authentification** permet de définir les méthodes d'authentification pour une connexion sécurisée au serveur.
 
-Le nom du serveur auquel se connecter. Par exemple :
+| *private key* | tenter de s'authentifier via une paire de clés publique/privée. Il est alors nécessaire d'indiquer le chemin vers le fichier contenant la clé privée avec le paramètre `Private key file` et la phrase de sécurité avec le paramètre `Passphrase`.
+| *password* | tenter de s'authentifier via mot de passe (Par défaut).
+| *keyboard interactive* | tenter de s'authentifier via la méthode [keyboard-interactive](http://snailbook.com/docs/keyboard-interactive.txt).
 
-    domain.tld
+**Transfers** permet de définir le comportement des transferts de données et des fichiers binaires.
 
-####
+**FTP Misc.** rassemble divers paramètres
 
-Le protocole de connexion à utiliser :
-
-- `FTP` pour une connexion standard ([wpfr>FTP](File Transfert Protocol).md),
-- `FTPES` ou `FTPS` pour une connexion sécurisée par un protocole [wpfr>SSL](SSL) ([wpfr>FTPS](File Transfert Protocol over SSL).md),
-- `SFTP` pour une connexion sécurisée par un protocole [wpfr>SSH](SSH) ([wpfr>SSH_File_Transfert_Protocol](SSH File Transfert Protocol).md).
-
-Par défaut `FTP`.
-
-####
-
-Numéro de [[wpfr>Port_(logiciel)|port]]. Par défaut `21` (FTP), quelquefois `22` (SFTP).
-
-####
-
-Nom d'utilisateur sous lequel se connecter. Par exemple :
-
-```myname```
-
-####
-
-Mot de passe de l'utilisateur. Par exemple :
-
-```mygreatpassword```
-
-L'option `Ask for password` permet de ne pas stocker ce mot de passe dans NppFTP, mais de le demander à chaque connexion.
-
-####
-
-Temps maximum (en secondes) pendant lequel NppFTP attends une réponse du serveur. Une fois ce temps écoulé, il indiquera ne pas avoir obtenu de réponse. Par défaut `30`.
-
-####
-
-Dossier de l'arborescence distante à ouvrir à la connexion. Par exemple :
-
-    /www/directory/goodplace
-
-A la connexion, l'explorateur de fichiers dépliera automatiquement l'arborescence jusqu'au point indiqué. Par exemple :
-
-```
-/
-    www
-        directory
-            goodplace
-                file1
-                file2
-                ...
-```
-
-### Authentification
-
-Cet onglet permet de définir les méthodes d'authentification pour une connexion sécurisée au serveur.
-
-![Paramètres d'authentification de NppFTP](notepadpp:plugins:nppftp:win_profiles_authentification.png)
-
-####
-
-Si coché le client FTP tentera de s'authentifier via une paire de clés publique/privée.
-
-Il est alors nécessaire d'indiquer le chemin vers le fichier contenant la clé privée avec le paramètre `Private key file` et la phrase de sécurité avec le paramètre `Passphrase`.
-
-####
-
-Si coché le client FTP tentera de s'authentifier via mot de passe. Par défaut.
-
-####
-
-Si coché le client FTP tentera de s'authentifier via la méthode `[keyboard-interactive](http://snailbook.com/docs/keyboard-interactive.txt)`.
-
-### Transfers
-
-![Paramètres de transferts de NppFTP](/images/plugins/nppftp/win_profiles_transfers.png)
-
-### FTP Misc.
-
-Le paramètre `LIST parameters` permet de renseigner les paramètres de la [commande FTP](http://www.commentcamarche.net/contents/internet/ftp.php3#les-commandes-ftp) envoyée au serveur pour lister les fichiers. Ce paramètre permet d'influencer directement ce qui est affiché dans l'explorateur.
-
-- `-al` inclus les fichiers cachés.
-
-![Paramètres des commandes FTP de NppFTP](/images/plugins/nppftp/win_profiles_misc.png)
+| `LIST parameters` | paramètres de la commande FTP envoyée au serveur pour lister les fichiers. Ce paramètre permet d'influencer directement ce qui est affiché dans l'explorateur, par ex: `-al` pour inclure les fichiers cachés.
 
 ### Cache
 
 Cet onglet permet de définir pour chaque profil de connexion des lieux spécifiques où stocker le cache de certaines zones de l'arborescence distante.
 
 Si un fichier se trouve en dehors des chemins distants définis ici, il sera stocké à l'adresse définie dans les options générales.
-
-![Paramètres de cache de NppFTP](/images/plugins/nppftp/win_profiles_cache.png)
 
 #### Profile cache maps
 
