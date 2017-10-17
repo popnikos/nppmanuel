@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Compare
-plugin:
-    desc: Différences entre deux fichiers
+plugin_desc: Différences entre deux fichiers
+plugin_date: 2011
 ---
-Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers dans [Notepad++](../notepad++.md).
+Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers ouverts, entre deux versions Git, SVN ou depuis la dernière sauvegarde.
 
-Il a été créé par [Jean-Sébastien Leroy](http://sourceforge.net/users/harrybharry) :
+Il a été créé par Ty Landercasper et [Jean-Sébastien Leroy](https://github.com/jsleroy) en 2011 et est développé depuis 2016 par [Pavel Nedev](https://github.com/pnedev).
 
-- [Forum d'aide](http://sourceforge.net/projects/npp-plugins/forums/forum/730527)
-- [Page Facebook](http://facebook.com/pages/Notepad-plus-plus-Compare-plugin/156187331112718)
+- <https://github.com/jsleroy/compare-plugin>
+- [Tous les contributeurs](https://github.com/jsleroy/compare-plugin/graphs/contributors)
 
 ## Installation
 
@@ -19,8 +19,22 @@ Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](p
 
 Compare est accessible depuis le menu *Compléments -> Compare*.
 
-Il peut principalement comparer deux fichiers ouverts (<kbd>Alt</kbd>+<kbd>D</kbd>, l'onglet sélectionné avec l'onglet suivant) ou encore un fichier et sa dernière sauvegarde (<kbd>Alt</kbd>+<kbd>S</kbd>).
+![Menu du plugin Compare](/images/plugins/compare/npp_plugin_compare_menu.png)
 
-Il affiche alors les deux documents côtes à côtes, les synchronise horizontalement et verticalement, affiche un panneau de navigation permettant une vision d'ensemble et indique, par le biais de codes couleurs et puces les éléments ajoutés, supprimés ou modifiés :
+| *Compare* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>C</kbd> | Compare le document sélectionné avec le document suivant
+| *Set as First to Compare* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>1</kbd> | Définit le premier document à comparer
+| *Clear Active Compare* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>X</kbd> | "Ferme" la comparaison active et remet en ordre la fenêtre
+| *Clear All Compares* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> | "Ferme" toutes les comparaisons
+| *Diff since last Save* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>D</kbd> | Compare le document avec la dernière sauvegarde
+| *SVN diff* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>V</kbd> | Compare le document avec la version courante SVN
+| *Git diff* | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>G</kbd> | Compare le document avec la version courante Git
 
-![Comparaison de deux versions d'un programme](/images/notepadpp_compare.png)
+Il affiche alors les deux documents ou versions côte à côte, les synchronise horizontalement et verticalement, affiche un panneau de navigation (*NavBar*) et indique, par le biais de codes couleurs et puces les éléments ajoutés, supprimés ou modifiés :
+
+![Comparaison de deux versions d'un programme](/images/plugins/compare/npp_plugin_compare.png)
+
+## Paramètres
+
+Les paramètres sont accessibles depuis le menu *Compléments -> Compare -> Settings*.
+
+![Paramètres du plugin Compare](/images/plugins/compare/npp_plugin_compare_settings.png)
