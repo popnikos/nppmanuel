@@ -11,8 +11,8 @@ imageslist: true
 
 ## Liste des images
 
-Les captures sont faites avec Notepad++ en Français, et mises à jour si possible sous la dernière version de Notepad++ et de Windows. Les captures de la fenêtre principale sont standardisées à 850px de large et de faible hauteur, pour pouvoir s'afficher entièrement au sein d'un corps de texte.
+Les captures sont faites avec Notepad++ en Français, et mises à jour si possible sous la dernière version de Notepad++ et de Windows. Les captures de la fenêtre principale sont standardisées à la largeur minimum à laquelle la barre de menu s'affiche encore sur une ligne (815px environ) et à une hauteur réduite, pour pouvoir s'afficher entièrement au sein d'un corps de texte.
 
-Les images récentes ont une nomenclature standardisée de type `npp_subject_vue.png`.
+Les images récentes ont une nomenclature standardisée de type `npp_subject.png`.
 
 <!-- imageslist -->

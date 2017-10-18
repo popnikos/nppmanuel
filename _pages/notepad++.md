@@ -6,7 +6,7 @@ Notepad++ est un éditeur de texte léger, libre et gratuit pour Windows. Altern
 
 Un Notepad "*plus plus*", codé en C++.
 
-![Fenêtre de notepad++](/images/npp_interface.png)
+![Fenêtre de notepad++](/images/npp_interface.gif)
 
 ## Auteurs
 

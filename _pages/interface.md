@@ -6,7 +6,7 @@ Notepad++ se compose d'une fenêtre unique dont la plupart des éléments peuven
 
 ![Notepad++ version plus plus](/images/npp_interface_minimal.png)
 
-En affichant ses barres et panneaux, en activant ses [options diverses](preferences/divers.md) et en utilisant des [plugins](plugins.md) (ici [NppFTP](plugins/nppftp.md)), l'interface peut-être plus complexe.
+En affichant ses barres et panneaux, en activant ses [options diverses](preferences/divers.md) et en changeant de [thème](themes.md) l'interface peut-être plus complexe.
 
 ![Notepad++ version moins moins](/images/npp_interface_complex.png)
 
@@ -50,9 +50,7 @@ La zone d'édition peut être scindées en deux vues distinctes, à la manière 
 
 *Affichage* -> *Déplacer/cloner le document actuel*
 
-![Deux documents dans deux vues](/images/npp_vues.png)
-
-![Un document cloné](/images/npp_vues_clone.png)
+![Document cloné](/images/npp_interface_views.png)
 
 La séparation entre les deux vues peut être déplacée avec la souris pour laisser plus d'espace à l'une ou l'autre.
 
