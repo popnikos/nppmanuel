@@ -44,13 +44,13 @@ La septième version majeure de Notepad++ est la version courante, développée 
 - Possibilité d'ouvrir le chemin de fichier sélectionné dans un texte.
 - Possibilité de chercher le texte sélectionné sur internet.
 - La barre d'onglets peut être défilée avec la molette de la souris.
-- La [Liste des fonctions](function-list.md) supporte le langage Ruby.
+- La [Liste des fonctions](liste-des-fonctions.md) supporte le langage Ruby.
 - Ajout d'une option pour ouvrir tous les fichiers contenus dans le dossier déposé sur la fenêtre au lieu de l'ajouter au [Dossier de travail](folder-as-workspace.md).
 - Le surlignage intelligent peut s'étendre à l'autre vue ouverte.
 
 ## Version 6
 
-La sixième version majeure de Notepad++ a été développée et distribuée entre 2012 et 2016. Elle est principalement caractérisée par le support complet des [expressions régulières](expressions-regulieres.md) (PCRE), l'intégration d'une [Liste des fonctions](function-list.md), de dossiers de travail et la sauvegarde des sessions.
+La sixième version majeure de Notepad++ a été développée et distribuée entre 2012 et 2016. Elle est principalement caractérisée par le support complet des [expressions régulières](expressions-regulieres.md) (PCRE), l'intégration d'une [Liste des fonctions](liste-des-fonctions.md), de dossiers de travail et la sauvegarde des sessions.
 
 ### version 6.9 - février 2016
 
@@ -83,11 +83,11 @@ La sixième version majeure de Notepad++ a été développée et distribuée ent
 - La sauvegarde de session permet de conserver l'état de la session à la fermeture de Notepad++ pour retrouver les fichiers en cours d'édition au lancement suivant, sécurisant au passage les pertes de données accidentelles. La fonction peut être activée/désactivée via les préférences ou une option de ligne de commande, et il est possible de paramétrer la fréquence et l'emplacement des sauvegardes de sessions.
 - Les paramètres du logiciel peuvent être enregistrés et centralisés via un compte Dropbox, Microsoft OneDrive ou Google Drive.
 - Les couleurs de fond des thèmes s'appliquent aux diverses boites de dialogues.
-- La [Liste des fonctions](function-list.md) intègre le language python.
+- La [Liste des fonctions](liste-des-fonctions.md) intègre le language python.
 
 ### version 6.5 - septembre 2013
 
-- La [Liste des fonctions](function-list.md) intègre les langages php, java, perl, xml, batch, ini, nsis ainsi que les langages utilisateurs. Son panneau se dote d'un champ de recherche, d'une fonction de tri et d'un bouton de rechargement.
+- La [Liste des fonctions](liste-des-fonctions.md) intègre les langages php, java, perl, xml, batch, ini, nsis ainsi que les langages utilisateurs. Son panneau se dote d'un champ de recherche, d'une fonction de tri et d'un bouton de rechargement.
 - L'Insertion automatique permet de fermer automatiquement pendant la frappe les parenthèses, guillemets, crochets, accolades et balises xml/html, ou des paires définies par l'utilisateur. Ces nouvelles options apparaissent dans les préférences, catégorie Autocomplétion.
 - Le Collage multiple permet, en sélection multiple ou mode colonne, de coller en une fois à tous les emplacements du curseur un texte précédemment copié.
 - Support du langage CoffeeScript.
@@ -96,7 +96,7 @@ La sixième version majeure de Notepad++ a été développée et distribuée ent
 
 ### version 6.4 - juin 2013
 
-- Introduction de la [Liste des fonctions](function-list.md), limité aux languages C/C++ et Javascript.
+- Introduction de la [Liste des fonctions](liste-des-fonctions.md), limité aux languages C/C++ et Javascript.
 - La fenêtre de [recherches et remplacements](recherches-remplacements.md) comprend désormais une barre d'état qui affiche directement les messages d'erreurs et résultats.
 - Les macros peuvent enregistrer les recherches et remplacements.
 - Amélioration de l'interface des préférences, une liste remplace les onglets.
