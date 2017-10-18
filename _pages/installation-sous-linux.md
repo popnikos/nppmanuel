@@ -16,7 +16,7 @@ sudo apt-get install wine
 
 ## Installer Notepad++
 
-[Télécharger l'installeur](telecharger.md), lui appliquer des droits d'exécution et le lancer avec Wine :
+[Télécharger l'installeur](telechargement.md), lui appliquer des droits d'exécution et le lancer avec Wine :
 
 ```bash
 chmod +x nomDuFichier.exe

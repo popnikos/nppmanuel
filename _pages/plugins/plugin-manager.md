@@ -12,7 +12,7 @@ Les sources du plugin, releases et informations sont disponibles sur le [projet 
 
 ## Installation
 
-Depuis la [version 7.5](historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être téléchargé et installé manuellement :
+Depuis la [version 7.5](../historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être téléchargé et installé manuellement :
 
 [Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases){:.btn-call}
 
