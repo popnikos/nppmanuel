@@ -4,9 +4,9 @@ title: Function List
 plugin_desc: Liste de fonctions
 plugin_date: 2007
 ---
-Ce [plugin](../plugins.md) permet de lister, trier et filtrer les fonctions de son programme afin d'y accéder rapidement.
+Ce [plugin](../plugins.md) permettait de lister, trier et filtrer les fonctions de son programme afin d'y accéder rapidement. Il a été développé entre 2007 et 2010 par Jens Lorenz, avant que le plugin [SourceCookifier](sourcecookifier.md) à partir de 2010, puis la [liste des fonctions](../liste-des-fonctions.md) native de Notepad++ à partir de 2013 n'en recouvrent les fonctionnalités.
 
-Page du développeur : <http://jenslorenz.users.sourceforge.net>
+Les sources sont disponibles sur [le projet SourceForge](https://sourceforge.net/projects/npp-plugins/files/Function%20List).
 
 ## Installation
 
@@ -16,13 +16,13 @@ Il peut être installé ou désinstallé simplement depuis le [Plugin Manager](p
 
 ## Utilisation
 
-![Panneau de FonctionList](/images/notepadpp_functionlist_panel.png)
+![Panneau de FonctionList](/images/plugins/functionlist/npp_plugin_functionlist_panel.png)
 
 FonctionList est accessible :
 
 - depuis le menu *Compléments -> Function List*,
 - par le raccourci clavier <kbd>Ctrl</kbd><kbd>Alt</kbd><kbd>Shift</kbd><kbd>L</kbd> (par défaut),
-- par son icône située en fin de la barre d'outils : ![Icône FonctionList](/images/notepadpp_functionlist_button.png)
+- par son icône située en fin de la barre d'outils : ![Icône FonctionList](/images/plugins/functionlist/npp_plugin_functionlist_button.png)
 
 Il suffit de double-cliquer sur un nom de fonction pour y être ammené.
 
@@ -44,13 +44,13 @@ La barre d'outils contiens les outils suivants :
 
 ## Ajouter des règles
 
-Il est possible de créer ses propres règles par le biais de la fenêtre *Compléments -> Function List -> Language Parsing Rules...*, ou en modifiant manuellement le fichier *FunctionListRules.xml* (voir l'emplacement des fichiers de configuration dans le chapitre [plugins](plugins.md)).
+Il est possible de créer ses propres règles par le biais de la fenêtre *Compléments -> Function List -> Language Parsing Rules...*, ou en modifiant manuellement le fichier *FunctionListRules.xml* (voir l'emplacement des fichiers de configuration dans le chapitre [plugins](../plugins.md)).
 
-La création de règles vous demandera une connaissance de base des [expressions régulières](expressions-regulieres.md).
+La création de règles vous demandera une connaissance de base des [expressions régulières](../expressions-regulieres.md).
 
 Pour rajouter la prise en compte des classes en Python, il suffit par exemple de créer un nouveau groupe similaire au groupe FUNCTIONS, en remplaçant le mot **def** dans *Function Begin* par **class**.
 
-![Création d'une règle pour les classes Python dans la fenêtre *Language Parsing Rules*](/images/notepadpp_functionlist_rulesl.png)
+![Création d'une règle pour les classes Python dans la fenêtre *Language Parsing Rules*](/images/plugins/functionlist/npp_plugin_functionlist_rulesl.png)
 
 Cette configuration est toute fois très limitée, les fonctions de premier niveau et les méthodes de classes étant mêlées. Pour une configuration plus complète du langage python, vous pouvez remplacer le nœud en question dans le fichier de configuration par celui-ci :
 
@@ -68,7 +68,5 @@ Cette configuration est toute fois très limitée, les fonctions de premier nive
     </Group>
 </Language>
 ```
-
-*[Source](http://blog.theroyweb.com/function-list-plugins/part-2-python-parsing-rules)*
 
 Pour actualiser les changements, sélectionnez un autre langage, cliquez sur *Try!*, sélectionnez Python et cliquez sur *Try!*.

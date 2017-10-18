@@ -4,18 +4,15 @@ title: Plugin manager
 plugin_desc: Gestionnaire de plugins
 plugin_date: 2009
 ---
-Ce [plugin](../plugins.md) est un gestionnaire de plugins. Il permet d'installer, supprimer et mettre à jour en quelques clics les plugins disponibles pour [Notepad++](../notepad++.md).
+Ce [plugin](../plugins.md) est un gestionnaire de plugins. Il permet d'installer, supprimer et mettre à jour en quelques clics les plugins disponibles pour [Notepad++](../notepad++.md). Créé et développé depuis 2009 par Dave Brotherstone, il était proposé par défaut dans Notepad++ de 2009 à 2017.
 
-Créé par Dave Brotherstone, il était proposé par défaut dans Notepad++ de 2009 à 2017 ([versions 5.5 à 7.5](../historique-des-versions.md)).
+L'inclusion en [septembre 2016](https://github.com/bruderstein/nppPluginManager/commit/63af96b59e7105047790bed016b71d2dd709dd55) d'une publicité pour le sponsor hébergeant la liste de plugins (voir l'explication par l'auteur [Plugin Manager Sponsoring](https://bruderste.in/npp/pm/sponsor/)) a entraîné son retrait des plugins inclus par défaut à partir d'août 2017 et de la [version 7.5](../historique-des-versions.md). Un gestionnaire de plugins natif a commencé à être développé sous le nom de *Plugin Admin* (voir [commits](https://github.com/notepad-plus-plus/notepad-plus-plus/search?q=Plugin+Admin&type=Commits&utf8=%E2%9C%93)).
 
-- [Page sur le site de l'auteur](http://brotherstone.co.uk/npp/pm)
-- [Sources sur GitHub](https://github.com/davegb3/nppPluginManager)
-
-L'inclusion d'une publicité pour le sponsor hébergeant la liste de plugins (voir [Plugin Manager Sponsoring](https://bruderste.in/npp/pm/sponsor/)) a entraîné son retrait des plugins inclus par défaut depuis la [version 7.5](historique-des-versions.md).
+Les sources du plugin, releases et informations sont disponibles sur le [projet GitHub](https://github.com/davegb3/nppPluginManager).
 
 ## Installation
 
-Depuis la [version 7.5](historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être installé manuellement.
+Depuis la [version 7.5](historique-des-versions.md) le Plugin Manager n'est plus inclus par défaut et doit être téléchargé et installé manuellement :
 
 [Télécharger la dernière version](https://github.com/bruderstein/nppPluginManager/releases){:.btn-call}
 
@@ -31,7 +28,7 @@ Relancer Notepad++.
 
 Pour afficher la fenêtre, utiliser le menu *Compléments -> Plugin Manager -> Show Plugin Manager*.
 
-![La fenêtre du Plugin Manager](/images/plugins/plugin-manager.png)
+![La fenêtre du Plugin Manager](/images/plugins/pluginmanager/npp_plugin_pluginmanager.png)
 
 ### Available
 
@@ -47,9 +44,9 @@ Le troisième onglet liste les plugins installés et permet de les supprimer ou 
 
 ## Options
 
+![Paramètres du Plugin Manager](/images/plugins/pluginmanager/npp_plugin_pluginmanager_settings.png)
+
 La fenêtre d'options est accessible depuis le bouton *Settings* en bas du Plugin Manager.
 
-- `Proxy address`
-- `Proxy port`
 - `Notify of plugin updates at startup` active la recherche de mises à jour de plugins au démarrage de Notepad++, et le cas échéant affiche un message.
 - `Show unstable plugins` permet d'ajouter les plugins en cours de développement ou instables à la liste de plugins disponibles.

@@ -4,17 +4,13 @@ title: TextFX
 plugin_desc: Outils d'édition
 plugin_date: 2005
 ---
-Ce [plugin](../plugins.md) intègre un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte.
+Ce [plugin](../plugins.md) intègrait un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte. Un des tout premiers plugins créé pour Notepad++, il a été développé entre 2005 et 2007 par Chris Severance avant que ses fonctionnalités ne soient peu à peu disponibles nativement dans Notepad++, parfois via des [raccourcis clavier](../raccourcis-clavier.md), ou au fil de l'amélioration des [recherches et remplacements](../recherches-remplacements.md) et du support des [expressions régulières](../expressions-regulieres.md).
 
-Créé par Chris Severance en 2005, il était l'un des premiers plugin pour [Notepad++](../notepad++.md).
-
-- [Site officiel](http://textfx.no-ip.com/textfx/index.htm)
-
-La plus grande partie des fonctionnalités de TextFX sont aujourd'hui réalisables au moyen de fonctionnalités natives, parfois avec des [raccourcis clavier](../raccourcis-clavier.md), ou au moyen de [recherches et remplacements](../recherches-remplacements.md) et d'[expressions régulières](../expressions-regulieres.md).
+Les sources sont disponibles sur son [site officiel](http://textfx.no-ip.com/textfx/index.htm).
 
 ## Interface
 
-TextFX n'a pas d'interface particulière car propose des outils effectuant uniquement des actions ponctuelles, qui s'exécutent par la barre de menu.
+TextFX n'avait pas d'interface particulière car proposait des outils effectuant uniquement des actions ponctuelles, qui s'exécutaient par la barre de menu.
 
 ## Characters
 
@@ -203,7 +199,7 @@ Sera trié en :
     00000002 b
     00000003 c
 
-Pour supprimer les zéros en trop, ouvrez la fenêtre de [notepadpp:recherches#remplacement](notepadpp:recherches#remplacement.md), activez les [expressions régulières](expressions-regulieres.md) et recherchez **^00+**.
+Pour supprimer les zéros en trop, ouvrez la fenêtre de [remplacement](../recherches-et-remplacements.md), activez les [expressions régulières](../expressions-regulieres.md) et recherchez **^00+**.
 
 - **Delete Line Numbers or First Words** : supprime les numéros en début de lignes ou le premier mot.
 - **Clean eMail > Quoting** : supprime les symboles **>** de citation en début de lignes.
