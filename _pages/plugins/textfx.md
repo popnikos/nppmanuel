@@ -4,7 +4,7 @@ title: TextFX
 plugin_desc: Outils d'édition
 plugin_date: 2005
 ---
-Ce [plugin](../plugins.md) intègrait un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte. Un des tout premiers plugins créé pour Notepad++, il a été développé entre 2005 et 2007 par Chris Severance avant que ses fonctionnalités ne soient peu à peu disponibles nativement dans Notepad++, parfois via des [raccourcis clavier](../raccourcis-clavier.md), ou au fil de l'amélioration des [recherches et remplacements](../recherches-remplacements.md) et du support des [expressions régulières](../expressions-regulieres.md).
+Ce [plugin](../plugins.md) intègrait un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte. Un des tout premiers plugins créé pour Notepad++, il a été développé entre 2005 et 2007 par Chris Severance avant que ses fonctionnalités ne soient peu à peu disponibles nativement dans Notepad++, parfois via des [raccourcis clavier](../raccourcis-clavier.md), ou au fil de l'amélioration des [recherches et remplacements](../recherches-et-remplacements.md) et du support des [expressions régulières](../expressions-regulieres.md).
 
 Les sources sont disponibles sur son [site officiel](http://textfx.no-ip.com/textfx/index.htm).
 
