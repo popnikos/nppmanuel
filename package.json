@@ -1,0 +1,21 @@
+{
+  "name": "nppmanuel",
+  "description": "A manual for Notepad++, the chameleon text editor",
+  "homepage": "https://nppmanuel.nliautaud.fr",
+  "repository": {
+    "url": "https://github.com/nliautaud/nppmanuel",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/nliautaud/nppmanuel/issues"
+  },
+  "author": "Nicolas Liautaud",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.12.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
