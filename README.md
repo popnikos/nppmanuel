@@ -4,6 +4,7 @@ editLink: false
 ---
 # Manuel++
 
+
 Un manuel pour [Notepad++](notepad-plus-plus.md), l'éditeur de texte caméléon.
 
 Ce manuel non-officiel documente d'un point de vue utilisateur l'intégralité des fonctionnalités du logiciel, de façon exhaustive et pédagogique.
