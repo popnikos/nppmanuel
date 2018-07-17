@@ -10,3 +10,8 @@ install:
 
 script:
   - yarn build
+
+  
+branches:
+  only:
+  - vuepress
