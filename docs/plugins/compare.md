@@ -4,7 +4,7 @@ plugin:
     desc: Différences entre deux fichiers
     date: 2011
 ---
-# Compare plugin
+# Compare
 
 Ce [plugin](../plugins.md) permet de déterminer les différences entre deux fichiers ouverts, entre deux versions Git, SVN ou depuis la dernière sauvegarde.
 

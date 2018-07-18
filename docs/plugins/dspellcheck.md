@@ -4,7 +4,7 @@ plugin:
     desc: Correcteur orthographique
     date: 2013
 ---
-# DSpellCheck plugin
+# DSpellCheck
 
 Ce [plugin](../plugins.md) intègre un correcteur orthographique à [Notepad++](../notepad++.md).
 

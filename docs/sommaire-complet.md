@@ -3,4 +3,4 @@ editLink: false
 ---
 # Sommaire complet
 
-<PagesList sort='path'></PagesList>
+<PagesList sort='path' match='^(?!/../)'/>

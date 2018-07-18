@@ -1,10 +1,10 @@
 ---
-plugin: 
+plugin:
     name: AutoSave
     desc: Enregistrement automatique
     date: 2007
 ---
-# AutoSave plugin
+# AutoSave
 
 Ce [plugin](../plugins.md) permet un enregistrement automatique des fichiers avec un intervalle de temps prédéfini ou lors d'une perte de focus. Créé et maintenu depuis 2007 par Franco Stellari, il propose des fonctionnalités supplémentaires aux sauvegardes périodiques et incrémentales natives de Notepad++ accessibles dans les [préférences de sauvegarde](../preferences/sauvegarde.md).
 

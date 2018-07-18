@@ -14,7 +14,7 @@ Depuis la [version 7.5](historique-des-versions.md) le gestionnaire de plugins [
 
 ## Liste des plugins
 
-<PluginList :columns="{name: 'Plugin', desc: 'Description', date: 'Création'}"></PluginList>
+<PluginList :columns="{name: 'Plugin', desc: 'Description', date: 'Création'}"/>
 
 ## Installation manuelle
 

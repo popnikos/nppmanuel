@@ -27,6 +27,7 @@ export default {
   },
   computed: {
     pages: function() {
+      console.log(this)
       let pages = this.$site.pages.filter(p => p.path.match(this.match))
       if (!this.sort) return pages
       return pages.sort((a,b) => {

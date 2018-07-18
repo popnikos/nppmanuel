@@ -15,7 +15,8 @@
     "vuepress": "^0.12.0"
   },
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": "vuepress dev docs",
+    "localhost": "vuepress dev docs --host localhost",
+    "build": "vuepress build docs"
   }
 }

@@ -4,7 +4,7 @@ plugin:
         desc: Raccourcis HTML/CSS
         date: 2010
 ---
-# Emmet plugin
+# Emmet
 
 Emmet est un [plugin](../plugins.md) permettant de créer rapidement une structure HTML/CSS, existant sous forme d'extension pour tous les principaux éditeurs de texte et environnements de développement.
 

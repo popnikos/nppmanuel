@@ -4,7 +4,7 @@ plugin:
     desc: Alignement de tabulations
     date: 2016
 ---
-# Elastic Tabstops plugin
+# Elastic Tabstops
 
 Ce [plugin](../plugins.md) est une implémentation d'[Elastic Tabstops](http://nickgravgaard.com/elastic-tabstops/) pour Notepad++, permettant de synchroniser l'alignement de lignes de texte. Il est développé depuis 2016 par Justin Dailey.
 

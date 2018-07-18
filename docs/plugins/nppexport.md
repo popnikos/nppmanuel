@@ -4,7 +4,7 @@ plugin:
     desc: Export avec colorisation
     date: 2007
 ---
-# NppExport plugin
+# NppExport
 
 Ce [plugin](../plugins.md) permet d'exporter votre fichier colorisé en `html` ou `rtf` ou de le copier dans le presse papier.
 

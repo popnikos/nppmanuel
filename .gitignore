@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Build dir
-/docs/
+/docs/.vuepress/dist
 
 # Dependency directory
 node_modules/

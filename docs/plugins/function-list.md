@@ -4,7 +4,7 @@ plugin:
     desc: Liste de fonctions
     date: 2007
 ---
-# Function List plugin
+# Function List
 
 Ce [plugin](../plugins.md) permettait de lister, trier et filtrer les fonctions de son programme afin d'y accéder rapidement. Il a été développé entre 2007 et 2010 par Jens Lorenz, avant que le plugin [SourceCookifier](sourcecookifier.md) à partir de 2010, puis la [liste des fonctions](../liste-des-fonctions.md) native de Notepad++ à partir de 2013 n'en recouvrent les fonctionnalités.
 

@@ -4,7 +4,7 @@ plugin:
     desc: Explorateur de fichiers
     date: 2007
 ---
-# Explorer plugin
+# Explorer
 
 Ce [plugin](../plugins.md) permet d'intégrer un explorateur de fichiers et un gestionnaire de favoris au sein de Notepad++.
 

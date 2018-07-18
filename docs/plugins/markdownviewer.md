@@ -4,7 +4,7 @@ plugin:
     desc: Visualiseur Markdown
     date: 2017
 ---
-# MarkdownViewer++ plugin
+# MarkdownViewer++
 
 Ce [plugin](../plugins.md) permet de visualiser et synchroniser le résultat d'un fichier Markdown, et de l'exporter en HTML ou PDF.
 

@@ -5,7 +5,7 @@ plugin:
     date: 2005
     tags: ['edition', 'expreg']
 ---
-# TextFX plugin
+# TextFX
 
 Ce [plugin](../plugins.md) intègrait un très grand nombre d'outils d'édition et d'assistance à la manipulation de texte. Un des tout premiers plugins créé pour Notepad++, il a été développé entre 2005 et 2007 par Chris Severance avant que ses fonctionnalités ne soient peu à peu disponibles nativement dans Notepad++, parfois via des [raccourcis clavier](../raccourcis-clavier.md), ou au fil de l'amélioration des [recherches et remplacements](../recherches-et-remplacements.md) et du support des [expressions régulières](../expressions-regulieres.md).
 
@@ -216,6 +216,6 @@ Pour supprimer les zéros en trop, ouvrez la fenêtre de [remplacement](../reche
 - **Autoconvert typed leading spaces to tabs** : convertis automatiquement l'écriture de quatre espaces par une tabulation.
 - **Autoconvert typed HTML/XML to &entities;** : en html, convertis automatiquement l'écriture des symboles *&*, *"* et *>* en leur code html.
 
-### Plugin
+###
 
 - **Move quick menus out of 'Plugins' menu** : affiche les menus *TextFX Quick* et *TextFX Viz* dans la barre de menu, en dehors du menu *TextFX*.
