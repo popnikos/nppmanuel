@@ -1,0 +1,14 @@
+{
+  "name": "Manuel++",
+  "short_name": "Manuel++",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#159957",
+  "theme_color": "#159957",
+  "description": "A manual for Notepad++.",
+  "icons": [{
+    "src": "icons/npp_error.png",
+    "sizes": "48x48 72x72 96x96 196x196 256x256 512x512",
+    "type": "image/png"
+  }]
+}
