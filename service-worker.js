@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "34604d37d16d21fb6515f7dca3326583"
+    "revision": "e2089f75c2fa5162c81602e96953f17c"
   },
   {
     "url": "alternatives.html",
-    "revision": "05aea21fb393be0e87a9945cc780b802"
+    "revision": "aa56c034ab8ba70a84d90f3e016ecca9"
   },
   {
     "url": "arrondir-des-valeurs.html",
-    "revision": "22e2fc8a85267492afbd227bb70983c0"
+    "revision": "58c36b03107582d90d3222c30d7705b4"
   },
   {
     "url": "assets/css/0.styles.2037bf10.css",
@@ -224,12 +224,12 @@ self.__precacheManifest = [
     "revision": "dbe4dda3224e267d3719b2d6f4c5ce82"
   },
   {
-    "url": "assets/js/21.46b77387.js",
-    "revision": "338b35339b03e53d413867f3969cbc4f"
+    "url": "assets/js/21.4cc8226a.js",
+    "revision": "eb6173f3afc9df3617163dfeb3c8bde0"
   },
   {
-    "url": "assets/js/22.46f0f993.js",
-    "revision": "3d9c177e1179d784a5fe268602b13acc"
+    "url": "assets/js/22.1b358ef3.js",
+    "revision": "abe5d2617a38a34c7c11f858c8f56cef"
   },
   {
     "url": "assets/js/23.949484ad.js",
@@ -420,8 +420,8 @@ self.__precacheManifest = [
     "revision": "d690cbd5c8b72fb829cfa786c28bc31f"
   },
   {
-    "url": "assets/js/7.6f4e990e.js",
-    "revision": "bc04a126cb9d42d3fa38b79ecbb6bb8b"
+    "url": "assets/js/7.5864dd0b.js",
+    "revision": "fc31adf889dc9e695f24e1dbef54b90a"
   },
   {
     "url": "assets/js/8.5f9262cb.js",
@@ -432,52 +432,52 @@ self.__precacheManifest = [
     "revision": "a15978e0b48a7c9daf9dfcd3b1b8effd"
   },
   {
-    "url": "assets/js/app.238cb4dc.js",
-    "revision": "a33bd93b994faa00d2e3c18548259d41"
+    "url": "assets/js/app.d0296c70.js",
+    "revision": "9203691e7e2ff36241990a3cfe8a79db"
   },
   {
     "url": "commutateur-de-document.html",
-    "revision": "607b50db83a2b211822be6a57229e7ba"
+    "revision": "548c36d0d8cd0ac22b49c956da3342fd"
   },
   {
     "url": "compter.html",
-    "revision": "51ab8168b0a8c153fc8cc8061c3c74a6"
+    "revision": "8887f0d0be4d09c69a3dce66b89c2798"
   },
   {
     "url": "edition-en-colonne.html",
-    "revision": "331b89049d87690bb786e16a40a064e5"
+    "revision": "9580b6fd8a384aaf655307fe4e3b509a"
   },
   {
     "url": "en/index.html",
-    "revision": "8a08512fc29c14a12ab075a698e2bcbb"
+    "revision": "7bd254ac4b054714bec402fcfbe2c2c0"
   },
   {
     "url": "executer.html",
-    "revision": "346a08eb4491e522ed4b30a29e0e62ff"
+    "revision": "a39d9316d747f1b23d6af7cdc0d0b83c"
   },
   {
     "url": "expressions-regulieres/index.html",
-    "revision": "813a5cf15e50129d42c4b5473de454ff"
+    "revision": "2bcc1d864b6a9f477cb59a55bc3bcc92"
   },
   {
     "url": "expressions-regulieres/notions.html",
-    "revision": "b6641fc41f2ffca8f767d1b410e8aece"
+    "revision": "4bd7eddfa3647735b4785ac3b243a903"
   },
   {
     "url": "expressions-regulieres/syntaxe-recherche.html",
-    "revision": "1ee2b85d7e253a0e84663a02db956357"
+    "revision": "0be612ca8908d8ea8249e1081cfc5cdc"
   },
   {
     "url": "expressions-regulieres/syntaxe-remplacement.html",
-    "revision": "df25be7ef933630878bd0027a5a1d9f4"
+    "revision": "f03e7bcee6002ef3870f0279998e398a"
   },
   {
     "url": "fichiers-de-configuration.html",
-    "revision": "040ece77a1c49a5545c04fa618c7c027"
+    "revision": "c28160e8c81cd3441f1fb4508cb86976"
   },
   {
     "url": "historique-des-versions.html",
-    "revision": "8f98d4a1eef491925e6d15efe07b6da5"
+    "revision": "0fa485e74a20e3e1643ecbe3b9db9277"
   },
   {
     "url": "icons/npp_error.png",
@@ -485,191 +485,191 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "805bec9774f2a92242f94dcf6a97fd55"
+    "revision": "62991f55381baf68a6c81d3af18ac8cc"
   },
   {
     "url": "inserer-du-texte.html",
-    "revision": "25619da2ad22b296936aa88ba7a4f7d8"
+    "revision": "e73f8b9ab38092c93d9bd313712b8677"
   },
   {
     "url": "installation-sous-linux.html",
-    "revision": "5326f3def40f43cd6215811c6a0d745d"
+    "revision": "ca20d43168aa41baad2f3c4c416d4b52"
   },
   {
     "url": "installation.html",
-    "revision": "e14c36586d1be1669cefaf8fe13c165f"
+    "revision": "f50c8d5f4bfdf43b1e980c008753bda0"
   },
   {
     "url": "interface.html",
-    "revision": "04de772a56b0b8b9a041919900831d57"
+    "revision": "e37dbd304105d7e95602c6ff5278c1ab"
   },
   {
     "url": "liste-des-fonctions.html",
-    "revision": "cead13b679fbe4130beedfba13c5c253"
+    "revision": "861ead3efcad8994fc0f58648844b099"
   },
   {
     "url": "macros.html",
-    "revision": "ecb4e04e54952b1c26ade7524a2b80b7"
+    "revision": "26c251e7ee76f72d8891a6eb1112d44e"
   },
   {
     "url": "notepad-plus-plus.html",
-    "revision": "833b96ecf015dbf40db4a09886a26e6e"
+    "revision": "4df1d5f7180151aa5d08fb253ae72a92"
   },
   {
     "url": "plugins/autosave.html",
-    "revision": "2a53c9c4a1d169ace1aa96d155ce2534"
+    "revision": "14d582d91e4db4dec542435631282b65"
   },
   {
     "url": "plugins/compare.html",
-    "revision": "eca74d932f36b473461f56012ad36e54"
+    "revision": "423e0c142118ddc67e7d60e76e1cd729"
   },
   {
     "url": "plugins/dspellcheck.html",
-    "revision": "b511b84dafd311068f66fb7ad6900e52"
+    "revision": "cbf8ea6a84f4bb52cac1e298cb7b6b21"
   },
   {
     "url": "plugins/elastic-tabstops.html",
-    "revision": "d32904e4e2839248611fd9ed4674a8c1"
+    "revision": "13782317867accfd7324482399719786"
   },
   {
     "url": "plugins/emmet.html",
-    "revision": "c68d19bc5797aa76a0ae32387183b815"
+    "revision": "38f0f065a2ecfe47c357fc3e4e726aea"
   },
   {
     "url": "plugins/explorer.html",
-    "revision": "f3cf43d658cc74d8cd024573666cdf9a"
+    "revision": "8bcb82438cfa8bdce7983ab6f986d1ec"
   },
   {
     "url": "plugins/function-list.html",
-    "revision": "a950cd1b431f8b51f89a8d6cac59dbd8"
+    "revision": "eca5cd0a0af358e04a79271d055c5c60"
   },
   {
     "url": "plugins/index.html",
-    "revision": "26db435eaf78f56baf1b7b78420cae79"
+    "revision": "13809aef528c050e9d66eb9055ff70db"
   },
   {
     "url": "plugins/markdownviewer.html",
-    "revision": "9ba5b76f54dc0f81e33f4cdc4b0e5ce8"
+    "revision": "526355691925d0376b6905e8317fc14a"
   },
   {
     "url": "plugins/nppexport.html",
-    "revision": "ee3058b71d36dc0065ed4a3f5f19007f"
+    "revision": "537bcf2984867c4455e849eaebb6fd0b"
   },
   {
     "url": "plugins/nppftp.html",
-    "revision": "46473a18e39d83cec933121bc515ab87"
+    "revision": "feb32d2e3306e92cee39706c2bcce54d"
   },
   {
     "url": "plugins/plugin-manager.html",
-    "revision": "aa23b7bc9b94968edc899471f8fb3f86"
+    "revision": "90901fe40f7019281fcf9891a9de7f61"
   },
   {
     "url": "plugins/regex-helper.html",
-    "revision": "2e9971cf26672bd4341f8e53dcf36a02"
+    "revision": "9492580375f6cb493dd4b08c88b61714"
   },
   {
     "url": "plugins/spell-checker.html",
-    "revision": "f7de290cc2252a1c60784dcf9cf991aa"
+    "revision": "077efd6703f28eceb3492922c3cb58e8"
   },
   {
     "url": "plugins/textfx.html",
-    "revision": "6d7f23d888f9df0b5d2d6a3dd40f9fb6"
+    "revision": "137f823a79be1b1f2c5c36f07c370c0b"
   },
   {
     "url": "preferences/autocompletion.html",
-    "revision": "6512594ac262802153016cc12e15db58"
+    "revision": "73f0e069607a567b6b0d245320d65bf9"
   },
   {
     "url": "preferences/cloud.html",
-    "revision": "97ac4c50bb288644cb9006e2810a0acb"
+    "revision": "8a8924286ab52a40b6b5dc4dece1324c"
   },
   {
     "url": "preferences/coloration.html",
-    "revision": "05597cca7ad0d1128575d60dfd4ef7e4"
+    "revision": "2573ff71d6994f8adf61b77409c22827"
   },
   {
     "url": "preferences/delimiteur.html",
-    "revision": "660ce4a7a46b09446ec1708bef6fdeae"
+    "revision": "1a21cd2bc76026abffcdb09533d2ae87"
   },
   {
     "url": "preferences/divers.html",
-    "revision": "84d44b3595313331264c40fbf51611de"
+    "revision": "a5e121b4ec27e3e5482d892148c3670d"
   },
   {
     "url": "preferences/dossier-par-defaut.html",
-    "revision": "8849ea8b17cc9f333225b0325bdba4a5"
+    "revision": "f6f3aee5ff3487d0e0995bafc12b560c"
   },
   {
     "url": "preferences/edition.html",
-    "revision": "77f3ad409508819c614e44215bf1fee9"
+    "revision": "435961d54682e094a904a9ffc28e6307"
   },
   {
     "url": "preferences/extensions.html",
-    "revision": "c0990d21e494fa6f39fc985ef6b4d8cf"
+    "revision": "1ebc279303efee59c616436e0e677ea1"
   },
   {
     "url": "preferences/general.html",
-    "revision": "021d7bc9f32129bdf8fb032a42587b4c"
+    "revision": "5c5e8de1954dc7703b390b26065367e0"
   },
   {
     "url": "preferences/historique.html",
-    "revision": "66024bec658fe7ad2c02b68c27295ee1"
+    "revision": "22b31dd3e9715be0dfceceac074ad010"
   },
   {
     "url": "preferences/impression.html",
-    "revision": "66fa48d03857ea0224c905803cd492df"
+    "revision": "c987d7caec620d101a9642d6de477d20"
   },
   {
     "url": "preferences/index.html",
-    "revision": "2d287b2b997e1697eadd8b91ce004ee3"
+    "revision": "1911322d2f2061159cd4443be3c45d43"
   },
   {
     "url": "preferences/instance.html",
-    "revision": "cc7a7b09c86f6abadd3fe032b777b9b5"
+    "revision": "76e4590ae5b81b22e8cfb40f2b0ff772"
   },
   {
     "url": "preferences/langage.html",
-    "revision": "e9be501ed7f1da54338dcd8a6f31d0d3"
+    "revision": "d54c32f8f16ea0f60675239db805bdfb"
   },
   {
     "url": "preferences/moteur-de-recherche.html",
-    "revision": "d0afd3b7d698952c15a36a0b24e2b177"
+    "revision": "312ea11cb82bbbd7b29c6604b99ac81f"
   },
   {
     "url": "preferences/nouveau-document.html",
-    "revision": "82162371b6721a3b9dec1c583007197a"
+    "revision": "c7d18753ed0de69f5139d3dc34a6b7bd"
   },
   {
     "url": "preferences/sauvegarde.html",
-    "revision": "a8d823a36dd821e811a68817d3ec3f5c"
+    "revision": "ab5dc41d3725c4f8674b45cfea2c0268"
   },
   {
     "url": "raccourcis-clavier.html",
-    "revision": "ddb2c18ed092b8e729c3fa85069f0be4"
+    "revision": "441d681d390844402efea5200c7eaa52"
   },
   {
     "url": "recherches-et-remplacements.html",
-    "revision": "245810972ea2cc4c62b946a03e4a8452"
+    "revision": "b0428e241012488697d22e2dbe285ca9"
   },
   {
     "url": "shortcut-mapper.html",
-    "revision": "facf19a4640497fe773479ece19c287b"
+    "revision": "cc2b28cc267ed4dd0092d0eea8d76e4c"
   },
   {
     "url": "sommaire-complet.html",
-    "revision": "14052646da996cfaf5a4860e00080a96"
+    "revision": "b2bb32645aff54ebb1c70b79f8c37553"
   },
   {
     "url": "supprimer-des-decimales.html",
-    "revision": "f96e70d51bf3759de84c3f7cae9c3396"
+    "revision": "d7c463b7cd22facbc2e8824777927040"
   },
   {
     "url": "supprimer-des-retours-a-la-ligne.html",
-    "revision": "16f6d91fcf554a6e9dff053663feaefa"
+    "revision": "540aee66517255826ca06507885546e7"
   },
   {
     "url": "telechargement.html",
-    "revision": "a4e102db9c600f9f5aac88171e5e23e3"
+    "revision": "5126f09c6473769b8151818b618dc645"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
