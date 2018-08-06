@@ -9,7 +9,7 @@ Notepad++ n'installera pas de logiciels tiers, de bandeaux publicitaires et l'in
 
 ## Mac et Linux
 
-Notepad++ est un logiciel propre à Windows. Il n'existe pas et n'existera jamais de version Mac ou Linux, pour lesquels existent un grand nombre d'alternatives de grande qualité. Il est possible, en dernier recours, de l'[installer sous Linux](installation-sous-linux.md).
+Notepad++ est un logiciel propre à Windows. Il n'existe pas et n'existera jamais de version Mac ou Linux, pour lesquels existent un grand nombre d'[alternatives](alternatives.md) de grande qualité. Il est possible, en dernier recours, de l'[installer sous Linux](installation-sous-linux.md).
 
 ## Détails de l'installation
 
