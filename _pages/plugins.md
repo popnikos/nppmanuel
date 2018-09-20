@@ -32,3 +32,10 @@ L'archive contient parfois un dossier `Config` dont le contenu doit être placé
     %APPDATA%\Notepad++\plugins\config
 
 Pour finir, relancer Notepad++.
+
+## Installation (Ubuntu 18.04)
+Si vous avez installer Notepad plus plus via `snap` il faut extraire le zip dans `~/snap/notepad-plus-plus/current/notepad-plus-plus/plugins/[Nom du plugin]`.
+
+Si le plugin contient un dossier `Config`, extraire le contenu de ce répertoire dans `~/snap/notepad-plus-plus/current/notepad-plus-plus/plugins`
+
+Veillez également pour les autres dossiers dans le zip à vérifier si des fichiers doivent être copiés dans des endroit spécifiques
